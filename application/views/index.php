@@ -21,7 +21,7 @@
 
 <!-- section -->
 
-	<a title="Your Cart Items" href="shop-cart.html" class="shopping-cart" data-toggle="tooltip">Cart <i class="fa fa-shopping-bag"></i><span>02</span></a>
+	<a title="Your Cart Items" href="shop-cart.php" class="shopping-cart" data-toggle="tooltip">Cart <i class="fa fa-shopping-bag"></i><span>02</span></a>
 
 <div class="bottombar">
 		<div class="container">

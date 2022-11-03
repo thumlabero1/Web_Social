@@ -1,4 +1,4 @@
-<div class="fixed-sidebar right">
+<div class="fixed-sidebar rigphp">
 		<div class="chat-friendz">
 			<ul class="chat-users">
 				<li>
@@ -138,4 +138,4 @@
 				</div>
 			</div>
 		</div>
-	</div><!-- right sidebar user chat -->
+	</div><!-- rigphp sidebar user chat -->

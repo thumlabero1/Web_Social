@@ -51,7 +51,7 @@
 							<img alt="" src="images/resources/admin.jpg">
 						</figure>
 						<div class="friend-name">
-							<ins><a title="" href="time-line.html">Jack Carter</a> share <a title="" href="#">link</a></ins>
+							<ins><a title="" href="time-line.php">Jack Carter</a> share <a title="" href="#">link</a></ins>
 							<span>Yesterday with @Jack Piller and @Emily Stone at the concert of # Rock'n'Rolla in Ontario.</span>
 						</div>
 					</div>

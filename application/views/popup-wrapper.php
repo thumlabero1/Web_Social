@@ -96,7 +96,7 @@
 							<img alt="" src="images/resources/admin.jpg">
 						</figure>
 						<div class="friend-name">
-							<ins><a title="" href="time-line.html">Jack Carter</a> share <a title="" href="#">link</a></ins>
+							<ins><a title="" href="time-line.php">Jack Carter</a> share <a title="" href="#">link</a></ins>
 							<span>Yesterday with @Jack Piller and @Emily Stone at the concert of # Rock'n'Rolla in Ontario.</span>
 						</div>
 					</div>
@@ -254,7 +254,7 @@
 										<img alt="" src="images/resources/nearly3.jpg">
 									</div>
 									<div class="we-comment">
-										<h5><a title="" href="time-line.html">Jason borne</a></h5>
+										<h5><a title="" href="time-line.php">Jason borne</a></h5>
 										<p>we are working for the dance and sing songs. this video is very awesome for the youngster. please vote this video and like our channel</p>
 										<div class="inline-itms">
 											<span>1 year ago</span>
@@ -269,7 +269,7 @@
 										<img alt="" src="images/resources/comet-4.jpg">
 									</div>
 									<div class="we-comment">
-										<h5><a title="" href="time-line.html">Sophia</a></h5>
+										<h5><a title="" href="time-line.php">Sophia</a></h5>
 										<p>we are working for the dance and sing songs. this video is very awesome for the youngster.
 											<i class="em em-smiley"></i>
 										</p>
@@ -285,7 +285,7 @@
 										<img alt="" src="images/resources/comet-4.jpg">
 									</div>
 									<div class="we-comment">
-										<h5><a title="" href="time-line.html">Sophia</a></h5>
+										<h5><a title="" href="time-line.php">Sophia</a></h5>
 										<p>we are working for the dance and sing songs. this video is very awesome for the youngster.
 											<i class="em em-smiley"></i>
 										</p>
