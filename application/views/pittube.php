@@ -2141,8 +2141,8 @@
 		</div>
 	</div><!-- send message popup -->	
 	
-	<script src="js/main.min.js"></script>
-	<script src="js/script.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/main.min.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/script.js"></script>
 
 </body>	
 

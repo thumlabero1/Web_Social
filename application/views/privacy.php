@@ -1256,8 +1256,8 @@ We value the privacy of our users and their rights to control their personal dat
 		</form>
 	</div><!-- side panel -->		
 	
-	<script src="js/main.min.js"></script>
-	<script src="js/script.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/main.min.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/script.js"></script>
 
 </body>	
 

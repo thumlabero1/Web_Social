@@ -2,19 +2,7 @@
 <html lang="en">
 <?php require_once 'header.php'; ?>
 <body>
-<div class="wavy-wraper">
-		<div class="wavy">
-		  <span style="--i:1;">p</span>
-		  <span style="--i:2;">i</span>
-		  <span style="--i:3;">t</span>
-		  <span style="--i:4;">n</span>
-		  <span style="--i:5;">i</span>
-		  <span style="--i:6;">k</span>
-		  <span style="--i:7;">.</span>
-		  <span style="--i:8;">.</span>
-		  <span style="--i:9;">.</span>
-		</div>
-	</div>
+<?php require_once 'wavy-wrapper.php'; ?>
 <div class="theme-layout">
 
 	<div class="responsive-header">
@@ -1873,8 +1861,8 @@
 		</div>
 	</div><!-- report popup -->
 	
-	<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/main.min.js"></script>
-	<script src="js/script.js"></script>
+	<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="<?php echo base_url(''); ?>/public/js/main.min.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/script.js"></script>
 
 </body>	
 

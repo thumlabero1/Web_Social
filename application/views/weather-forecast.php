@@ -1538,9 +1538,9 @@
 
 	
 
-	<script src="js/main.min.js"></script>
-	<script src="js/script.js"></script>
-	<script src="js/jquery.eventCalendar.min.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/main.min.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/script.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/jquery.eventCalendar.min.js"></script>
 
 </body>	
 

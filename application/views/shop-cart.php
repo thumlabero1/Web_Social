@@ -1819,12 +1819,12 @@
 		</div>
 	</div><!-- create post popup -->
 	
-	<script src="js/main.min.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/main.min.js"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8c55_YHLvDHGACkQscgbGLtLRdxBDCfI"></script>
-	<script src="js/locationpicker.jquery.js"></script>
-	<script src="js/map-init.js"></script>
-	<script src="js/userincr.js"></script><!-- Increment prodcut button-->
-	<script src="js/script.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/locationpicker.jquery.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/map-init.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/userincr.js"></script><!-- Increment prodcut button-->
+	<script src="<?php echo base_url(''); ?>/public/js/script.js"></script>
 	<script>
 		jQuery(document).ready(function($) {
 			

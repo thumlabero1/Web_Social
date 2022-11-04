@@ -1694,10 +1694,10 @@
 		</form>
 	</div><!-- side panel -->		
 	
-	<script src="js/main.min.js"></script>
-	<script src="js/form-validation.js"></script>
-	<script src="js/script.js"></script>
-	<script src="js/jquery.cookieBar.min.js"></script><!-- cookies bar -->
+	<script src="<?php echo base_url(''); ?>/public/js/main.min.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/form-validation.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/script.js"></script>
+	<script src="<?php echo base_url(''); ?>/public/js/jquery.cookieBar.min.js"></script><!-- cookies bar -->
 
 	<script>
 		// Cookie Bar initialization
