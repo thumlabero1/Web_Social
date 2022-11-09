@@ -13,7 +13,7 @@
             	<div class="col-lg-12">
 					<div class="coming-head">
 						<div class="logo">
-							<a href="index.php" title=""><img src="images/logo.png" alt=""></a>
+							<a href="index" title=""><img src="images/logo.png" alt=""></a>
 						</div>
 						<ul class="social-circle ">
 							<li><a class="facebook-color" href="#" title=""><i class="fa fa-facebook"></i></a></li>

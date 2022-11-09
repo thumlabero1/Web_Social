@@ -127,47 +127,47 @@
 										<ul class="naves">
 											<li>
 												<i class="ti-clipboard"></i>
-												<a href="newsfeed.php" title="">News feed</a>
+												<a href="newsfeed" title="">News feed</a>
 											</li>
 											<li>
 												<i class="ti-mouse-alt"></i>
-												<a href="inbox.php" title="">Inbox</a>
+												<a href="inbox" title="">Inbox</a>
 											</li>
 											<li>
 												<i class="ti-files"></i>
-												<a href="fav-page.php" title="">My pages</a>
+												<a href="fav-page" title="">My pages</a>
 											</li>
 											<li>
 												<i class="ti-user"></i>
-												<a href="timeline-friends.php" title="">friends</a>
+												<a href="timeline-friends" title="">friends</a>
 											</li>
 											<li>
 												<i class="ti-image"></i>
-												<a href="timeline-photos.php" title="">images</a>
+												<a href="timeline-photos" title="">images</a>
 											</li>
 											<li>
 												<i class="ti-video-camera"></i>
-												<a href="timeline-videos.php" title="">videos</a>
+												<a href="timeline-videos" title="">videos</a>
 											</li>
 											<li>
 												<i class="ti-comments-smiley"></i>
-												<a href="messages.php" title="">Messages</a>
+												<a href="messages" title="">Messages</a>
 											</li>
 											<li>
 												<i class="ti-bell"></i>
-												<a href="notifications.php" title="">Notifications</a>
+												<a href="notifications" title="">Notifications</a>
 											</li>
 											<li>
 												<i class="ti-share"></i>
-												<a href="people-nearby.php" title="">People Nearby</a>
+												<a href="people-nearby" title="">People Nearby</a>
 											</li>
 											<li>
 												<i class="fa fa-bar-chart-o"></i>
-												<a href="insights.php" title="">insights</a>
+												<a href="insights" title="">insights</a>
 											</li>
 											<li>
 												<i class="ti-power-off"></i>
-												<a href="landing.php" title="">Logout</a>
+												<a href="landing" title="">Logout</a>
 											</li>
 										</ul>
 									</div><!-- Shortcuts -->
@@ -178,7 +178,7 @@
 												<div class="activity-meta">
 													<i>10 hours Ago</i>
 													<span><a href="#" title="">Commented on Video posted </a></span>
-													<h6>by <a href="time-line.php">black demon.</a></h6>
+													<h6>by <a href="time-line">black demon.</a></h6>
 												</div>
 											</li>
 											<li>
@@ -202,35 +202,35 @@
 											<li>
 												<figure><img src="images/resources/friend-avatar2.jpg" alt=""></figure>
 												<div class="friend-meta">
-													<h4><a href="time-line.php" title="">Kelly Bill</a></h4>
+													<h4><a href="time-line" title="">Kelly Bill</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
 												<figure><img src="images/resources/friend-avatar4.jpg" alt=""></figure>
 												<div class="friend-meta">
-													<h4><a href="time-line.php" title="">Issabel</a></h4>
+													<h4><a href="time-line" title="">Issabel</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
 												<figure><img src="images/resources/friend-avatar6.jpg" alt=""></figure>
 												<div class="friend-meta">
-													<h4><a href="time-line.php" title="">Andrew</a></h4>
+													<h4><a href="time-line" title="">Andrew</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
 												<figure><img src="images/resources/friend-avatar8.jpg" alt=""></figure>
 												<div class="friend-meta">
-													<h4><a href="time-line.php" title="">Sophia</a></h4>
+													<h4><a href="time-line" title="">Sophia</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
 												<figure><img src="images/resources/friend-avatar3.jpg" alt=""></figure>
 												<div class="friend-meta">
-													<h4><a href="time-line.php" title="">Allen</a></h4>
+													<h4><a href="time-line" title="">Allen</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
@@ -451,7 +451,7 @@
 															</ul>
 														</div>
 													</div>
-													<ins><a href="time-line.php" title="">Jack Carter</a> Post Album</ins>
+													<ins><a href="time-line" title="">Jack Carter</a> Post Album</ins>
 													<span><i class="fa fa-globe"></i> published: September,15 2020 19:PM </span>
 												</div>
 												<div class="post-meta">
@@ -555,7 +555,7 @@
 																<img src="images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Jason borne</a></h5>
+																<h5><a href="time-line" title="">Jason borne</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster. please vote this video and like our channel</p>
 																<div class="inline-itms">
 																	<span>1 year ago</span>
@@ -570,7 +570,7 @@
 																<img src="images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Sophia</a></h5>
+																<h5><a href="time-line" title="">Sophia</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster.
 																	<i class="em em-smiley"></i>
 																</p>
@@ -645,7 +645,7 @@
 															</ul>
 														</div>
 													</div>
-													<ins><a href="time-line.php" title="">Jack Carter</a> share <a href="#" title="">link</a></ins>
+													<ins><a href="time-line" title="">Jack Carter</a> share <a href="#" title="">link</a></ins>
 													<span><i class="fa fa-globe"></i> published: january,5 2010 19:PM </span>
 												</div>
 												<div class="post-meta">
@@ -728,7 +728,7 @@
 																<img src="images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Jason borne</a></h5>
+																<h5><a href="time-line" title="">Jason borne</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster. please vote this video and like our channel</p>
 																<div class="inline-itms">
 																	<span>1 year ago</span>
@@ -743,7 +743,7 @@
 																<img src="images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Sophia</a></h5>
+																<h5><a href="time-line" title="">Sophia</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster.
 																	<i class="em em-smiley"></i>
 																</p>
@@ -816,7 +816,7 @@
 															</ul>
 														</div>
 													</div>
-													<ins><a href="time-line.php" title="">Digital Market</a></ins>
+													<ins><a href="time-line" title="">Digital Market</a></ins>
 													<span>sponsored <i class="fa fa-globe"></i></span>
 													
 												</div>
@@ -890,7 +890,7 @@
 																<img src="images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Jason borne</a></h5>
+																<h5><a href="time-line" title="">Jason borne</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster. please vote this video and like our channel</p>
 																<div class="inline-itms">
 																	<span>1 year ago</span>
@@ -905,7 +905,7 @@
 																<img src="images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Sophia</a></h5>
+																<h5><a href="time-line" title="">Sophia</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster.
 																	<i class="em em-smiley"></i>
 																</p>
@@ -979,7 +979,7 @@
 															</ul>
 														</div>
 													</div>
-													<ins><a title="" href="time-line.php">Janice Griffith</a></ins>
+													<ins><a title="" href="time-line">Janice Griffith</a></ins>
 													<span>published: june,2 2010 19:PM</span>
 												</div>
 												<div class="description">
@@ -1056,7 +1056,7 @@
 																<img src="images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Jason borne</a></h5>
+																<h5><a href="time-line" title="">Jason borne</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster. please vote this video and like our channel</p>
 																<div class="inline-itms">
 																	<span>1 year ago</span>
@@ -1071,7 +1071,7 @@
 																<img src="images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Sophia</a></h5>
+																<h5><a href="time-line" title="">Sophia</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster.
 																	<i class="em em-smiley"></i>
 																</p>
@@ -1145,7 +1145,7 @@
 															</ul>
 														</div>
 													</div>
-													<ins><a href="time-line.php" title="">Mathilda Brinker</a></ins>
+													<ins><a href="time-line" title="">Mathilda Brinker</a></ins>
 													<span>published: june,2 2020 19:PM</span>
 												</div>
 												<div class="post-meta">
@@ -1214,7 +1214,7 @@
 																<img src="images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Jason borne</a></h5>
+																<h5><a href="time-line" title="">Jason borne</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster. please vote this video and like our channel</p>
 																<div class="inline-itms">
 																	<span>1 year ago</span>
@@ -1229,7 +1229,7 @@
 																<img src="images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Sophia</a></h5>
+																<h5><a href="time-line" title="">Sophia</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster.
 																	<i class="em em-smiley"></i>
 																</p>
@@ -1303,7 +1303,7 @@
 															</ul>
 														</div>
 													</div>
-													<ins><a href="time-line.php" title="">Sophia</a> shared location</ins>
+													<ins><a href="time-line" title="">Sophia</a> shared location</ins>
 													<span><i class="fa fa-globe"></i> published: january,5 2010 19:PM</span>
 												</div>
 												<div class="post-meta">
@@ -1377,7 +1377,7 @@
 																<img src="images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Jason borne</a></h5>
+																<h5><a href="time-line" title="">Jason borne</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster. please vote this video and like our channel</p>
 																<div class="inline-itms">
 																	<span>1 year ago</span>
@@ -1392,7 +1392,7 @@
 																<img src="images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Sophia</a></h5>
+																<h5><a href="time-line" title="">Sophia</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster.
 																	<i class="em em-smiley"></i>
 																</p>
@@ -1466,7 +1466,7 @@
 															</ul>
 														</div>
 													</div>
-													<ins><a href="time-line.php" title="">Jack Carter</a> share <a href="#" title="">link</a></ins>
+													<ins><a href="time-line" title="">Jack Carter</a> share <a href="#" title="">link</a></ins>
 													<span><i class="fa fa-globe"></i> published: january,5 2010 19:PM </span>
 												</div>
 												<div class="post-meta">
@@ -1549,7 +1549,7 @@
 																<img src="images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Jason borne</a></h5>
+																<h5><a href="time-line" title="">Jason borne</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster. please vote this video and like our channel</p>
 																<div class="inline-itms">
 																	<span>1 year ago</span>
@@ -1564,7 +1564,7 @@
 																<img src="images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
-																<h5><a href="time-line.php" title="">Sophia</a></h5>
+																<h5><a href="time-line" title="">Sophia</a></h5>
 																<p>we are working for the dance and sing songs. this video is very awesome for the youngster.
 																	<i class="em em-smiley"></i>
 																</p>
@@ -1629,8 +1629,8 @@
 											</figure>
 											<div class="page-meta">
 												<a href="#" title="" class="underline">My Creative Page</a>
-												<span><i class="ti-comment"></i><a href="insight.php" title="">Messages <em>9</em></a></span>
-												<span><i class="ti-bell"></i><a href="insight.php" title="">Notifications <em>2</em></a></span>
+												<span><i class="ti-comment"></i><a href="insight" title="">Messages <em>9</em></a></span>
+												<span><i class="ti-bell"></i><a href="insight" title="">Notifications <em>2</em></a></span>
 											</div>
 											<ul class="page-publishes">
 												<li>
