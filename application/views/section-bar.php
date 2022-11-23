@@ -8,7 +8,7 @@
 								<aside class="sidebar static left">
 									<div class="widget">
 										<div class="weather-widget low-opacity bluesh">
-											<div class="bg-image" style="background-image: url(images/resources/weather.jpg)"></div>
+											<div class="bg-image" style="background-image: url(../images/resources/weather.jpg)"></div>
 											<span class="refresh-content"><i class="fa fa-refresh"></i></span>
 											<div class="weather-week">
 												<div class="icon sun-shower">
@@ -69,9 +69,9 @@
                             			</div><!-- Weather Widget -->
 									</div><!-- weather widget-->
 									<div class="widget whitish low-opacity">
-										<div style="background-image: url(images/resources/dob2.png)" class="bg-image"></div>
+										<div style="background-image: url(../images/resources/dob2.png)" class="bg-image"></div>
 										<div class="dob-head">
-											<img src="images/resources/sug-page-5.jpg" alt="">
+											<img src="../images/resources/sug-page-5.jpg" alt="">
 											<span>22nd Birthday</span>
 											<div class="dob">
 												<i>19</i>
@@ -79,7 +79,7 @@
 											</div>
 										</div>
 										<div class="dob-meta">
-											<figure><img src="images/resources/dob-cake.gif" alt=""></figure>
+											<figure><img src="../images/resources/dob-cake.gif" alt=""></figure>
 											<h6><a href="#" title="">Lucy Carbel</a> valentine's birthday</h6>
 											<p>leave a message with your best wishes on his profile.</p>
 										</div>
@@ -119,7 +119,7 @@
 									<div class="advertisment-box">
 										<h4 class="">advertisment</h4>
 										<figure>
-											<a href="#" title="Advertisment"><img src="images/resources/ad-widget.gif" alt=""></a>
+											<a href="#" title="Advertisment"><img src="../images/resources/ad-widget.gif" alt=""></a>
 										</figure>
 									</div><!-- advertisment box -->
 									<div class="widget">
@@ -127,7 +127,7 @@
 										<ul class="naves">
 											<li>
 												<i class="ti-clipboard"></i>
-												<a href="newsfeed" title="">News feed</a>
+												<a href="Controllernewsfeed" title="">News feed</a>
 											</li>
 											<li>
 												<i class="ti-mouse-alt"></i>
@@ -135,19 +135,19 @@
 											</li>
 											<li>
 												<i class="ti-files"></i>
-												<a href="fav-page" title="">My pages</a>
+												<a href="Controllerfavpage" title="">My pages</a>
 											</li>
 											<li>
 												<i class="ti-user"></i>
-												<a href="timeline-friends" title="">friends</a>
+												<a href="Controllertimelinefriends" title="">friends</a>
 											</li>
 											<li>
 												<i class="ti-image"></i>
-												<a href="timeline-photos" title="">images</a>
+												<a href="Controllertimelinephotos" title="">images</a>
 											</li>
 											<li>
 												<i class="ti-video-camera"></i>
-												<a href="timeline-videos" title="">videos</a>
+												<a href="Controllertimelinevideos" title="">videos</a>
 											</li>
 											<li>
 												<i class="ti-comments-smiley"></i>
@@ -155,7 +155,7 @@
 											</li>
 											<li>
 												<i class="ti-bell"></i>
-												<a href="notifications" title="">Notifications</a>
+												<a href="Controllernotifications" title="">Notifications</a>
 											</li>
 											<li>
 												<i class="ti-share"></i>
@@ -200,35 +200,35 @@
 										<h4 class="widget-title">Who's follownig</h4>
 										<ul class="followers">
 											<li>
-												<figure><img src="images/resources/friend-avatar2.jpg" alt=""></figure>
+												<figure><img src="../images/resources/friend-avatar2.jpg" alt=""></figure>
 												<div class="friend-meta">
 													<h4><a href="time-line" title="">Kelly Bill</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/friend-avatar4.jpg" alt=""></figure>
+												<figure><img src="../images/resources/friend-avatar4.jpg" alt=""></figure>
 												<div class="friend-meta">
 													<h4><a href="time-line" title="">Issabel</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/friend-avatar6.jpg" alt=""></figure>
+												<figure><img src="../images/resources/friend-avatar6.jpg" alt=""></figure>
 												<div class="friend-meta">
 													<h4><a href="time-line" title="">Andrew</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/friend-avatar8.jpg" alt=""></figure>
+												<figure><img src="../images/resources/friend-avatar8.jpg" alt=""></figure>
 												<div class="friend-meta">
 													<h4><a href="time-line" title="">Sophia</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/friend-avatar3.jpg" alt=""></figure>
+												<figure><img src="../images/resources/friend-avatar3.jpg" alt=""></figure>
 												<div class="friend-meta">
 													<h4><a href="time-line" title="">Allen</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
@@ -243,7 +243,7 @@
 									<span class="create-post">Create post</span>
 									<div class="new-postbox">
 										<figure>
-											<img src="images/resources/admin.jpg" alt="">
+											<img src="../images/resources/admin.jpg" alt="">
 										</figure>
 										<div class="newpst-input">
 											<form method="post">
@@ -312,7 +312,7 @@
 											<div class="col-lg-3 col-md-3 col-sm-3">
 												<div class="story-box">
 													<figure>
-														<img src="images/resources/story-1.jpg" alt="">
+														<img src="../images/resources/story-1.jpg" alt="">
 														<span>Add Your Story</span>
 													</figure>
 													<div class="story-thumb" data-toggle="tooltip" title="Add Your Story">
@@ -323,33 +323,33 @@
 											<div class="col-lg-3 col-md-3 col-sm-3">
 												<div class="story-box">
 													<figure>
-														<img src="images/resources/story-2.jpg" alt="">
+														<img src="../images/resources/story-2.jpg" alt="">
 														<span>Adam James</span>
 													</figure>
 													<div class="story-thumb" data-toggle="tooltip" title="Adam James">
-														<img src="images/resources/thumb-2.jpg" alt="">
+														<img src="../images/resources/thumb-2.jpg" alt="">
 													</div>
 												</div>
 											</div>
 											<div class="col-lg-3 col-md-3 col-sm-3">
 												<div class="story-box">
 													<figure>
-														<img src="images/resources/story-3.jpg" alt="">
+														<img src="../images/resources/story-3.jpg" alt="">
 														<span>Emily grey</span>
 													</figure>
 													<div class="story-thumb" data-toggle="tooltip" title="Emily grey">
-														<img src="images/resources/thumb-3.jpg" alt="">
+														<img src="../images/resources/thumb-3.jpg" alt="">
 													</div>
 												</div>
 											</div>
 											<div class="col-lg-3 col-md-3 col-sm-3">
 												<div class="story-box">
 													<figure>
-														<img src="images/resources/story-4.jpg" alt="">
+														<img src="../images/resources/story-4.jpg" alt="">
 														<span>Jhon Deo</span>
 													</figure>
 													<div class="story-thumb" data-toggle="tooltip" title="Jhon Deo">
-														<img src="images/resources/thumb-4.jpg" alt="">
+														<img src="../images/resources/thumb-4.jpg" alt="">
 													</div>
 												</div>
 											</div>
@@ -362,7 +362,7 @@
 														<div class="stories-users">
 															<h5>Stories</h5>
 															<div class="my-status">
-																<figure><img src="images/resources/friend-avatar10.jpg" alt=""></figure>
+																<figure><img src="../images/resources/friend-avatar10.jpg" alt=""></figure>
 																<a href="#" title="" class="main-btn">Add New</a>
 																<div class="story-user">
 																	<span>My Story</span>
@@ -371,35 +371,35 @@
 															</div>
 															<ul class="frnds-stories">
 																<li>
-																	<figure><img src="images/resources/friend-avatar11.jpg" alt=""></figure>
+																	<figure><img src="../images/resources/friend-avatar11.jpg" alt=""></figure>
 																	<div class="story-user">
 																		<span>Emily doll</span>
 																		<ins>yesterday</ins>
 																	</div>
 																</li>
 																<li>
-																	<figure><img src="images/resources/friend-avatar15.jpg" alt=""></figure>
+																	<figure><img src="../images/resources/friend-avatar15.jpg" alt=""></figure>
 																	<div class="story-user">
 																		<span>Jhon Borny</span>
 																		<ins>3 days ago</ins>
 																	</div>
 																</li>
 																<li>
-																	<figure><img src="images/resources/friend-avatar12.jpg" alt=""></figure>
+																	<figure><img src="../images/resources/friend-avatar12.jpg" alt=""></figure>
 																	<div class="story-user">
 																		<span>Sarah Khan</span>
 																		<ins>2 days ago</ins>
 																	</div>
 																</li>
 																<li>
-																	<figure><img src="images/resources/friend-avatar13.jpg" alt=""></figure>
+																	<figure><img src="../images/resources/friend-avatar13.jpg" alt=""></figure>
 																	<div class="story-user">
 																		<span>Zara Hayat</span>
 																		<ins>1 day ago</ins>
 																	</div>
 																</li>
 																<li>
-																	<figure><img src="images/resources/friend-avatar14.jpg" alt=""></figure>
+																	<figure><img src="../images/resources/friend-avatar14.jpg" alt=""></figure>
 																	<div class="story-user">
 																		<span>Zing Jang</span>
 																		<ins>2 days ago</ins>
@@ -407,7 +407,7 @@
 																</li>
 																
 																<li>
-																	<figure><img src="images/resources/friend-avatar16.jpg" alt=""></figure>
+																	<figure><img src="../images/resources/friend-avatar16.jpg" alt=""></figure>
 																	<div class="story-user">
 																		<span>Emma watson</span>
 																		<ins>jan,12 2020</ins>
@@ -435,7 +435,7 @@
 										<div class="user-post">
 											<div class="friend-info">
 												<figure>
-													<img src="images/resources/nearly1.jpg" alt="">
+													<img src="../images/resources/nearly1.jpg" alt="">
 												</figure>
 												<div class="friend-name">
 													<div class="more">
@@ -464,29 +464,29 @@
 																<div class="col-lg-6 col-md-6 col-sm-6">
 																	<figure>
 																		<a href="#" title="" data-toggle="modal" data-target="#img-comt">
-																		<img src="images/resources/album1.jpg" alt="">
+																		<img src="../images/resources/album1.jpg" alt="">
 																		</a>
 																	</figure>
 																	<figure>
 																		<a href="#" title="" data-toggle="modal" data-target="#img-comt">
-																		<img src="images/resources/album2.jpg" alt="">
+																		<img src="../images/resources/album2.jpg" alt="">
 																		</a>
 																	</figure>
 																</div>
 																<div class="col-lg-6 col-md-6 col-sm-6">
 																	<figure>
 																		<a href="#" title="" data-toggle="modal" data-target="#img-comt">
-																		<img src="images/resources/album6.jpg" alt="">
+																		<img src="../images/resources/album6.jpg" alt="">
 																		</a>
 																	</figure>
 																	<figure>
 																		<a href="#" title="" data-toggle="modal" data-target="#img-comt">
-																		<img src="images/resources/album5.jpg" alt="">
+																		<img src="../images/resources/album5.jpg" alt="">
 																		</a>
 																	</figure>
 																	<figure>
 																		<a href="#" title="" data-toggle="modal" data-target="#img-comt">
-																		<img src="images/resources/album4.jpg" alt="">
+																		<img src="../images/resources/album4.jpg" alt="">
 																		</a>
 																		<div class="more-photos">
 																			<span>+15</span>
@@ -530,19 +530,19 @@
 														</ul>
 														<div class="users-thumb-list">
 															<a data-toggle="tooltip" title="Anderw" href="#">
-																<img alt="" src="images/resources/userlist-1.jpg">  
+																<img alt="" src="../images/resources/userlist-1.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="frank" href="#">
-																<img alt="" src="images/resources/userlist-2.jpg">  
+																<img alt="" src="../images/resources/userlist-2.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Sara" href="#">
-																<img alt="" src="images/resources/userlist-3.jpg">  
+																<img alt="" src="../images/resources/userlist-3.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Amy" href="#">
-																<img alt="" src="images/resources/userlist-4.jpg">  
+																<img alt="" src="../images/resources/userlist-4.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Ema" href="#">
-																<img alt="" src="images/resources/userlist-5.jpg">  
+																<img alt="" src="../images/resources/userlist-5.jpg">  
 															</a>
 															<span><strong>You</strong>, <b>Sarah</b> and <a href="#" title="">24+ more</a> liked</span>
 														</div>
@@ -552,7 +552,7 @@
 													<ul class="we-comet">
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/nearly3.jpg" alt="">
+																<img src="../images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Jason borne</a></h5>
@@ -567,7 +567,7 @@
 														</li>
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/comet-4.jpg" alt="">
+																<img src="../images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Sophia</a></h5>
@@ -586,7 +586,7 @@
 														</li>
 														<li class="post-comment">
 															<div class="comet-avatar">
-																<img src="images/resources/nearly1.jpg" alt="">
+																<img src="../images/resources/nearly1.jpg" alt="">
 															</div>
 															<div class="post-comt-box">
 																<form method="post">
@@ -629,7 +629,7 @@
 										<div class="user-post">
 											<div class="friend-info">
 												<figure>
-													<img src="images/resources/nearly1.jpg" alt="">
+													<img src="../images/resources/nearly1.jpg" alt="">
 												</figure>
 												<div class="friend-name">
 													<div class="more">
@@ -651,7 +651,7 @@
 												<div class="post-meta">
 													<figure>
 														<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip vdeo-link" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }">
-														<img src="images/resources/user-post.jpg" alt="">
+														<img src="../images/resources/user-post.jpg" alt="">
 															<i>
 																<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="55px" width="55px"
 																 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -703,19 +703,19 @@
 														</ul>
 														<div class="users-thumb-list">
 															<a data-toggle="tooltip" title="Anderw" href="#">
-																<img alt="" src="images/resources/userlist-1.jpg">  
+																<img alt="" src="../images/resources/userlist-1.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="frank" href="#">
-																<img alt="" src="images/resources/userlist-2.jpg">  
+																<img alt="" src="../images/resources/userlist-2.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Sara" href="#">
-																<img alt="" src="images/resources/userlist-3.jpg">  
+																<img alt="" src="../images/resources/userlist-3.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Amy" href="#">
-																<img alt="" src="images/resources/userlist-4.jpg">  
+																<img alt="" src="../images/resources/userlist-4.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Ema" href="#">
-																<img alt="" src="images/resources/userlist-5.jpg">  
+																<img alt="" src="../images/resources/userlist-5.jpg">  
 															</a>
 															<span><strong>You</strong>, <b>Sarah</b> and <a href="#" title="">24+ more</a> liked</span>
 														</div>
@@ -725,7 +725,7 @@
 													<ul class="we-comet">
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/nearly3.jpg" alt="">
+																<img src="../images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Jason borne</a></h5>
@@ -740,7 +740,7 @@
 														</li>
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/comet-4.jpg" alt="">
+																<img src="../images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Sophia</a></h5>
@@ -759,7 +759,7 @@
 														</li>
 														<li class="post-comment">
 															<div class="comet-avatar">
-																<img src="images/resources/nearly1.jpg" alt="">
+																<img src="../images/resources/nearly1.jpg" alt="">
 															</div>
 															<div class="post-comt-box">
 																<form method="post">
@@ -800,7 +800,7 @@
 										<div class="user-post">
 											<div class="friend-info">
 												<figure>
-													<img src="images/resources/nearly1.jpg" alt="">
+													<img src="../images/resources/nearly1.jpg" alt="">
 												</figure>
 												<div class="friend-name">
 													<div class="more">
@@ -822,7 +822,7 @@
 												</div>
 												<div class="post-meta">
 													<figure>
-														<img src="images/sponsors.gif" alt="">
+														<img src="../images/sponsors.gif" alt="">
 														<ul class="like-dislike">
 															<li><a class="bg-purple" href="#" title="Save to Pin Post"><i class="fa fa-thumb-tack"></i></a></li>
 															<li><a class="bg-blue" href="#" title="Like Post"><i class="ti-thumb-up"></i></a></li>
@@ -865,19 +865,19 @@
 														</ul>
 														<div class="users-thumb-list">
 															<a data-toggle="tooltip" title="Anderw" href="#">
-																<img alt="" src="images/resources/userlist-1.jpg">  
+																<img alt="" src="../images/resources/userlist-1.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="frank" href="#">
-																<img alt="" src="images/resources/userlist-2.jpg">  
+																<img alt="" src="../images/resources/userlist-2.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Sara" href="#">
-																<img alt="" src="images/resources/userlist-3.jpg">  
+																<img alt="" src="../images/resources/userlist-3.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Amy" href="#">
-																<img alt="" src="images/resources/userlist-4.jpg">  
+																<img alt="" src="../images/resources/userlist-4.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Ema" href="#">
-																<img alt="" src="images/resources/userlist-5.jpg">  
+																<img alt="" src="../images/resources/userlist-5.jpg">  
 															</a>
 															<span><strong>You</strong>, <b>Sarah</b> and <a href="#" title="">24+ more</a> liked</span>
 														</div>
@@ -887,7 +887,7 @@
 													<ul class="we-comet">
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/nearly3.jpg" alt="">
+																<img src="../images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Jason borne</a></h5>
@@ -902,7 +902,7 @@
 														</li>
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/comet-4.jpg" alt="">
+																<img src="../images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Sophia</a></h5>
@@ -921,7 +921,7 @@
 														</li>
 														<li class="post-comment">
 															<div class="comet-avatar">
-																<img src="images/resources/nearly1.jpg" alt="">
+																<img src="../images/resources/nearly1.jpg" alt="">
 															</div>
 															<div class="post-comt-box">
 																<form method="post">
@@ -963,7 +963,7 @@
 										<div class="user-post">
 											<div class="friend-info">
 												<figure>
-													<img alt="" src="images/resources/friend-avatar10.jpg">
+													<img alt="" src="../images/resources/friend-avatar10.jpg">
 												</figure>
 												<div class="friend-name">
 													<div class="more">
@@ -989,7 +989,7 @@
 												</div>
 												<div class="post-meta">
 													<div class="linked-image align-left">
-														<a title="" href="#"><img alt="" src="images/resources/page1.jpg"></a>
+														<a title="" href="#"><img alt="" src="../images/resources/page1.jpg"></a>
 													</div>
 													<div class="detail">
 														<span>Love Maid - HighChill</span>
@@ -1031,19 +1031,19 @@
 														</ul>
 														<div class="users-thumb-list">
 															<a data-toggle="tooltip" title="Anderw" href="#">
-																<img alt="" src="images/resources/userlist-1.jpg">  
+																<img alt="" src="../images/resources/userlist-1.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="frank" href="#">
-																<img alt="" src="images/resources/userlist-2.jpg">  
+																<img alt="" src="../images/resources/userlist-2.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Sara" href="#">
-																<img alt="" src="images/resources/userlist-3.jpg">  
+																<img alt="" src="../images/resources/userlist-3.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Amy" href="#">
-																<img alt="" src="images/resources/userlist-4.jpg">  
+																<img alt="" src="../images/resources/userlist-4.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Ema" href="#">
-																<img alt="" src="images/resources/userlist-5.jpg">  
+																<img alt="" src="../images/resources/userlist-5.jpg">  
 															</a>
 															<span><strong>You</strong>, <b>Sarah</b> and <a href="#" title="">24+ more</a> liked</span>
 														</div>
@@ -1053,7 +1053,7 @@
 													<ul class="we-comet">
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/nearly3.jpg" alt="">
+																<img src="../images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Jason borne</a></h5>
@@ -1068,7 +1068,7 @@
 														</li>
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/comet-4.jpg" alt="">
+																<img src="../images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Sophia</a></h5>
@@ -1087,7 +1087,7 @@
 														</li>
 														<li class="post-comment">
 															<div class="comet-avatar">
-																<img src="images/resources/nearly1.jpg" alt="">
+																<img src="../images/resources/nearly1.jpg" alt="">
 															</div>
 															<div class="post-comt-box">
 																<form method="post">
@@ -1129,7 +1129,7 @@
 										<div class="user-post">
 											<div class="friend-info">
 												<figure>
-													<img src="images/resources/friend-avatar10.jpg" alt="">
+													<img src="../images/resources/friend-avatar10.jpg" alt="">
 												</figure>
 												<div class="friend-name">
 													<div class="more">
@@ -1189,19 +1189,19 @@
 														</ul>
 														<div class="users-thumb-list">
 															<a data-toggle="tooltip" title="Anderw" href="#">
-																<img alt="" src="images/resources/userlist-1.jpg">  
+																<img alt="" src="../images/resources/userlist-1.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="frank" href="#">
-																<img alt="" src="images/resources/userlist-2.jpg">  
+																<img alt="" src="../images/resources/userlist-2.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Sara" href="#">
-																<img alt="" src="images/resources/userlist-3.jpg">  
+																<img alt="" src="../images/resources/userlist-3.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Amy" href="#">
-																<img alt="" src="images/resources/userlist-4.jpg">  
+																<img alt="" src="../images/resources/userlist-4.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Ema" href="#">
-																<img alt="" src="images/resources/userlist-5.jpg">  
+																<img alt="" src="../images/resources/userlist-5.jpg">  
 															</a>
 															<span><strong>You</strong>, <b>Sarah</b> and <a href="#" title="">24+ more</a> liked</span>
 														</div>
@@ -1211,7 +1211,7 @@
 													<ul class="we-comet">
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/nearly3.jpg" alt="">
+																<img src="../images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Jason borne</a></h5>
@@ -1226,7 +1226,7 @@
 														</li>
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/comet-4.jpg" alt="">
+																<img src="../images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Sophia</a></h5>
@@ -1245,7 +1245,7 @@
 														</li>
 														<li class="post-comment">
 															<div class="comet-avatar">
-																<img src="images/resources/nearly1.jpg" alt="">
+																<img src="../images/resources/nearly1.jpg" alt="">
 															</div>
 															<div class="post-comt-box">
 																<form method="post">
@@ -1287,7 +1287,7 @@
 										<div class="user-post">
 											<div class="friend-info">
 												<figure>
-													<img src="images/resources/nearly6.jpg" alt="">
+													<img src="../images/resources/nearly6.jpg" alt="">
 												</figure>
 												<div class="friend-name">
 													<div class="more">
@@ -1352,19 +1352,19 @@
 														</ul>
 														<div class="users-thumb-list">
 															<a data-toggle="tooltip" title="Anderw" href="#">
-																<img alt="" src="images/resources/userlist-1.jpg">  
+																<img alt="" src="../images/resources/userlist-1.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="frank" href="#">
-																<img alt="" src="images/resources/userlist-2.jpg">  
+																<img alt="" src="../images/resources/userlist-2.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Sara" href="#">
-																<img alt="" src="images/resources/userlist-3.jpg">  
+																<img alt="" src="../images/resources/userlist-3.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Amy" href="#">
-																<img alt="" src="images/resources/userlist-4.jpg">  
+																<img alt="" src="../images/resources/userlist-4.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Ema" href="#">
-																<img alt="" src="images/resources/userlist-5.jpg">  
+																<img alt="" src="../images/resources/userlist-5.jpg">  
 															</a>
 															<span><strong>You</strong>, <b>Sarah</b> and <a href="#" title="">24+ more</a> liked</span>
 														</div>
@@ -1374,7 +1374,7 @@
 													<ul class="we-comet">
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/nearly3.jpg" alt="">
+																<img src="../images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Jason borne</a></h5>
@@ -1389,7 +1389,7 @@
 														</li>
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/comet-4.jpg" alt="">
+																<img src="../images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Sophia</a></h5>
@@ -1408,7 +1408,7 @@
 														</li>
 														<li class="post-comment">
 															<div class="comet-avatar">
-																<img src="images/resources/nearly1.jpg" alt="">
+																<img src="../images/resources/nearly1.jpg" alt="">
 															</div>
 															<div class="post-comt-box">
 																<form method="post">
@@ -1450,7 +1450,7 @@
 										<div class="user-post">
 											<div class="friend-info">
 												<figure>
-													<img src="images/resources/nearly1.jpg" alt="">
+													<img src="../images/resources/nearly1.jpg" alt="">
 												</figure>
 												<div class="friend-name">
 													<div class="more">
@@ -1472,7 +1472,7 @@
 												<div class="post-meta">
 													<figure>
 														<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip vdeo-link" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }">
-														<img src="images/resources/user-post.jpg" alt="">
+														<img src="../images/resources/user-post.jpg" alt="">
 															<i>
 																<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="55px" width="55px"
 																 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -1524,19 +1524,19 @@
 														</ul>
 														<div class="users-thumb-list">
 															<a data-toggle="tooltip" title="Anderw" href="#">
-																<img alt="" src="images/resources/userlist-1.jpg">  
+																<img alt="" src="../images/resources/userlist-1.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="frank" href="#">
-																<img alt="" src="images/resources/userlist-2.jpg">  
+																<img alt="" src="../images/resources/userlist-2.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Sara" href="#">
-																<img alt="" src="images/resources/userlist-3.jpg">  
+																<img alt="" src="../images/resources/userlist-3.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Amy" href="#">
-																<img alt="" src="images/resources/userlist-4.jpg">  
+																<img alt="" src="../images/resources/userlist-4.jpg">  
 															</a>
 															<a data-toggle="tooltip" title="Ema" href="#">
-																<img alt="" src="images/resources/userlist-5.jpg">  
+																<img alt="" src="../images/resources/userlist-5.jpg">  
 															</a>
 															<span><strong>You</strong>, <b>Sarah</b> and <a href="#" title="">24+ more</a> liked</span>
 														</div>
@@ -1546,7 +1546,7 @@
 													<ul class="we-comet">
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/nearly3.jpg" alt="">
+																<img src="../images/resources/nearly3.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Jason borne</a></h5>
@@ -1561,7 +1561,7 @@
 														</li>
 														<li>
 															<div class="comet-avatar">
-																<img src="images/resources/comet-4.jpg" alt="">
+																<img src="../images/resources/comet-4.jpg" alt="">
 															</div>
 															<div class="we-comment">
 																<h5><a href="time-line" title="">Sophia</a></h5>
@@ -1580,7 +1580,7 @@
 														</li>
 														<li class="post-comment">
 															<div class="comet-avatar">
-																<img src="images/resources/nearly1.jpg" alt="">
+																<img src="../images/resources/nearly1.jpg" alt="">
 															</div>
 															<div class="post-comt-box">
 																<form method="post">
@@ -1625,7 +1625,7 @@
 										<h4 class="widget-title">Your page</h4>	
 										<div class="your-page">
 											<figure>
-												<a href="#" title=""><img src="images/resources/friend-avatar9.jpg" alt=""></a>
+												<a href="#" title=""><img src="../images/resources/friend-avatar9.jpg" alt=""></a>
 											</figure>
 											<div class="page-meta">
 												<a href="#" title="" class="underline">My Creative Page</a>
@@ -1658,25 +1658,25 @@
 													  <a href="#" title="weekly-likes">35 new likes this week</a>
 													  <div class="users-thumb-list">
 														<a href="#" title="Anderw" data-toggle="tooltip">
-															<img src="images/resources/userlist-1.jpg" alt="">  
+															<img src="../images/resources/userlist-1.jpg" alt="">  
 														</a>
 														<a href="#" title="frank" data-toggle="tooltip">
-															<img src="images/resources/userlist-2.jpg" alt="">  
+															<img src="../images/resources/userlist-2.jpg" alt="">  
 														</a>
 														<a href="#" title="Sara" data-toggle="tooltip">
-															<img src="images/resources/userlist-3.jpg" alt="">  
+															<img src="../images/resources/userlist-3.jpg" alt="">  
 														</a>
 														<a href="#" title="Amy" data-toggle="tooltip">
-															<img src="images/resources/userlist-4.jpg" alt="">  
+															<img src="../images/resources/userlist-4.jpg" alt="">  
 														</a>
 														<a href="#" title="Ema" data-toggle="tooltip">
-															<img src="images/resources/userlist-5.jpg" alt="">  
+															<img src="../images/resources/userlist-5.jpg" alt="">  
 														</a>
 														<a href="#" title="Sophie" data-toggle="tooltip">
-															<img src="images/resources/userlist-6.jpg" alt="">  
+															<img src="../images/resources/userlist-6.jpg" alt="">  
 														</a>
 														<a href="#" title="Maria" data-toggle="tooltip">
-															<img src="images/resources/userlist-7.jpg" alt="">  
+															<img src="../images/resources/userlist-7.jpg" alt="">  
 														</a>  
 													  </div>
 												  </div>
@@ -1685,25 +1685,25 @@
 													  <a href="#" title="weekly-likes">440 new views this week</a>
 													  <div class="users-thumb-list">
 														<a href="#" title="Anderw" data-toggle="tooltip">
-															<img src="images/resources/userlist-1.jpg" alt="">  
+															<img src="../images/resources/userlist-1.jpg" alt="">  
 														</a>
 														<a href="#" title="frank" data-toggle="tooltip">
-															<img src="images/resources/userlist-2.jpg" alt="">  
+															<img src="../images/resources/userlist-2.jpg" alt="">  
 														</a>
 														<a href="#" title="Sara" data-toggle="tooltip">
-															<img src="images/resources/userlist-3.jpg" alt="">  
+															<img src="../images/resources/userlist-3.jpg" alt="">  
 														</a>
 														<a href="#" title="Amy" data-toggle="tooltip">
-															<img src="images/resources/userlist-4.jpg" alt="">  
+															<img src="../images/resources/userlist-4.jpg" alt="">  
 														</a>
 														<a href="#" title="Ema" data-toggle="tooltip">
-															<img src="images/resources/userlist-5.jpg" alt="">  
+															<img src="../images/resources/userlist-5.jpg" alt="">  
 														</a>
 														<a href="#" title="Sophie" data-toggle="tooltip">
-															<img src="images/resources/userlist-6.jpg" alt="">  
+															<img src="../images/resources/userlist-6.jpg" alt="">  
 														</a>
 														<a href="#" title="Maria" data-toggle="tooltip">
-															<img src="images/resources/userlist-7.jpg" alt="">  
+															<img src="../images/resources/userlist-7.jpg" alt="">  
 														</a>  
 													  </div>
 												  </div>
@@ -1716,12 +1716,12 @@
 										<div class="rec-events bg-purple">
 											<i class="ti-gift"></i>
 											<h6><a href="#" title="">Ocean Motel good night event in columbia</a></h6>
-											<img src="images/clock.png" alt="">
+											<img src="../images/clock.png" alt="">
 										</div>
 										<div class="rec-events bg-blue">
 											<i class="ti-microphone"></i>
 											<h6><a href="#" title="">2016 The 3rd International Conference</a></h6>
-											<img src="images/clock.png" alt="">
+											<img src="../images/clock.png" alt="">
 										</div>
 									</div><!-- explore events -->
 									<div class="widget">
@@ -1745,21 +1745,21 @@
 										<h4 class="widget-title">Recent Links <a title="" href="#" class="see-all">See All</a></h4>
 										<ul class="recent-links">
 											<li>
-												<figure><img src="images/resources/recentlink-1.jpg" alt=""></figure>
+												<figure><img src="../images/resources/recentlink-1.jpg" alt=""></figure>
 												<div class="re-links-meta">
 													<h6><a href="#" title="">moira's fade reaches much farther than you think.</a></h6>
 													<span>2 weeks ago </span>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/recentlink-2.jpg" alt=""></figure>
+												<figure><img src="../images/resources/recentlink-2.jpg" alt=""></figure>
 												<div class="re-links-meta">
 													<h6><a href="#" title="">daniel asks if we want him to do the voice of doomfist</a></h6>
 													<span>3 months ago </span>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/recentlink-3.jpg" alt=""></figure>
+												<figure><img src="../images/resources/recentlink-3.jpg" alt=""></figure>
 												<div class="re-links-meta">
 													<h6><a href="#" title="">the pitnik overwatch scandals.</a></h6>
 													<span>1 day before</span>

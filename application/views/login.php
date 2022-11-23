@@ -7,12 +7,12 @@
 	<div class="www-layout">
         <section>
         	<div class="gap no-gap signin whitish medium-opacity">
-                <div class="bg-image" style="background-image:url(images/resources/theme-bg.jpg)"></div>
+                <div class="bg-image" style="background-image:url(../images/resources/theme-bg.jpg)"></div>
                 <div class="container">
                 	<div class="row">
                         <div class="col-lg-8">
                             <div class="big-ad">
-                                <figure><img src="images/logo2.png" alt=""></figure>
+                                <figure><img src="../images/logo2.png" alt=""></figure>
                                 <h1>Welcome to the Pitnik</h1>
                                 <p>
                                      Pitnik is a social network template that can be used to connect people. use this template for multipurpose social activities like job, dating, posting, bloging and much more. Now join & Make Cool Friends around the world !!!                             
@@ -44,13 +44,13 @@
                                     </div>
                                 </div>
                                 <div class="barcode">
-                                    <figure><img src="images/resources/Barcode.jpg" alt=""></figure>
+                                    <figure><img src="../images/resources/Barcode.jpg" alt=""></figure>
                                     <div class="app-download">
                                         <span>Download Mobile App and Scan QR Code to login</span>
                                         <ul class="colla-apps">
-                                            <li><a title="" href="https://play.google.com/store?hl=en"><img src="images/android.png" alt="">android</a></li>
-                                            <li><a title="" href="https://www.apple.com/lae/ios/app-store/"><img src="images/apple.png" alt="">iPhone</a></li>
-                                            <li><a title="" href="https://www.microsoft.com/store/apps"><img src="images/windows.png" alt="">Windows</a></li>
+                                            <li><a title="" href="https://play.google.com/store?hl=en"><img src="../images/android.png" alt="">android</a></li>
+                                            <li><a title="" href="https://www.apple.com/lae/ios/app-store/"><img src="../images/apple.png" alt="">iPhone</a></li>
+                                            <li><a title="" href="https://www.microsoft.com/store/apps"><img src="../images/windows.png" alt="">Windows</a></li>
                                         </ul>
                                     </div>
                                 </div>

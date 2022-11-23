@@ -21,14 +21,14 @@
 
 <!-- section -->
 
-	<a title="Your Cart Items" href="shop-cart.php" class="shopping-cart" data-toggle="tooltip">Cart <i class="fa fa-shopping-bag"></i><span>02</span></a>
+	<a title="Your Cart Items" href="Controllershopcart.php" class="shopping-cart" data-toggle="tooltip">Cart <i class="fa fa-shopping-bag"></i><span>02</span></a>
 
 <div class="bottombar">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
 					<span class="copyright">© Pitnik 2020. All rights reserved.</span>
-					<i><img src="images/credit-cards.png" alt=""></i>
+					<i><img src="../images/credit-cards.png" alt=""></i>
 				</div>
 			</div>
 		</div>
@@ -43,7 +43,7 @@
 	<script src="<?php echo base_url(''); ?>/public/js/main.min.js"></script>
 	<script src="<?php echo base_url(''); ?>/public/js/jquery-stories.js"></script>
 	<script src="<?php echo base_url(''); ?>/public/js/toast-notificatons.js"></script>
-	<script src="../../../cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js"></script><!-- For timeline slide show -->
+	<script src="../../../cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js"></script><!-- For Controllertimeline slide show -->
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8c55_YHLvDHGACkQscgbGLtLRdxBDCfI"></script><!-- for location picker map -->
 	<script src="<?php echo base_url(''); ?>/public/js/locationpicker.jquery.js"></script><!-- for loaction picker map -->
 	<script src="<?php echo base_url(''); ?>/public/js/map-init.js"></script><!-- map initilasition -->

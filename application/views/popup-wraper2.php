@@ -45,10 +45,10 @@
 							<button type="submit"></button>
 						</form>	
 					</div>
-					<figure><img src="images/resources/share-post.jpg" alt=""></figure>
+					<figure><img src="../images/resources/share-post.jpg" alt=""></figure>
 					<div class="friend-info">
 						<figure>
-							<img alt="" src="images/resources/admin.jpg">
+							<img alt="" src="../images/resources/admin.jpg">
 						</figure>
 						<div class="friend-name">
 							<ins><a title="" href="time-line">Jack Carter</a> share <a title="" href="#">link</a></ins>

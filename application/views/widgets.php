@@ -24,10 +24,10 @@
 				<a class="" href="#menu"><i class="fa fa-align-justify"></i></a>
 			</span>
 			<span class="mh-text">
-				<a href="newsfeed" title=""><img src="images/logo2.png" alt=""></a>
+				<a href="Controllernewsfeed" title=""><img src="../images/logo2.png" alt=""></a>
 			</span>
 			<span class="mh-btns-right">
-				<a class="fa fa-sliders" href="#shoppingbag"></a>
+				<a class="fa fa-sliders" href="#Controllershoppingbag"></a>
 			</span>
 		</div>
 		<div class="mh-head second">
@@ -40,122 +40,122 @@
 			<ul>
 				<li><span>Home Pages</span> 
 					<ul>
-						<li><a href="index" title="">Pitnik Default</a></li>
-						<li><a href="company-landing" title="">Company Landing</a></li>
-						<li><a href="pitrest" title="">Pitrest</a></li>
-						<li><a href="redpit" title="">Redpit</a></li>
-						<li><a href="redpit-category" title="">Redpit Category</a></li>
-						<li><a href="soundnik" title="">Soundnik</a></li>
-						<li><a href="soundnik-detail" title="">Soundnik Single</a></li>
-						<li><a href="career" title="">Pitjob</a></li>
-						<li><a href="shop" title="">Shop</a></li>
-						<li><a href="classified" title="">Classified</a></li>
-						<li><a href="pitpoint" title="">PitPoint</a></li>
-						<li><a href="pittube" title="">Pittube</a></li>
-						<li><a href="chat-messenger" title="">Messenger</a></li>
+						<li><a href="Controllerindex" title="">Pitnik Default</a></li>
+						<li><a href="Controllercompanylanding" title="">Company Landing</a></li>
+						<li><a href="Controllerpitrest" title="">Pitrest</a></li>
+						<li><a href="Controllerredpit" title="">Redpit</a></li>
+						<li><a href="Controllerredpitcategory" title="">Redpit Category</a></li>
+						<li><a href="Controllersoundnik" title="">Soundnik</a></li>
+						<li><a href="Controllersoundnikdetail" title="">Soundnik Single</a></li>
+						<li><a href="Controllercareer" title="">Pitjob</a></li>
+						<li><a href="Controllershop" title="">Shop</a></li>
+						<li><a href="Controllerclassified" title="">Classified</a></li>
+						<li><a href="Controllerpitpoint" title="">PitPoint</a></li>
+						<li><a href="Controllerpittube" title="">Pittube</a></li>
+						<li><a href="Controllerchatmessenger" title="">Messenger</a></li>
 					</ul>
 				</li>
 				<li><span>Pittube</span>
 					<ul>
-						<li><a href="pittube" title="">Pittube</a></li>
-						<li><a href="pittube-detail" title="">Pittube single</a></li>
-						<li><a href="pittube-category" title="">Pittube Category</a></li>
-						<li><a href="pittube-channel" title="">Pittube Channel</a></li>
-						<li><a href="pittube-search-result" title="">Pittube Search Result</a></li>
+						<li><a href="Controllerpittube" title="">Pittube</a></li>
+						<li><a href="Controllerpittubedetail" title="">Pittube single</a></li>
+						<li><a href="Controllerpittubecategory" title="">Pittube Category</a></li>
+						<li><a href="Controllerpittubechannel" title="">Pittube Channel</a></li>
+						<li><a href="Controllerpittubesearchresult" title="">Pittube Search Result</a></li>
 					</ul>
 				</li>
 				<li><span>PitPoint</span>
 					<ul>
-						<li><a href="pitpoint" title="">PitPoint</a></li>
-						<li><a href="pitpoint-detail" title="">Pitpoint Detail</a></li>
-						<li><a href="pitpoint-list" title="">Pitpoint List style</a></li>
-						<li><a href="pitpoint-without-baner" title="">Pitpoint without Banner</a></li>
-						<li><a href="pitpoint-search-result" title="">Pitpoint Search</a></li>
+						<li><a href="Controllerpitpoint" title="">PitPoint</a></li>
+						<li><a href="Controllerpitpointdetail" title="">Pitpoint Detail</a></li>
+						<li><a href="Controllerpitpointlist" title="">Pitpoint List style</a></li>
+						<li><a href="Controllerpitpointwithoutbaner" title="">Pitpoint without Banner</a></li>
+						<li><a href="Controllerpitpointsearchresult" title="">Pitpoint Search</a></li>
 					</ul>
 				</li>
 				<li><span>Pitjob</span>
 					<ul>
-						<li><a href="career" title="">Pitjob</a></li>
-						<li><a href="career-detail" title="">Pitjob Detail</a></li>
-						<li><a href="career-search-result" title="">Job seach page</a></li>
-						<li><a href="social-post-detail" title="">Social Post Detail</a></li>
+						<li><a href="Controllercareer" title="">Pitjob</a></li>
+						<li><a href="Controllercareerdetail" title="">Pitjob Detail</a></li>
+						<li><a href="Controllercareersearchresult" title="">Job seach page</a></li>
+						<li><a href="Controllersocialpostdetail" title="">Social Post Detail</a></li>
 					</ul>
 				</li>
 				<li><span>Timeline</span>
 					<ul>
-						<li><a href="timeline" title="">Timeline</a></li>
-						<li><a href="timeline-photos" title="">Timeline Photos</a></li>
-						<li><a href="timeline-videos" title="">Timeline Videos</a></li>
-						<li><a href="timeline-groups" title="">Timeline Groups</a></li>
-						<li><a href="timeline-friends" title="">Timeline Friends</a></li>
-						<li><a href="timeline-friends2" title="">Timeline Friends-2</a></li>
-						<li><a href="about" title="">Timeline About</a></li>
-						<li><a href="blog-posts" title="">Timeline Blog</a></li>
-						<li><a href="friends-birthday" title="">Friends' Birthday</a></li>
-						<li><a href="newsfeed" title="">Newsfeed</a></li>
-						<li><a href="search-result" title="">Search Result</a></li>
+						<li><a href="Controllertimeline" title="">Timeline</a></li>
+						<li><a href="Controllertimelinephotos" title="">Timeline Photos</a></li>
+						<li><a href="Controllertimelinevideos" title="">Timeline Videos</a></li>
+						<li><a href="Controllertimelinegroups" title="">Timeline Groups</a></li>
+						<li><a href="Controllertimelinefriends" title="">Timeline Friends</a></li>
+						<li><a href="Controllertimelinefriends2" title="">Timeline Friends-2</a></li>
+						<li><a href="Controllerabout" title="">Timeline About</a></li>
+						<li><a href="Controllerblogposts" title="">Timeline Blog</a></li>
+						<li><a href="Controllerfriendsbirthday" title="">Friends' Birthday</a></li>
+						<li><a href="Controllernewsfeed" title="">Newsfeed</a></li>
+						<li><a href="Controllersearchresult" title="">Search Result</a></li>
 					</ul>
 				</li>
 				<li><span>Favourit Page</span>
 					<ul>
-						<li><a href="fav-page" title="">Favourit Page</a></li>
-						<li><a href="fav-favers" title="">Fav Page Likers</a></li>
-						<li><a href="fav-events" title="">Fav Events</a></li>
-						<li><a href="fav-event-invitations" title="">Fav Event Invitations</a></li>
-						<li><a href="event-calendar" title="">Event Calendar</a></li>
-						<li><a href="fav-page-create" title="">Create New Page</a></li>
-						<li><a href="price-plans" title="">Price Plan</a></li>
+						<li><a href="Controllerfavpage" title="">Favourit Page</a></li>
+						<li><a href="Controllerfavfavers" title="">Fav Page Likers</a></li>
+						<li><a href="Controllerfavevents" title="">Fav Events</a></li>
+						<li><a href="Controllerfaveventinvitations" title="">Fav Event Invitations</a></li>
+						<li><a href="Controllereventcalendar" title="">Event Calendar</a></li>
+						<li><a href="Controllerfavpagecreate" title="">Create New Page</a></li>
+						<li><a href="Controllerpriceplans" title="">Price Plan</a></li>
 					</ul>
 				</li>
 				<li><span>Forum</span>
 					<ul>
-						<li><a href="forum" title="">Forum</a></li>
-						<li><a href="forum-create-topic" title="">Forum Create Topic</a></li>
-						<li><a href="forum-open-topic" title="">Forum Open Topic</a></li>
-						<li><a href="forums-category" title="">Forum Category</a></li>
+						<li><a href="Controllerforum" title="">Forum</a></li>
+						<li><a href="Controllerforumcreatetopic" title="">Forum Create Topic</a></li>
+						<li><a href="Controllerforumopentopic" title="">Forum Open Topic</a></li>
+						<li><a href="Controllerforumscategory" title="">Forum Category</a></li>
 					</ul>
 				</li>
 				<li><span>Featured</span>
 					<ul>
-						<li><a href="chat-messenger" title="">Messenger (Chatting)</a></li>
-						<li><a href="notifications" title="">Notifications</a></li>
-						<li><a href="badges" title="">Badges</a></li>
-						<li><a href="faq" title="">Faq's</a></li>
-						<li><a href="contribution" title="">Contriburion Page</a></li>
-						<li><a href="manage-page" title="">Manage Page</a></li>
-						<li><a href="weather-forecast" title="">weather-forecast</a></li>
-						<li><a href="statistics" title="">Statics/Analytics</a></li>
-						<li><a href="shop-cart" title="">Shop Cart</a></li>
+						<li><a href="Controllerchatmessenger" title="">Messenger (Chatting)</a></li>
+						<li><a href="Controllernotifications" title="">Notifications</a></li>
+						<li><a href="Controllerbadges" title="">Badges</a></li>
+						<li><a href="Controllerfaq" title="">Faq's</a></li>
+						<li><a href="Controllercontribution" title="">Contriburion Page</a></li>
+						<li><a href="Controllermanagepage" title="">Manage Page</a></li>
+						<li><a href="Controllerweatherforecast" title="">weather-forecast</a></li>
+						<li><a href="Controllerstatistics" title="">Statics/Analytics</a></li>
+						<li><a href="Controllershopcart" title="">Shop Cart</a></li>
 					</ul>
 				</li>
 				<li><span>Account Setting</span>
 					<ul>
-						<li><a href="setting" title="">Setting</a></li>
-						<li><a href="privacy" title="">Privacy</a></li>
-						<li><a href="support-and-help" title="">Support & Help</a></li>
-						<li><a href="support-and-help-detail" title="">Support Detail</a></li>
-						<li><a href="support-and-help-search-result" title="">Support Search</a></li>
+						<li><a href="Controllersetting" title="">Setting</a></li>
+						<li><a href="Controllerprivacy" title="">Privacy</a></li>
+						<li><a href="Controllersupportandhelp" title="">Support & Help</a></li>
+						<li><a href="Controllersupportandhelpdetail" title="">Support Detail</a></li>
+						<li><a href="Controllersupportandhelpsearchresult" title="">Support Search</a></li>
 					</ul>
 				</li>
 				<li><span>Authentication</span>
 					<ul>
-						<li><a href="login" title="">Login Page</a></li>
-						<li><a href="register" title="">Register Page</a></li>
-						<li><a href="logout" title="">Logout Page</a></li>
-						<li><a href="coming-soon" title="">Coming Soon</a></li>
-						<li><a href="error-404" title="">Error 404</a></li>
-						<li><a href="error-404-2" title="">Error 404-2</a></li>
-						<li><a href="error-500" title="">Error 500</a></li>
+						<li><a href="Cotrollerlogin" title="">Login Page</a></li>
+						<li><a href="Controllerregister" title="">Register Page</a></li>
+						<li><a href="Controllerlogout" title="">Logout Page</a></li>
+						<li><a href="Controllercomingsoon" title="">Coming Soon</a></li>
+						<li><a href="Controllererror404" title="">Error 404</a></li>
+						<li><a href="Controllererror4042" title="">Error 404-2</a></li>
+						<li><a href="Controllererror500" title="">Error 500</a></li>
 					</ul>
 				</li>
 				<li><span>Tools</span>
 					<ul>
-						<li><a href="typography" title="">Typography</a></li>
-						<li><a href="popup-modals" title="">Popups/Modals</a></li>
-						<li><a href="post-versions" title="">Post Versions</a></li>
-						<li><a href="sliders" title="">Sliders / Carousel</a></li>
-						<li><a href="google-map" title="">Google Maps</a></li>
-						<li><a href="widgets" title="">Widgets</a></li>
+						<li><a href="Controllertypography" title="">Typography</a></li>
+						<li><a href="Controllerpopupmodals" title="">Popups/Modals</a></li>
+						<li><a href="Controllerpostversions" title="">Post Versions</a></li>
+						<li><a href="Controllersliders" title="">Sliders / Carousel</a></li>
+						<li><a href="Controllergooglemap" title="">Google Maps</a></li>
+						<li><a href="Controllerwidgets" title="">Widgets</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -230,7 +230,7 @@
 	
 	<div class="topbar stick">
 		<div class="logo">
-			<a title="" href="newsfeed"><img src="images/logo.png" alt=""></a>
+			<a title="" href="Controllernewsfeed"><img src="../images/logo.png" alt=""></a>
 		</div>
 		<div class="top-area">
 			<div class="main-menu">
@@ -248,7 +248,7 @@
 			    <span>Widgets</span>
 			 </div>
 			<ul class="setting-area">
-				<li><a href="newsfeed" title="Home" data-ripple=""><i class="fa fa-home"></i></a></li>
+				<li><a href="Controllernewsfeed" title="Home" data-ripple=""><i class="fa fa-home"></i></a></li>
 				<li>
 					<a href="#" title="Friend Requests" data-ripple="">
 						<i class="fa fa-user"></i><em class="bg-red">5</em>
@@ -259,7 +259,7 @@
 							<li>
 								<div>
 									<figure>
-										<img src="images/resources/thumb-2.jpg" alt="">
+										<img src="../images/resources/thumb-2.jpg" alt="">
 									</figure>
 									<div class="mesg-meta">
 										<h6><a href="#" title="">Loren</a></h6>
@@ -275,7 +275,7 @@
 							<li>
 								<div>
 									<figure>
-										<img src="images/resources/thumb-3.jpg" alt="">
+										<img src="../images/resources/thumb-3.jpg" alt="">
 									</figure>
 									<div class="mesg-meta">
 										<h6><a href="#" title="">Tina Trump</a></h6>
@@ -291,7 +291,7 @@
 							<li>
 								<div>
 									<figure>
-										<img src="images/resources/thumb-4.jpg" alt="">
+										<img src="../images/resources/thumb-4.jpg" alt="">
 									</figure>
 									<div class="mesg-meta">
 										<h6><a href="#" title="">Andrew</a></h6>
@@ -307,7 +307,7 @@
 							<li>
 								<div>
 									<figure>
-										<img src="images/resources/thumb-5.jpg" alt="">
+										<img src="../images/resources/thumb-5.jpg" alt="">
 									</figure>
 									<div class="mesg-meta">
 										<h6><a href="#" title="">Dasha</a></h6>
@@ -323,7 +323,7 @@
 							<li>
 								<div>
 									<figure>
-										<img src="images/resources/thumb-1.jpg" alt="">
+										<img src="../images/resources/thumb-1.jpg" alt="">
 									</figure>
 									<div class="mesg-meta">
 										<h6><a href="#" title="">Emily</a></h6>
@@ -348,9 +348,9 @@
 						<span>4 New Notifications <a href="#" title="">Mark all as read</a></span>
 						<ul class="drops-menu">
 							<li>
-								<a href="notifications" title="">
+								<a href="Controllernotifications" title="">
 									<figure>
-										<img src="images/resources/thumb-1.jpg" alt="">
+										<img src="../images/resources/thumb-1.jpg" alt="">
 										<span class="status f-online"></span>
 									</figure>
 									<div class="mesg-meta">
@@ -361,9 +361,9 @@
 								</a>
 							</li>
 							<li>
-								<a href="notifications" title="">
+								<a href="Controllernotifications" title="">
 									<figure>
-										<img src="images/resources/thumb-2.jpg" alt="">
+										<img src="../images/resources/thumb-2.jpg" alt="">
 										<span class="status f-online"></span>
 									</figure>
 									<div class="mesg-meta">
@@ -372,15 +372,15 @@
 										<i>4 hours ago</i>
 										<figure>
 											<span>Today is Marina Valentine’s Birthday! wish for celebrating</span>
-											<img src="images/birthday.png" alt="">
+											<img src="../images/birthday.png" alt="">
 										</figure>
 									</div>
 								</a>
 							</li>
 							<li>
-								<a href="notifications" title="">
+								<a href="Controllernotifications" title="">
 									<figure>
-										<img src="images/resources/thumb-3.jpg" alt="">
+										<img src="../images/resources/thumb-3.jpg" alt="">
 										<span class="status f-online"></span>
 									</figure>
 									<div class="mesg-meta">
@@ -389,15 +389,15 @@
 										<i>Sunday</i>
 										<figure>
 											<span>"Celebrity looks Beautiful in that outfit! We should see each"</span>
-											<img src="images/resources/admin.jpg" alt="">
+											<img src="../images/resources/admin.jpg" alt="">
 										</figure>
 									</div>
 								</a>
 							</li>
 							<li>
-								<a href="notifications" title="">
+								<a href="Controllernotifications" title="">
 									<figure>
-										<img src="images/resources/thumb-4.jpg" alt="">
+										<img src="../images/resources/thumb-4.jpg" alt="">
 										<span class="status f-online"></span>
 									</figure>
 									<div class="mesg-meta">
@@ -409,9 +409,9 @@
 								<span class="tag">New</span>
 							</li>
 							<li>
-								<a href="notifications" title="">
+								<a href="Controllernotifications" title="">
 									<figure>
-										<img src="images/resources/thumb-5.jpg" alt="">
+										<img src="../images/resources/thumb-5.jpg" alt="">
 										<span class="status f-online"></span>
 									</figure>
 									<div class="mesg-meta">
@@ -423,7 +423,7 @@
 								<span class="tag">New</span>
 							</li>
 						</ul>
-						<a href="notifications" title="" class="more-mesg">View All</a>
+						<a href="Controllernotifications" title="" class="more-mesg">View All</a>
 					</div>
 				</li>
 				<li>
@@ -434,7 +434,7 @@
 							<li>
 								<a class="show-mesg" href="#" title="">
 									<figure>
-										<img src="images/resources/thumb-1.jpg" alt="">
+										<img src="../images/resources/thumb-1.jpg" alt="">
 										<span class="status f-online"></span>
 									</figure>
 									<div class="mesg-meta">
@@ -447,7 +447,7 @@
 							<li>
 								<a class="show-mesg" href="#" title="">
 									<figure>
-										<img src="images/resources/thumb-2.jpg" alt="">
+										<img src="../images/resources/thumb-2.jpg" alt="">
 										<span class="status f-offline"></span>
 									</figure>
 									<div class="mesg-meta">
@@ -460,7 +460,7 @@
 							<li>
 								<a class="show-mesg" href="#" title="">
 									<figure>
-										<img src="images/resources/thumb-3.jpg" alt="">
+										<img src="../images/resources/thumb-3.jpg" alt="">
 										<span class="status f-online"></span>
 									</figure>
 									<div class="mesg-meta">
@@ -473,7 +473,7 @@
 							<li>
 								<a class="show-mesg" href="#" title="">
 									<figure>
-										<img src="images/resources/thumb-4.jpg" alt="">
+										<img src="../images/resources/thumb-4.jpg" alt="">
 										<span class="status f-offline"></span>
 									</figure>
 									<div class="mesg-meta">
@@ -487,7 +487,7 @@
 							<li>
 								<a class="show-mesg" href="#" title="">
 									<figure>
-										<img src="images/resources/thumb-5.jpg" alt="">
+										<img src="../images/resources/thumb-5.jpg" alt="">
 										<span class="status f-away"></span>
 									</figure>
 									<div class="mesg-meta">
@@ -499,7 +499,7 @@
 								<span class="tag">New</span>
 							</li>
 						</ul>
-						<a href="chat-messenger" title="" class="more-mesg">View All</a>
+						<a href="Controllerchatmessenger" title="" class="more-mesg">View All</a>
 					</div>
 				</li>
 				<li><a href="#" title="Languages" data-ripple=""><i class="fa fa-globe"></i><em>EN</em></a>
@@ -509,107 +509,52 @@
 							  <ul class="dropdown-meganav-select-list-lang">
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/UK.png">English(UK)
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/UK.png">English(UK)
 								  </a>
 								</li>
 								<li class="active">
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/US.png">English(US)
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/US.png">English(US)
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/DE.png">Deutsch
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/DE.png">Deutsch
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/NED.png">Nederlands
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/NED.png">Nederlands
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/FR.png">Français
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/FR.png">Français
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/SP.png">Español
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/SP.png">Español
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/ARG.png">Español (AR)
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/ARG.png">Español (AR)
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/IT.png">Italiano
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/IT.png">Italiano
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/PT.png">Português (PT)
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/PT.png">Português (PT)
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/BR.png">Português (BR)
-								  </a>
-								</li>
-
-							  </ul>
-							</div>
-							<div class="col-md-3">
-							  <ul class="dropdown-meganav-select-list-lang">
-								<li>
-								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/FIN.png">Suomi
-								  </a>
-								</li>
-								<li>
-								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/SW.png">Svenska
-								  </a>
-								</li>
-								<li>
-								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/DEN.png">Dansk
-								  </a>
-								</li>
-								<li>
-								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/CZ.png">Čeština
-								  </a>
-								</li>
-								<li>
-								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/HUN.png">Magyar
-								  </a>
-								</li>
-								<li>
-								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/ROM.png">Română
-								  </a>
-								</li>
-								<li>
-								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/JP.png">日本語
-								  </a>
-								</li>
-								<li>
-								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/CN.png">简体中文
-								  </a>
-								</li>
-								<li>
-								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/PL.png">Polski
-								  </a>
-								</li>
-								<li>
-								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/GR.png">Ελληνικά
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/BR.png">Português (BR)
 								  </a>
 								</li>
 
@@ -619,52 +564,52 @@
 							  <ul class="dropdown-meganav-select-list-lang">
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/TUR.png">Türkçe
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/FIN.png">Suomi
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/BUL.png">Български
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/SW.png">Svenska
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/ARB.png">العربية
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/DEN.png">Dansk
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/KOR.png">한국어
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/CZ.png">Čeština
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/ISR.png">עברית
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/HUN.png">Magyar
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/LAT.png">Latviski
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/ROM.png">Română
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/UKR.png">Українська
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/JP.png">日本語
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/IND.png">Bahasa Indonesia
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/CN.png">简体中文
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/MAL.png">Bahasa Malaysia
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/PL.png">Polski
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/TAI.png">ภาษาไทย
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/GR.png">Ελληνικά
 								  </a>
 								</li>
 
@@ -674,52 +619,107 @@
 							  <ul class="dropdown-meganav-select-list-lang">
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/CRO.png">Hrvatski
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/TUR.png">Türkçe
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/LIT.png">Lietuvių
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/BUL.png">Български
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/SLO.png">Slovenčina
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/ARB.png">العربية
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/SERB.png">Srpski
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/KOR.png">한국어
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/SLOVE.png">Slovenščina
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/ISR.png">עברית
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/NAM.png">Tiếng Việt
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/LAT.png">Latviski
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/PHI.png">Filipino
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/UKR.png">Українська
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/ICE.png">Íslenska
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/IND.png">Bahasa Indonesia
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/EST.png">Eesti
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/MAL.png">Bahasa Malaysia
 								  </a>
 								</li>
 								<li>
 								  <a href="#">
-									<img title="Image Title" alt="Image Alternative text" src="images/flags/RU.png">Русский
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/TAI.png">ภาษาไทย
+								  </a>
+								</li>
+
+							  </ul>
+							</div>
+							<div class="col-md-3">
+							  <ul class="dropdown-meganav-select-list-lang">
+								<li>
+								  <a href="#">
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/CRO.png">Hrvatski
+								  </a>
+								</li>
+								<li>
+								  <a href="#">
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/LIT.png">Lietuvių
+								  </a>
+								</li>
+								<li>
+								  <a href="#">
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/SLO.png">Slovenčina
+								  </a>
+								</li>
+								<li>
+								  <a href="#">
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/SERB.png">Srpski
+								  </a>
+								</li>
+								<li>
+								  <a href="#">
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/SLOVE.png">Slovenščina
+								  </a>
+								</li>
+								<li>
+								  <a href="#">
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/NAM.png">Tiếng Việt
+								  </a>
+								</li>
+								<li>
+								  <a href="#">
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/PHI.png">Filipino
+								  </a>
+								</li>
+								<li>
+								  <a href="#">
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/ICE.png">Íslenska
+								  </a>
+								</li>
+								<li>
+								  <a href="#">
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/EST.png">Eesti
+								  </a>
+								</li>
+								<li>
+								  <a href="#">
+									<img title="Image Title" alt="Image Alternative text" src="../images/flags/RU.png">Русский
 								  </a>
 								</li>
 							  </ul>
@@ -735,10 +735,10 @@
 						</form>
 						<span>Help with this page</span>
 						<ul class="help-drop">
-							<li><a href="forum" title=""><i class="fa fa-book"></i>Community & Forum</a></li>
-							<li><a href="faq" title=""><i class="fa fa-question-circle-o"></i>FAQs</a></li>
-							<li><a href="career" title=""><i class="fa fa-building-o"></i>Carrers</a></li>
-							<li><a href="privacy" title=""><i class="fa fa-pencil-square-o"></i>Terms & Policy</a></li>
+							<li><a href="Controllerforum" title=""><i class="fa fa-book"></i>Community & Forum</a></li>
+							<li><a href="Controllerfaq" title=""><i class="fa fa-question-circle-o"></i>FAQs</a></li>
+							<li><a href="Controllercareer" title=""><i class="fa fa-building-o"></i>Carrers</a></li>
+							<li><a href="Controllerprivacy" title=""><i class="fa fa-pencil-square-o"></i>Terms & Policy</a></li>
 							<li><a href="#" title=""><i class="fa fa-map-marker"></i>Contact</a></li>
 							<li><a href="#" title=""><i class="fa fa-exclamation-triangle"></i>Report a Problem</a></li>
 						</ul>
@@ -747,7 +747,7 @@
 			</ul>
 			<div class="user-img">
 				<h5>Jack Carter</h5>
-				<img src="images/resources/admin.jpg" alt="">
+				<img src="../images/resources/admin.jpg" alt="">
 				<span class="status f-online"></span>
 				<div class="user-setting">
 					<span class="seting-title">Chat setting <a href="#" title="">see all</a></span>
@@ -758,11 +758,11 @@
 					</ul>
 					<span class="seting-title">User setting <a href="#" title="">see all</a></span>
 					<ul class="log-out">
-						<li><a href="about" title=""><i class="ti-user"></i> view profile</a></li>
-						<li><a href="setting" title=""><i class="ti-pencil-alt"></i>edit profile</a></li>
+						<li><a href="Controllerabout" title=""><i class="ti-user"></i> view profile</a></li>
+						<li><a href="Controllersetting" title=""><i class="ti-pencil-alt"></i>edit profile</a></li>
 						<li><a href="#" title=""><i class="ti-target"></i>activity log</a></li>
-						<li><a href="setting" title=""><i class="ti-settings"></i>account setting</a></li>
-						<li><a href="logout" title=""><i class="ti-power-off"></i>log out</a></li>
+						<li><a href="Controllersetting" title=""><i class="ti-settings"></i>account setting</a></li>
+						<li><a href="Controllerlogout" title=""><i class="ti-power-off"></i>log out</a></li>
 					</ul>
 				</div>
 			</div>
@@ -772,122 +772,122 @@
 			<ul class="nav-list">
 				<li><a class="" href="#" title=""><i class="fa fa-home"></i> Home Pages</a>
 					<ul>
-						<li><a href="index" title="">Pitnik Default</a></li>
-						<li><a href="company-landing" title="">Company Landing</a></li>
-						<li><a href="pitrest" title="">Pitrest</a></li>
-						<li><a href="redpit" title="">Redpit</a></li>
-						<li><a href="redpit-category" title="">Redpit Category</a></li>
-						<li><a href="soundnik" title="">Soundnik</a></li>
-						<li><a href="soundnik-detail" title="">Soundnik Single</a></li>
-						<li><a href="career" title="">Pitjob</a></li>
-						<li><a href="shop" title="">Shop</a></li>
-						<li><a href="classified" title="">Classified</a></li>
-						<li><a href="pitpoint" title="">PitPoint</a></li>
-						<li><a href="pittube" title="">Pittube</a></li>
-						<li><a href="chat-messenger" title="">Messenger</a></li>
+						<li><a href="Controllerindex" title="">Pitnik Default</a></li>
+						<li><a href="Controllercompanylanding" title="">Company Landing</a></li>
+						<li><a href="Controllerpitrest" title="">Pitrest</a></li>
+						<li><a href="Controllerredpit" title="">Redpit</a></li>
+						<li><a href="Controllerredpitcategory" title="">Redpit Category</a></li>
+						<li><a href="Controllersoundnik" title="">Soundnik</a></li>
+						<li><a href="Controllersoundnikdetail" title="">Soundnik Single</a></li>
+						<li><a href="Controllercareer" title="">Pitjob</a></li>
+						<li><a href="Controllershop" title="">Shop</a></li>
+						<li><a href="Controllerclassified" title="">Classified</a></li>
+						<li><a href="Controllerpitpoint" title="">PitPoint</a></li>
+						<li><a href="Controllerpittube" title="">Pittube</a></li>
+						<li><a href="Controllerchatmessenger" title="">Messenger</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-film"></i> Pittube</a>
 					<ul>
-						<li><a href="pittube" title="">Pittube</a></li>
-						<li><a href="pittube-detail" title="">Pittube single</a></li>
-						<li><a href="pittube-category" title="">Pittube Category</a></li>
-						<li><a href="pittube-channel" title="">Pittube Channel</a></li>
-						<li><a href="pittube-search-result" title="">Pittube Search Result</a></li>
+						<li><a href="Controllerpittube" title="">Pittube</a></li>
+						<li><a href="Controllerpittubedetail" title="">Pittube single</a></li>
+						<li><a href="Controllerpittubecategory" title="">Pittube Category</a></li>
+						<li><a href="Controllerpittubechannel" title="">Pittube Channel</a></li>
+						<li><a href="Controllerpittubesearchresult" title="">Pittube Search Result</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-female"></i> PitPoint</a>
 					<ul>
-						<li><a href="pitpoint" title="">PitPoint</a></li>
-						<li><a href="pitpoint-detail" title="">Pitpoint Detail</a></li>
-						<li><a href="pitpoint-list" title="">Pitpoint List style</a></li>
-						<li><a href="pitpoint-without-baner" title="">Pitpoint without Banner</a></li>
-						<li><a href="pitpoint-search-result" title="">Pitpoint Search</a></li>
+						<li><a href="Controllerpitpoint" title="">PitPoint</a></li>
+						<li><a href="Controllerpitpointdetail" title="">Pitpoint Detail</a></li>
+						<li><a href="Controllerpitpointlist" title="">Pitpoint List style</a></li>
+						<li><a href="Controllerpitpointwithoutbaner" title="">Pitpoint without Banner</a></li>
+						<li><a href="Controllerpitpointsearchresult" title="">Pitpoint Search</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-graduation-cap"></i> Pitjob</a>
 					<ul>
-						<li><a href="career" title="">Pitjob</a></li>
-						<li><a href="career-detail" title="">Pitjob Detail</a></li>
-						<li><a href="career-search-result" title="">Job seach page</a></li>
-						<li><a href="social-post-detail" title="">Social Post Detail</a></li>
+						<li><a href="Controllercareer" title="">Pitjob</a></li>
+						<li><a href="Controllercareerdetail" title="">Pitjob Detail</a></li>
+						<li><a href="Controllercareersearchresult" title="">Job seach page</a></li>
+						<li><a href="Controllersocialpostdetail" title="">Social Post Detail</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-repeat"></i> Timeline</a>
 					<ul>
-						<li><a href="timeline" title="">Timeline</a></li>
-						<li><a href="timeline-photos" title="">Timeline Photos</a></li>
-						<li><a href="timeline-videos" title="">Timeline Videos</a></li>
-						<li><a href="timeline-groups" title="">Timeline Groups</a></li>
-						<li><a href="timeline-friends" title="">Timeline Friends</a></li>
-						<li><a href="timeline-friends2" title="">Timeline Friends-2</a></li>
-						<li><a href="about" title="">Timeline About</a></li>
-						<li><a href="blog-posts" title="">Timeline Blog</a></li>
-						<li><a href="friends-birthday" title="">Friends' Birthday</a></li>
-						<li><a href="newsfeed" title="">Newsfeed</a></li>
-						<li><a href="search-result" title="">Search Result</a></li>
+						<li><a href="Controllertimeline" title="">Timeline</a></li>
+						<li><a href="Controllertimelinephotos" title="">Timeline Photos</a></li>
+						<li><a href="Controllertimelinevideos" title="">Timeline Videos</a></li>
+						<li><a href="Controllertimelinegroups" title="">Timeline Groups</a></li>
+						<li><a href="Controllertimelinefriends" title="">Timeline Friends</a></li>
+						<li><a href="Controllertimelinefriends2" title="">Timeline Friends-2</a></li>
+						<li><a href="Controllerabout" title="">Timeline About</a></li>
+						<li><a href="Controllerblogposts" title="">Timeline Blog</a></li>
+						<li><a href="Controllerfriendsbirthday" title="">Friends' Birthday</a></li>
+						<li><a href="Controllernewsfeed" title="">Newsfeed</a></li>
+						<li><a href="Controllersearchresult" title="">Search Result</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-heart"></i> Favourit Page</a>
 					<ul>
-						<li><a href="fav-page" title="">Favourit Page</a></li>
-						<li><a href="fav-favers" title="">Fav Page Likers</a></li>
-						<li><a href="fav-events" title="">Fav Events</a></li>
-						<li><a href="fav-event-invitations" title="">Fav Event Invitations</a></li>
-						<li><a href="event-calendar" title="">Event Calendar</a></li>
-						<li><a href="fav-page-create" title="">Create New Page</a></li>
-						<li><a href="price-plans" title="">Price Plan</a></li>
+						<li><a href="Controllerfavpage" title="">Favourit Page</a></li>
+						<li><a href="Controllerfavfavers" title="">Fav Page Likers</a></li>
+						<li><a href="Controllerfavevents" title="">Fav Events</a></li>
+						<li><a href="Controllerfaveventinvitations" title="">Fav Event Invitations</a></li>
+						<li><a href="Controllereventcalendar" title="">Event Calendar</a></li>
+						<li><a href="Controllerfavpagecreate" title="">Create New Page</a></li>
+						<li><a href="Controllerpriceplans" title="">Price Plan</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-forumbee"></i> Forum</a>
 					<ul>
-						<li><a href="forum" title="">Forum</a></li>
-						<li><a href="forum-create-topic" title="">Forum Create Topic</a></li>
-						<li><a href="forum-open-topic" title="">Forum Open Topic</a></li>
-						<li><a href="forums-category" title="">Forum Category</a></li>
+						<li><a href="Controllerforum" title="">Forum</a></li>
+						<li><a href="Controllerforumcreatetopic" title="">Forum Create Topic</a></li>
+						<li><a href="Controllerforumopentopic" title="">Forum Open Topic</a></li>
+						<li><a href="Controllerforumscategory" title="">Forum Category</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-star-o"></i> Featured</a>
 					<ul>
-						<li><a href="chat-messenger" title="">Messenger (Chatting)</a></li>
-						<li><a href="notifications" title="">Notifications</a></li>
-						<li><a href="badges" title="">Badges</a></li>
-						<li><a href="faq" title="">Faq's</a></li>
-						<li><a href="contribution" title="">Contriburion Page</a></li>
-						<li><a href="manage-page" title="">Manage Page</a></li>
-						<li><a href="weather-forecast" title="">weather-forecast</a></li>
-						<li><a href="statistics" title="">Statics/Analytics</a></li>
-						<li><a href="shop-cart" title="">Shop Cart</a></li>
+						<li><a href="Controllerchatmessenger" title="">Messenger (Chatting)</a></li>
+						<li><a href="Controllernotifications" title="">Notifications</a></li>
+						<li><a href="Controllerbadges" title="">Badges</a></li>
+						<li><a href="Controllerfaq" title="">Faq's</a></li>
+						<li><a href="Controllercontribution" title="">Contriburion Page</a></li>
+						<li><a href="Controllermanagepage" title="">Manage Page</a></li>
+						<li><a href="Controllerweatherforecast" title="">weather-forecast</a></li>
+						<li><a href="Controllerstatistics" title="">Statics/Analytics</a></li>
+						<li><a href="Controllershopcart" title="">Shop Cart</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-gears"></i> Account Setting</a>
 					<ul>
-						<li><a href="setting" title="">Setting</a></li>
-						<li><a href="privacy" title="">Privacy</a></li>
-						<li><a href="support-and-help" title="">Support & Help</a></li>
-						<li><a href="support-and-help-detail" title="">Support Detail</a></li>
-						<li><a href="support-and-help-search-result" title="">Support Search</a></li>
+						<li><a href="Controllersetting" title="">Setting</a></li>
+						<li><a href="Controllerprivacy" title="">Privacy</a></li>
+						<li><a href="Controllersupportandhelp" title="">Support & Help</a></li>
+						<li><a href="Controllersupportandhelpdetail" title="">Support Detail</a></li>
+						<li><a href="Controllersupportandhelpsearchresult" title="">Support Search</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-lock"></i> Authentication</a>
 					<ul>
-						<li><a href="login" title="">Login Page</a></li>
-						<li><a href="register" title="">Register Page</a></li>
-						<li><a href="logout" title="">Logout Page</a></li>
-						<li><a href="coming-soon" title="">Coming Soon</a></li>
-						<li><a href="error-404" title="">Error 404</a></li>
-						<li><a href="error-404-2" title="">Error 404-2</a></li>
-						<li><a href="error-500" title="">Error 500</a></li>
+						<li><a href="Controllerlogin" title="">Login Page</a></li>
+						<li><a href="Controllerregister" title="">Register Page</a></li>
+						<li><a href="Controllerlogout" title="">Logout Page</a></li>
+						<li><a href="Controllercomingsoon" title="">Coming Soon</a></li>
+						<li><a href="Controllererror404" title="">Error 404</a></li>
+						<li><a href="Controllererror4042" title="">Error 404-2</a></li>
+						<li><a href="Controllererror500" title="">Error 500</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-wrench"></i> Tools</a>
 					<ul>
-						<li><a href="typography" title="">Typography</a></li>
-						<li><a href="popup-modals" title="">Popups/Modals</a></li>
-						<li><a href="post-versions" title="">Post Versions</a></li>
-						<li><a href="sliders" title="">Sliders / Carousel</a></li>
-						<li><a href="google-map" title="">Google Maps</a></li>
-						<li><a href="widgets" title="">Widgets</a></li>
+						<li><a href="Controllertypography" title="">Typography</a></li>
+						<li><a href="Controllerpopupmodals" title="">Popups/Modals</a></li>
+						<li><a href="Controllerpostversions" title="">Post Versions</a></li>
+						<li><a href="Controllersliders" title="">Sliders / Carousel</a></li>
+						<li><a href="Controllergooglemap" title="">Google Maps</a></li>
+						<li><a href="Controllerwidgets" title="">Widgets</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -903,7 +903,7 @@
 					Welcome to Pitnik Social Network. Here you’ll find all the widgets which are usages in the whole template and ready made elemets as you want. you can use to show on your custom pages.
 				</p>
 			</div>
-			<figure><img src="images/resources/baner-forum.png" alt=""></figure>
+			<figure><img src="../images/resources/baner-forum.png" alt=""></figure>
 		</div>
 	</section><!-- sub header -->
 		
@@ -926,21 +926,21 @@
 										  <div id="trend" class="tab-pane active fade show">
 											<ul class="recent-links">
 											<li>
-												<figure><img src="images/resources/recentlink-1.jpg" alt=""></figure>
+												<figure><img src="../images/resources/recentlink-1.jpg" alt=""></figure>
 												<div class="re-links-meta">
 													<h6><a href="#" title="">moira's fade reaches much farther than you think.</a></h6>
 													<span>2 weeks ago </span>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/recentlink-2.jpg" alt=""></figure>
+												<figure><img src="../images/resources/recentlink-2.jpg" alt=""></figure>
 												<div class="re-links-meta">
 													<h6><a href="#" title="">daniel asks if we want him to do the voice of doomfist</a></h6>
 													<span>3 months ago </span>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/recentlink-3.jpg" alt=""></figure>
+												<figure><img src="../images/resources/recentlink-3.jpg" alt=""></figure>
 												<div class="re-links-meta">
 													<h6><a href="#" title="">the pitnik overwatch scandals.</a></h6>
 													<span>1 day before</span>
@@ -951,35 +951,35 @@
 										  <div id="hot" class="tab-pane fade">
 											<ul class="more-songs ps-container ps-theme-default" data-ps-id="d4320322-d459-480d-4a9b-6107ddf5ba4f">
 											<li>
-												<figure><img src="images/resources/song-chanl1.jpg" alt=""></figure>
+												<figure><img src="../images/resources/song-chanl1.jpg" alt=""></figure>
 												<div class="song-title">
 													<h6><a href="#" title="">6 Kiss (Feat. JuiceWrld &amp; YNW Melly)</a></h6>
 													<a href="#" title="">by Yung Bans</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/song-chanl2.jpg" alt=""></figure>
+												<figure><img src="../images/resources/song-chanl2.jpg" alt=""></figure>
 												<div class="song-title">
 													<h6><a href="#" title="">A love letter to you for</a></h6>
 													<a href="#" title="">by Trippie Redd</a>
 												</div>	
 											</li>
 											<li>
-												<figure><img src="images/resources/song-chanl3.jpg" alt=""></figure>
+												<figure><img src="../images/resources/song-chanl3.jpg" alt=""></figure>
 												<div class="song-title">
 													<h6><a href="#" title="">Strings feat. Gunna Official</a></h6>
 													<a href="#" title="">by iann dior</a>
 												</div>	
 											</li>
 											<li>
-												<figure><img src="images/resources/song-chanl4.jpg" alt=""></figure>
+												<figure><img src="../images/resources/song-chanl4.jpg" alt=""></figure>
 												<div class="song-title">
 													<h6><a href="#" title="">Partna in Crime</a></h6>
 													<a href="#" title="">by Lil Tecca</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/song-chanl5.jpg" alt=""></figure>
+												<figure><img src="../images/resources/song-chanl5.jpg" alt=""></figure>
 												<div class="song-title">
 													<h6><a href="#" title="">Majin Mafia official song</a></h6>
 													<a href="#" title="">by fetty wap</a>
@@ -1067,35 +1067,35 @@
 										<h4 class="widget-title">Who's follownig <a title="" href="#" class="see-all">see all</a></h4>
 										<ul class="followers">
 											<li>
-												<figure><img src="images/resources/friend-avatar2.jpg" alt=""></figure>
+												<figure><img src="../images/resources/friend-avatar2.jpg" alt=""></figure>
 												<div class="friend-meta">
 													<h4><a href="time-line" title="">Kelly Bill</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/friend-avatar4.jpg" alt=""></figure>
+												<figure><img src="../images/resources/friend-avatar4.jpg" alt=""></figure>
 												<div class="friend-meta">
 													<h4><a href="time-line" title="">Issabel</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/friend-avatar6.jpg" alt=""></figure>
+												<figure><img src="../images/resources/friend-avatar6.jpg" alt=""></figure>
 												<div class="friend-meta">
 													<h4><a href="time-line" title="">Andrew</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/friend-avatar8.jpg" alt=""></figure>
+												<figure><img src="../images/resources/friend-avatar8.jpg" alt=""></figure>
 												<div class="friend-meta">
 													<h4><a href="time-line" title="">Sophia</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/friend-avatar3.jpg" alt=""></figure>
+												<figure><img src="../images/resources/friend-avatar3.jpg" alt=""></figure>
 												<div class="friend-meta">
 													<h4><a href="time-line" title="">Allen</a></h4>
 													<a href="#" title="" class="underline">Add Friend</a>
@@ -1122,72 +1122,72 @@
 										<ul class="faved-page">
 											<li>
 												<a href="#" title="Sophie" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar.jpg">
+													<img alt="user" src="../images/resources/friend-avatar.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="John" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar2.jpg">
+													<img alt="user" src="../images/resources/friend-avatar2.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="Amy" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar3.jpg">
+													<img alt="user" src="../images/resources/friend-avatar3.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="Maria" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar4.jpg">
+													<img alt="user" src="../images/resources/friend-avatar4.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="Lucy" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar5.jpg">
+													<img alt="user" src="../images/resources/friend-avatar5.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="sanjana" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar6.jpg">
+													<img alt="user" src="../images/resources/friend-avatar6.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="Jack" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar7.jpg">
+													<img alt="user" src="../images/resources/friend-avatar7.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#">
-													<img alt="user" src="images/resources/friend-avatar8.jpg">
+													<img alt="user" src="../images/resources/friend-avatar8.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="Sarah" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar9.jpg">
+													<img alt="user" src="../images/resources/friend-avatar9.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="Tomy" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar10.jpg">
+													<img alt="user" src="../images/resources/friend-avatar10.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="Adam" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar11.jpg">
+													<img alt="user" src="../images/resources/friend-avatar11.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="sadie" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar12.jpg">
+													<img alt="user" src="../images/resources/friend-avatar12.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="vikash" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar13.jpg">
+													<img alt="user" src="../images/resources/friend-avatar13.jpg">
 												</a>
 											</li>
 											<li>
 												<a href="#" title="Musa" data-toggle="tooltip">
-													<img alt="user" src="images/resources/friend-avatar14.jpg">
+													<img alt="user" src="../images/resources/friend-avatar14.jpg">
 												</a>
 											</li>
 											<li class="all-faved">
@@ -1199,27 +1199,27 @@
 										<h4 class="widget-title">You May Like Pages</h4>
 										<ul class="suggestd">
 											<li>
-												<a class="sug-pic" href="#" title=""><img src="images/resources/sug-page-1.jpg" alt=""></a>
+												<a class="sug-pic" href="#" title=""><img src="../images/resources/sug-page-1.jpg" alt=""></a>
 												<a class="sug-title" href="#" title="">Toys shop</a>
 												<button class="sug-like"><i class="fa fa-thumbs-up"></i></button>
 											</li>
 											<li>
-												<a class="sug-pic" href="#" title=""><img src="images/resources/sug-page-2.jpg" alt=""></a>
+												<a class="sug-pic" href="#" title=""><img src="../images/resources/sug-page-2.jpg" alt=""></a>
 												<a class="sug-title" href="#" title="">Web Development</a>
 												<button class="sug-like"><i class="fa fa-thumbs-up"></i></button>
 											</li>
 											<li>
-												<a class="sug-pic" href="#" title=""><img src="images/resources/sug-page-3.jpg" alt=""></a>
+												<a class="sug-pic" href="#" title=""><img src="../images/resources/sug-page-3.jpg" alt=""></a>
 												<a class="sug-title" href="#" title="">ux/ui Designing</a>
 												<button class="sug-like"><i class="fa fa-thumbs-up"></i></button>
 											</li>
 											<li>
-												<a class="sug-pic" href="#" title=""><img src="images/resources/sug-page-4.jpg" alt=""></a>
+												<a class="sug-pic" href="#" title=""><img src="../images/resources/sug-page-4.jpg" alt=""></a>
 												<a class="sug-title" href="#" title="">Funky world</a>
 												<button class="sug-like"><i class="fa fa-thumbs-up"></i></button>
 											</li>
 											<li>
-												<a class="sug-pic" href="#" title=""><img src="images/resources/sug-page-5.jpg" alt=""></a>
+												<a class="sug-pic" href="#" title=""><img src="../images/resources/sug-page-5.jpg" alt=""></a>
 												<a class="sug-title" href="#" title="">Blippo Toys</a>
 												<button class="sug-like"><i class="fa fa-thumbs-up"></i></button>
 											</li>
@@ -1253,11 +1253,11 @@
 									<div class="widget">
 										<div class="post-creat">
 											<div class="bg-feature">
-												<img src="images/resources/post-createbg.jpg" alt="">
+												<img src="../images/resources/post-createbg.jpg" alt="">
 												<span>Create</span>
 											</div>
 											<div class="create-meta">
-												<img src="images/logo2.png" alt="">
+												<img src="../images/logo2.png" alt="">
 												<p>
 													The Best Post on Pitnik for you, Pulled from the most active communities on Pitnik. Check here to see the most shared, upvoted, and commented content on the internet.
 												</p>
@@ -1273,7 +1273,7 @@
 										<h4 class="widget-title">Recent videos <a class="see-all" href="#" title="">see all</a></h4>
 										<ul class="recent-photos">
 											<li>
-												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="images/resources/recent-1.jpg" alt="">
+												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="../images/resources/recent-1.jpg" alt="">
 													<i>
 														<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="32px" width="32px"
 														 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -1285,7 +1285,7 @@
 												</a>
 											</li>
 											<li>
-												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="images/resources/recent-2.jpg" alt="">
+												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="../images/resources/recent-2.jpg" alt="">
 													<i>
 														<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="32px" width="32px"
 														 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -1297,7 +1297,7 @@
 												</a>
 											</li>
 											<li>
-												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="images/resources/recent-3.jpg" alt="">
+												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="../images/resources/recent-3.jpg" alt="">
 													<i>
 														<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="32px" width="32px"
 														 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -1309,7 +1309,7 @@
 												</a>
 											</li>
 											<li>
-												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="images/resources/recent-4.jpg" alt="">
+												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="../images/resources/recent-4.jpg" alt="">
 													<i>
 														<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="32px" width="32px"
 														 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -1321,7 +1321,7 @@
 												</a>
 											</li>
 											<li>
-												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="images/resources/recent-5.jpg" alt="">
+												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="../images/resources/recent-5.jpg" alt="">
 													<i>
 														<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="32px" width="32px"
 														 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -1333,7 +1333,7 @@
 												</a>
 											</li>
 											<li>
-												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="images/resources/recent-6.jpg" alt="">
+												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="../images/resources/recent-6.jpg" alt="">
 													<i>
 														<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="32px" width="32px"
 														 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -1345,7 +1345,7 @@
 												</a>
 											</li>
 											<li>
-												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="images/resources/recent-7.jpg" alt="">
+												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="../images/resources/recent-7.jpg" alt="">
 													<i>
 														<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="32px" width="32px"
 														 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -1357,7 +1357,7 @@
 												</a>
 											</li>
 											<li>
-												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="images/resources/recent-8.jpg" alt="">
+												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="../images/resources/recent-8.jpg" alt="">
 													<i>
 														<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="32px" width="32px"
 														 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -1369,7 +1369,7 @@
 												</a>
 											</li>
 											<li>
-												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="images/resources/recent-9.jpg" alt="">
+												<a href="https://www.youtube.com/watch?v=fF382gwEnG8" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="../images/resources/recent-9.jpg" alt="">
 													<i>
 														<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="32px" width="32px"
 														 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -1449,35 +1449,35 @@
 										<ul class="invitepage">
 											<li>
 												<figure>
-													<img src="images/resources/friend-avatar.jpg" alt="">
+													<img src="../images/resources/friend-avatar.jpg" alt="">
 													<a href="#">Jack carter</a>
 												</figure>
 												<a class="invited" href="#" title=""><i class="ti-check"></i></a>
 											</li>
 											<li>
 												<figure>
-													<img src="images/resources/friend-avatar2.jpg" alt="">
+													<img src="../images/resources/friend-avatar2.jpg" alt="">
 													<a href="#">Emma watson</a>
 												</figure>
 												<a href="#" title="">Invite</a>
 											</li>
 											<li>
 												<figure>
-													<img src="images/resources/friend-avatar3.jpg" alt="">
+													<img src="../images/resources/friend-avatar3.jpg" alt="">
 													<a href="#">Andrew</a>
 												</figure>
 												<a href="#" title="">Invite</a>
 											</li>
 											<li>
 												<figure>
-													<img src="images/resources/friend-avatar4.jpg" alt="">
+													<img src="../images/resources/friend-avatar4.jpg" alt="">
 													<a href="#">Moona Singh</a>
 												</figure>
 												<a class="invited" href="#" title=""><i class="ti-check"></i></a>
 											</li>
 											<li>
 												<figure>
-													<img src="images/resources/friend-avatar5.jpg" alt="">
+													<img src="../images/resources/friend-avatar5.jpg" alt="">
 													<a href="#">Harry pooter</a>
 												</figure>
 												<a href="#" title="">Invite</a>
@@ -1486,9 +1486,9 @@
 									</div><!-- page invitation widget -->
 									<div class="widget">
 										<div class="banner high-opacity purple">
-											<div class="bg-image" style="background-image: url(images/resources/baner-widgetbg2.jpg)"></div>
+											<div class="bg-image" style="background-image: url(../images/resources/baner-widgetbg2.jpg)"></div>
 											<div class="post-job">
-												<img src="images/job-icon.png" alt="">
+												<img src="../images/job-icon.png" alt="">
 												<span>Post a new job</span>
 												<p>Create a new job post for hire a new talented from the pitnik</p>
 												<a class="main-btn" href="#" title="">Post Job</a>
@@ -1499,28 +1499,28 @@
 										<h4 class="widget-title">Featured Companies <a class="see-all" href="#" title="">See All</a></h4>
 										<ul class="featured-comp">
 											<li>
-											<a href="#" title="Color Hands inc" data-toggle="tooltip"><img src="images/resources/company1.png" alt=""></a>
+											<a href="#" title="Color Hands inc" data-toggle="tooltip"><img src="../images/resources/company1.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="Macrosoft inc" data-toggle="tooltip"><img src="images/resources/company2.png" alt=""></a>
+											<a href="#" title="Macrosoft inc" data-toggle="tooltip"><img src="../images/resources/company2.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="EBM inc" data-toggle="tooltip"><img src="images/resources/company3.png" alt=""></a>
+											<a href="#" title="EBM inc" data-toggle="tooltip"><img src="../images/resources/company3.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="Boogle inc" data-toggle="tooltip"><img src="images/resources/company4.png" alt=""></a>
+											<a href="#" title="Boogle inc" data-toggle="tooltip"><img src="../images/resources/company4.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="Color Hands inc" data-toggle="tooltip"><img src="images/resources/company5.png" alt=""></a>
+											<a href="#" title="Color Hands inc" data-toggle="tooltip"><img src="../images/resources/company5.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="Macrosoft inc" data-toggle="tooltip"><img src="images/resources/company6.png" alt=""></a>
+											<a href="#" title="Macrosoft inc" data-toggle="tooltip"><img src="../images/resources/company6.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="EBM inc" data-toggle="tooltip"><img src="images/resources/company7.png" alt=""></a>
+											<a href="#" title="EBM inc" data-toggle="tooltip"><img src="../images/resources/company7.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="Boogle inc" data-toggle="tooltip"><img src="images/resources/company8.png" alt=""></a>
+											<a href="#" title="Boogle inc" data-toggle="tooltip"><img src="../images/resources/company8.png" alt=""></a>
 											</li>
 										</ul>
 									</div><!-- feature company logos -->
@@ -1542,7 +1542,7 @@
 										<h4 class="widget-title">Community Detail</h4>
 										<div class="comnity-detail">
 											<div class="comnty-avatar">
-												<img src="images/resources/admin.jpg" alt="">
+												<img src="../images/resources/admin.jpg" alt="">
 												<a href="#" title="">p/United States</a>
 											</div>
 											<div class="comnity-data">
@@ -1563,42 +1563,42 @@
 										<h4 class="widget-title">More Songs <a title="" href="#" class="see-all">See All</a></h4>
 										<ul class="more-songs">
 											<li>
-												<figure><img src="images/resources/song-chanl1.jpg" alt=""></figure>
+												<figure><img src="../images/resources/song-chanl1.jpg" alt=""></figure>
 												<div class="song-title">
 													<h6><a href="#" title="">6 Kiss (Feat. JuiceWrld & YNW Melly)</a></h6>
 													<a href="#" title="">by Yung Bans</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/song-chanl2.jpg" alt=""></figure>
+												<figure><img src="../images/resources/song-chanl2.jpg" alt=""></figure>
 												<div class="song-title">
 													<h6><a href="#" title="">A love letter to you for</a></h6>
 													<a href="#" title="">by Trippie Redd</a>
 												</div>	
 											</li>
 											<li>
-												<figure><img src="images/resources/song-chanl3.jpg" alt=""></figure>
+												<figure><img src="../images/resources/song-chanl3.jpg" alt=""></figure>
 												<div class="song-title">
 													<h6><a href="#" title="">Strings feat. Gunna Official</a></h6>
 													<a href="#" title="">by iann dior</a>
 												</div>	
 											</li>
 											<li>
-												<figure><img src="images/resources/song-chanl4.jpg" alt=""></figure>
+												<figure><img src="../images/resources/song-chanl4.jpg" alt=""></figure>
 												<div class="song-title">
 													<h6><a href="#" title="">Partna in Crime</a></h6>
 													<a href="#" title="">by Lil Tecca</a>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/song-chanl5.jpg" alt=""></figure>
+												<figure><img src="../images/resources/song-chanl5.jpg" alt=""></figure>
 												<div class="song-title">
 													<h6><a href="#" title="">Majin Mafia official song</a></h6>
 													<a href="#" title="">by fetty wap</a>
 												</div>	
 											</li>
 											<li>
-												<figure><img src="images/resources/song-chanl6.jpg" alt=""></figure>
+												<figure><img src="../images/resources/song-chanl6.jpg" alt=""></figure>
 												<div class="song-title">
 													<h6><a href="#" title="">From to the A feat</a></h6>
 													<a href="#" title="">by Str8Bangerz Hit's</a>
@@ -1611,9 +1611,9 @@
 							<div class="col-lg-3 col-md-12 col-sm-6">
 								<aside class="sidebar">
 									<div class="widget whitish low-opacity">
-										<div style="background-image: url(images/resources/dob2.png)" class="bg-image"></div>
+										<div style="background-image: url(../images/resources/dob2.png)" class="bg-image"></div>
 										<div class="dob-head">
-											<img src="images/resources/sug-page-5.jpg" alt="">
+											<img src="../images/resources/sug-page-5.jpg" alt="">
 											<span>22nd Birthday</span>
 											<div class="dob">
 												<i>19</i>
@@ -1621,7 +1621,7 @@
 											</div>
 										</div>
 										<div class="dob-meta">
-											<figure><img src="images/resources/dob-cake.gif" alt=""></figure>
+											<figure><img src="../images/resources/dob-cake.gif" alt=""></figure>
 											<h6><a href="#" title="">Lucy Carbel</a> valentine's birthday</h6>
 											<p>leave a message with your best wishes on his profile.</p>
 										</div>
@@ -1632,7 +1632,7 @@
 										<ul id="people-list" class="friendz-list">
 											<li>
 												<figure>
-													<img src="images/resources/friend-avatar.jpg" alt="">
+													<img src="../images/resources/friend-avatar.jpg" alt="">
 													<span class="status f-online"></span>
 												</figure>
 												<div class="friendz-meta">
@@ -1642,7 +1642,7 @@
 											</li>
 											<li>
 												<figure>
-													<img src="images/resources/friend-avatar2.jpg" alt="">
+													<img src="../images/resources/friend-avatar2.jpg" alt="">
 													<span class="status f-away"></span>
 												</figure>
 												<div class="friendz-meta">
@@ -1652,7 +1652,7 @@
 											</li>
 											<li>
 												<figure>
-													<img src="images/resources/friend-avatar3.jpg" alt="">
+													<img src="../images/resources/friend-avatar3.jpg" alt="">
 													<span class="status f-off"></span>
 												</figure>
 												<div class="friendz-meta">
@@ -1662,7 +1662,7 @@
 											</li>
 											<li>
 												<figure>
-													<img src="images/resources/friend-avatar4.jpg" alt="">
+													<img src="../images/resources/friend-avatar4.jpg" alt="">
 													<span class="status f-off"></span>
 												</figure>
 												<div class="friendz-meta">
@@ -1673,7 +1673,7 @@
 											<li>
 
 												<figure>
-													<img src="images/resources/friend-avatar5.jpg" alt="">
+													<img src="../images/resources/friend-avatar5.jpg" alt="">
 													<span class="status f-online"></span>
 												</figure>
 												<div class="friendz-meta">
@@ -1684,7 +1684,7 @@
 											<li>
 
 												<figure>
-													<img src="images/resources/friend-avatar6.jpg" alt="">
+													<img src="../images/resources/friend-avatar6.jpg" alt="">
 													<span class="status f-away"></span>
 												</figure>
 												<div class="friendz-meta">
@@ -1695,7 +1695,7 @@
 											<li>
 
 												<figure>
-													<img src="images/resources/friend-avatar7.jpg" alt="">
+													<img src="../images/resources/friend-avatar7.jpg" alt="">
 													<span class="status f-off"></span>
 												</figure>
 												<div class="friendz-meta">
@@ -1706,7 +1706,7 @@
 											<li>
 
 												<figure>
-													<img src="images/resources/friend-avatar5.jpg" alt="">
+													<img src="../images/resources/friend-avatar5.jpg" alt="">
 													<span class="status f-online"></span>
 												</figure>
 												<div class="friendz-meta">
@@ -1717,7 +1717,7 @@
 											<li>
 
 												<figure>
-													<img src="images/resources/friend-avatar2.jpg" alt="">
+													<img src="../images/resources/friend-avatar2.jpg" alt="">
 													<span class="status f-away"></span>
 												</figure>
 												<div class="friendz-meta">
@@ -1738,7 +1738,7 @@
 											<div class="chat-list">
 												<ul>
 													<li class="me">
-														<div class="chat-thumb"><img src="images/resources/chatlist1.jpg" alt=""></div>
+														<div class="chat-thumb"><img src="../images/resources/chatlist1.jpg" alt=""></div>
 														<div class="notification-event">
 															<span class="chat-message-item">
 																Hi James! Please remember to buy the food for tomorrow! I’m gonna be handling the gifts and Jake’s gonna get the drinks
@@ -1747,7 +1747,7 @@
 														</div>
 													</li>
 													<li class="you">
-														<div class="chat-thumb"><img src="images/resources/chatlist2.jpg" alt=""></div>
+														<div class="chat-thumb"><img src="../images/resources/chatlist2.jpg" alt=""></div>
 														<div class="notification-event">
 															<span class="chat-message-item">
 																Hi James! Please remember to buy the food for tomorrow! I’m gonna be handling the gifts and Jake’s gonna get the drinks
@@ -1756,7 +1756,7 @@
 														</div>
 													</li>
 													<li class="me">
-														<div class="chat-thumb"><img src="images/resources/chatlist1.jpg" alt=""></div>
+														<div class="chat-thumb"><img src="../images/resources/chatlist1.jpg" alt=""></div>
 														<div class="notification-event">
 															<span class="chat-message-item">
 																Hi James! Please remember to buy the food for tomorrow! I’m gonna be handling the gifts and Jake’s gonna get the drinks
@@ -1838,7 +1838,7 @@
 										<h4 class="widget-title">Company Highlights <a title="" href="#" class="see-all">See All</a></h4>
 										<ul class="company-posts">
 											<li>
-												<figure><img src="images/resources/company1.png" alt=""></figure>
+												<figure><img src="../images/resources/company1.png" alt=""></figure>
 												<div class="position-meta">
 													<h6><a href="#" title="">Php Developers</a></h6>
 													<a href="#" title="">Web House</a>
@@ -1846,7 +1846,7 @@
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/company4.png" alt=""></figure>
+												<figure><img src="../images/resources/company4.png" alt=""></figure>
 												<div class="position-meta">
 													<h6><a href="#" title="">Designer</a></h6>
 													<a href="#" title="">Web House</a>
@@ -1854,7 +1854,7 @@
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/company3.png" alt=""></figure>
+												<figure><img src="../images/resources/company3.png" alt=""></figure>
 												<div class="position-meta">
 													<h6><a href="#" title="">Data Entry</a></h6>
 													<a href="#" title="">Web House</a>
@@ -1862,7 +1862,7 @@
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/company2.png" alt=""></figure>
+												<figure><img src="../images/resources/company2.png" alt=""></figure>
 												<div class="position-meta">
 													<h6><a href="#" title="">QA Person</a></h6>
 													<a href="#" title="">Web House</a>
@@ -1875,21 +1875,21 @@
 										<h4 class="widget-title">Recent Links <a title="" href="#" class="see-all">See All</a></h4>
 										<ul class="recent-links">
 											<li>
-												<figure><img src="images/resources/recentlink-1.jpg" alt=""></figure>
+												<figure><img src="../images/resources/recentlink-1.jpg" alt=""></figure>
 												<div class="re-links-meta">
 													<h6><a href="#" title="">moira's fade reaches much farther than you think.</a></h6>
 													<span>2 weeks ago </span>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/recentlink-2.jpg" alt=""></figure>
+												<figure><img src="../images/resources/recentlink-2.jpg" alt=""></figure>
 												<div class="re-links-meta">
 													<h6><a href="#" title="">daniel asks if we want him to do the voice of doomfist</a></h6>
 													<span>3 months ago </span>
 												</div>
 											</li>
 											<li>
-												<figure><img src="images/resources/recentlink-3.jpg" alt=""></figure>
+												<figure><img src="../images/resources/recentlink-3.jpg" alt=""></figure>
 												<div class="re-links-meta">
 													<h6><a href="#" title="">the pitnik overwatch scandals.</a></h6>
 													<span>1 day before</span>
@@ -1900,28 +1900,28 @@
 									<div class="widget">
 										<div class="top-comunitez">
 											<figure>
-												<img src="images/resources/widget-baner.jpg" alt="">
+												<img src="../images/resources/widget-baner.jpg" alt="">
 												<span>Today's Top Growing Communities</span>
 											</figure>
 											<ol class="top-comuty">
 												<li>
-													<img src="images/resources/top-comunity1.png" alt="">
+													<img src="../images/resources/top-comunity1.png" alt="">
 													<a href="#" title="">p/Politics</a>
 												</li>
 												<li>
-													<img src="images/resources/top-comunity2.png" alt="">
+													<img src="../images/resources/top-comunity2.png" alt="">
 													<a href="#" title="">p/Starwars</a>
 												</li>
 												<li>
-													<img src="images/resources/top-comunity3.png" alt="">
+													<img src="../images/resources/top-comunity3.png" alt="">
 													<a href="#" title="">p/Xboxone</a>
 												</li>
 												<li>
-													<img src="images/resources/top-comunity4.png" alt="">
+													<img src="../images/resources/top-comunity4.png" alt="">
 													<a href="#" title="">p/PoliTv</a>
 												</li>
 												<li>
-													<img src="images/resources/top-comunity5.png" alt="">
+													<img src="../images/resources/top-comunity5.png" alt="">
 													<a href="#" title="">p/Barsloon shop</a>
 												</li>
 											</ol>
@@ -1944,47 +1944,47 @@
 									<div class="advertisment-box">
 										<h4 class="">advertisment</h4>
 										<figure>
-											<a title="Advertisment" href="#"><img alt="" src="images/resources/ad-widget.gif"></a>
+											<a title="Advertisment" href="#"><img alt="" src="../images/resources/ad-widget.gif"></a>
 										</figure>
 									</div><!-- advertisment -->
 									<div class="widget">
 										<h4 class="widget-title">Recent Photos <a class="see-all" href="#" title="">see all</a></h4>
 										<ul class="recent-photos">
 											<li>
-												<a class="strip" href="images/resources/recent-11" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
-													<img src="images/resources/recent-1.jpg" alt=""></a>
+												<a class="strip" href="../images/resources/recent-11" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
+													<img src="../images/resources/recent-1.jpg" alt=""></a>
 											</li>
 											<li>
-												<a class="strip" href="images/resources/recent-22" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
-													<img src="images/resources/recent-2.jpg" alt=""></a>
+												<a class="strip" href="../images/resources/recent-22" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
+													<img src="../images/resources/recent-2.jpg" alt=""></a>
 											</li>
 											<li>
-												<a class="strip" href="images/resources/recent-33" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
-													<img src="images/resources/recent-3.jpg" alt=""></a>
+												<a class="strip" href="../images/resources/recent-33" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
+													<img src="../images/resources/recent-3.jpg" alt=""></a>
 											</li>
 											<li>
-												<a class="strip" href="images/resources/recent-44" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
-												<img src="images/resources/recent-4.jpg" alt=""></a>
+												<a class="strip" href="../images/resources/recent-44" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
+												<img src="../images/resources/recent-4.jpg" alt=""></a>
 											</li>
 											<li>
-												<a class="strip" href="images/resources/recent-55" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
-													<img src="images/resources/recent-5.jpg" alt=""></a>
+												<a class="strip" href="../images/resources/recent-55" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
+													<img src="../images/resources/recent-5.jpg" alt=""></a>
 											</li>
 											<li>
-												<a class="strip" href="images/resources/recent-66" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
-													<img src="images/resources/recent-6.jpg" alt=""></a>
+												<a class="strip" href="../images/resources/recent-66" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
+													<img src="../images/resources/recent-6.jpg" alt=""></a>
 											</li>
 											<li>
-												<a class="strip" href="images/resources/recent-77" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
-													<img src="images/resources/recent-7.jpg" alt=""></a>
+												<a class="strip" href="../images/resources/recent-77" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
+													<img src="../images/resources/recent-7.jpg" alt=""></a>
 											</li>
 											<li>
-												<a class="strip" href="images/resources/recent-88" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
-													<img src="images/resources/recent-8.jpg" alt=""></a>
+												<a class="strip" href="../images/resources/recent-88" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
+													<img src="../images/resources/recent-8.jpg" alt=""></a>
 											</li>
 											<li>
-												<a class="strip" href="images/resources/recent-99" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
-													<img src="images/resources/recent-9.jpg" alt=""></a>
+												<a class="strip" href="../images/resources/recent-99" title="" data-strip-group="mygroup" data-strip-group-options="loop: false">
+													<img src="../images/resources/recent-9.jpg" alt=""></a>
 											</li>
 										</ul>
 									</div><!-- recent photos-->
@@ -1992,7 +1992,7 @@
 										<h4 class="widget-title">Your page</h4>	
 										<div class="your-page">
 											<figure>
-												<a href="#" title=""><img src="images/resources/friend-avatar9.jpg" alt=""></a>
+												<a href="#" title=""><img src="../images/resources/friend-avatar9.jpg" alt=""></a>
 											</figure>
 											<div class="page-meta">
 												<a href="#" title="" class="underline">My Creative Page</a>
@@ -2025,25 +2025,25 @@
 													  <a href="#" title="weekly-likes">35 new likes this week</a>
 													  <div class="users-thumb-list">
 														<a href="#" title="Anderw" data-toggle="tooltip">
-															<img src="images/resources/userlist-1.jpg" alt="">  
+															<img src="../images/resources/userlist-1.jpg" alt="">  
 														</a>
 														<a href="#" title="frank" data-toggle="tooltip">
-															<img src="images/resources/userlist-2.jpg" alt="">  
+															<img src="../images/resources/userlist-2.jpg" alt="">  
 														</a>
 														<a href="#" title="Sara" data-toggle="tooltip">
-															<img src="images/resources/userlist-3.jpg" alt="">  
+															<img src="../images/resources/userlist-3.jpg" alt="">  
 														</a>
 														<a href="#" title="Amy" data-toggle="tooltip">
-															<img src="images/resources/userlist-4.jpg" alt="">  
+															<img src="../images/resources/userlist-4.jpg" alt="">  
 														</a>
 														<a href="#" title="Ema" data-toggle="tooltip">
-															<img src="images/resources/userlist-5.jpg" alt="">  
+															<img src="../images/resources/userlist-5.jpg" alt="">  
 														</a>
 														<a href="#" title="Sophie" data-toggle="tooltip">
-															<img src="images/resources/userlist-6.jpg" alt="">  
+															<img src="../images/resources/userlist-6.jpg" alt="">  
 														</a>
 														<a href="#" title="Maria" data-toggle="tooltip">
-															<img src="images/resources/userlist-7.jpg" alt="">  
+															<img src="../images/resources/userlist-7.jpg" alt="">  
 														</a>  
 													  </div>
 												  </div>
@@ -2052,25 +2052,25 @@
 													  <a href="#" title="weekly-likes">440 new views this week</a>
 													  <div class="users-thumb-list">
 														<a href="#" title="Anderw" data-toggle="tooltip">
-															<img src="images/resources/userlist-1.jpg" alt="">  
+															<img src="../images/resources/userlist-1.jpg" alt="">  
 														</a>
 														<a href="#" title="frank" data-toggle="tooltip">
-															<img src="images/resources/userlist-2.jpg" alt="">  
+															<img src="../images/resources/userlist-2.jpg" alt="">  
 														</a>
 														<a href="#" title="Sara" data-toggle="tooltip">
-															<img src="images/resources/userlist-3.jpg" alt="">  
+															<img src="../images/resources/userlist-3.jpg" alt="">  
 														</a>
 														<a href="#" title="Amy" data-toggle="tooltip">
-															<img src="images/resources/userlist-4.jpg" alt="">  
+															<img src="../images/resources/userlist-4.jpg" alt="">  
 														</a>
 														<a href="#" title="Ema" data-toggle="tooltip">
-															<img src="images/resources/userlist-5.jpg" alt="">  
+															<img src="../images/resources/userlist-5.jpg" alt="">  
 														</a>
 														<a href="#" title="Sophie" data-toggle="tooltip">
-															<img src="images/resources/userlist-6.jpg" alt="">  
+															<img src="../images/resources/userlist-6.jpg" alt="">  
 														</a>
 														<a href="#" title="Maria" data-toggle="tooltip">
-															<img src="images/resources/userlist-7.jpg" alt="">  
+															<img src="../images/resources/userlist-7.jpg" alt="">  
 														</a>  
 													  </div>
 												  </div>
@@ -2080,9 +2080,9 @@
 									</div><!-- page like widget -->
 									<div class="widget">
 										<div class="banner medium-opacity bluesh">
-											<div class="bg-image" style="background-image: url(images/resources/baner-widgetbg.jpg)"></div>
+											<div class="bg-image" style="background-image: url(../images/resources/baner-widgetbg.jpg)"></div>
 											<div class="baner-top">
-												<span><img alt="" src="images/book-icon.png"></span>
+												<span><img alt="" src="../images/book-icon.png"></span>
 												<i class="fa fa-ellipsis-h"></i>
 											</div>
 											<div class="banermeta">
@@ -2098,7 +2098,7 @@
 										<h4 class="widget-title">Latest Videos</h4>
 										<ul class="widget-video">
 											<li>
-												<a href="https://www.youtube.com/watch?v=UXnxgRyGzJQ" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="images/resources/last-vid1.jpg" alt="">
+												<a href="https://www.youtube.com/watch?v=UXnxgRyGzJQ" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="../images/resources/last-vid1.jpg" alt="">
 													<i>
 														<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="50px" width="50px"
 														 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
@@ -2112,7 +2112,7 @@
 												<span> Beautiful red truck free style stunts</span>
 											</li>
 											<li>
-												<a href="https://www.youtube.com/watch?v=PDluztBSaBc" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="images/resources/last-vid2.jpg" alt="">
+												<a href="https://www.youtube.com/watch?v=PDluztBSaBc" title="" data-strip-group="mygroup" class="strip" data-strip-options="width: 700,height: 450,youtube: { autoplay: 1 }"><img src="../images/resources/last-vid2.jpg" alt="">
 													
 													<i>
 														<svg version="1.1" class="play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="50px" width="50px"
@@ -2133,12 +2133,12 @@
 										<div class="rec-events bg-purple">
 											<i class="ti-gift"></i>
 											<h6><a href="#" title="">Ocean Motel good night event in columbia</a></h6>
-											<img src="images/clock.png" alt="">
+											<img src="../images/clock.png" alt="">
 										</div>
 										<div class="rec-events bg-blue">
 											<i class="ti-microphone"></i>
 											<h6><a href="#" title="">2016 The 3rd International Conference</a></h6>
-											<img src="images/clock.png" alt="">
+											<img src="../images/clock.png" alt="">
 										</div>
 									</div><!-- explore events -->
 									<div class="widget">
@@ -2155,38 +2155,38 @@
 										<h4 class="widget-title">User Badges <a class="see-all" href="#" title="">See All</a></h4>
 										<ul class="badgez-widget">
 											<li>
-											<a href="#" title="Male User" data-toggle="tooltip"><img src="images/badges/badge2.png" alt=""></a>
+											<a href="#" title="Male User" data-toggle="tooltip"><img src="../images/badges/badge2.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="10 Years old User" data-toggle="tooltip"><img src="images/badges/year10.png" alt=""></a>
+											<a href="#" title="10 Years old User" data-toggle="tooltip"><img src="../images/badges/year10.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="Page Admin" data-toggle="tooltip"><img src="images/badges/badge1.png" alt=""></a>
+											<a href="#" title="Page Admin" data-toggle="tooltip"><img src="../images/badges/badge1.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="100+ Refferal" data-toggle="tooltip"><img src="images/badges/badge8.png" alt=""></a>
+											<a href="#" title="100+ Refferal" data-toggle="tooltip"><img src="../images/badges/badge8.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="Tranding Posts" data-toggle="tooltip"><img src="images/badges/badge21.png" alt=""></a>
+											<a href="#" title="Tranding Posts" data-toggle="tooltip"><img src="../images/badges/badge21.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="1000+ Subscribers" data-toggle="tooltip"><img src="images/badges/badge3.png" alt=""></a>
+											<a href="#" title="1000+ Subscribers" data-toggle="tooltip"><img src="../images/badges/badge3.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="Pitnik Shirt winner" data-toggle="tooltip"><img src="images/badges/badge20.png" alt=""></a>
+											<a href="#" title="Pitnik Shirt winner" data-toggle="tooltip"><img src="../images/badges/badge20.png" alt=""></a>
 											</li>
 											<li>
-											<a href="#" title="500+ Followers" data-toggle="tooltip"><img src="images/badges/badge10.png" alt=""></a>
+											<a href="#" title="500+ Followers" data-toggle="tooltip"><img src="../images/badges/badge10.png" alt=""></a>
 											</li>
 										</ul>
 									</div><!-- badges -->
 									<div class="friend-box">
 										<figure>
-											<img alt="" src="images/resources/sidebar-info.jpg">
+											<img alt="" src="../images/resources/sidebar-info.jpg">
 											<span>Followers: 50</span>
 										</figure>
 										<div class="frnd-meta">
-											<img alt="" src="images/resources/frnd-figure3.jpg">
+											<img alt="" src="../images/resources/frnd-figure3.jpg">
 											<div class="frnd-name">
 												<a title="" href="#">Jack Carter</a>
 												<span>@jack5000</span>
@@ -2222,7 +2222,7 @@
 					<div class="widget">
 						<div class="foot-logo">
 							<div class="logo">
-								<a href="index" title=""><img src="images/logo2.png" alt=""></a>
+								<a href="Controllerindex" title=""><img src="../images/logo2.png" alt=""></a>
 							</div>	
 							<p>
 								The trio took this simple idea and built it into the world’s leading carpooling platform.
@@ -2256,11 +2256,11 @@
 					<div class="widget">
 						<div class="widget-title"><h4>Navigate</h4></div>
 						<ul class="list-style">
-							<li><a href="about" title="">about us</a></li>
-							<li><a href="contact" title="">contact us</a></li>
-							<li><a href="terms" title="">terms & Conditions</a></li>
+							<li><a href="Controllerabout" title="">about us</a></li>
+							<li><a href="Controllercontact" title="">contact us</a></li>
+							<li><a href="Controllerterms" title="">terms & Conditions</a></li>
 							<li><a href="#" title="">RSS syndication</a></li>
-							<li><a href="sitemap" title="">Sitemap</a></li>
+							<li><a href="Controllersitemap" title="">Sitemap</a></li>
 						</ul>
 					</div>
 				</div>
@@ -2295,7 +2295,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<span class="copyright">© Pitnik 2020. All rights reserved.</span>
-					<i><img src="images/credit-cards.png" alt=""></i>
+					<i><img src="../images/credit-cards.png" alt=""></i>
 				</div>
 			</div>
 		</div>

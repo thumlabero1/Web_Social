@@ -3,67 +3,67 @@
 			<ul class="chat-users">
 				<li>
 					<div class="author-thmb">
-						<img src="images/resources/side-friend1.jpg" alt="">
+						<img src="../images/resources/side-friend1.jpg" alt="">
 						<span class="status f-online"></span>
 					</div>
 				</li>
 				<li>
 					<div class="author-thmb">
-						<img src="images/resources/side-friend2.jpg" alt="">
+						<img src="../images/resources/side-friend2.jpg" alt="">
 						<span class="status f-away"></span>
 					</div>
 				</li>
 				<li>
 					<div class="author-thmb">
-						<img src="images/resources/side-friend3.jpg" alt="">
+						<img src="../images/resources/side-friend3.jpg" alt="">
 						<span class="status f-online"></span>
 					</div>
 				</li>
 				<li>
 					<div class="author-thmb">
-						<img src="images/resources/side-friend4.jpg" alt="">
+						<img src="../images/resources/side-friend4.jpg" alt="">
 						<span class="status f-offline"></span>
 					</div>
 				</li>
 				<li>
 					<div class="author-thmb">
-						<img src="images/resources/side-friend5.jpg" alt="">
+						<img src="../images/resources/side-friend5.jpg" alt="">
 						<span class="status f-online"></span>
 					</div>
 				</li>
 				<li>
 					<div class="author-thmb">
-						<img src="images/resources/side-friend6.jpg" alt="">
+						<img src="../images/resources/side-friend6.jpg" alt="">
 						<span class="status f-online"></span>
 					</div>
 				</li>
 				<li>
 					<div class="author-thmb">
-						<img src="images/resources/side-friend7.jpg" alt="">
+						<img src="../images/resources/side-friend7.jpg" alt="">
 						<span class="status f-offline"></span>
 					</div>
 				</li>
 				<li>
 					<div class="author-thmb">
-						<img src="images/resources/side-friend8.jpg" alt="">
+						<img src="../images/resources/side-friend8.jpg" alt="">
 						<span class="status f-online"></span>
 					</div>
 				</li>
 				<li>
 					<div class="author-thmb">
-						<img src="images/resources/side-friend9.jpg" alt="">
+						<img src="../images/resources/side-friend9.jpg" alt="">
 						<span class="status f-away"></span>
 					</div>
 				</li>
 				<li>
 					<div class="author-thmb">
-						<img src="images/resources/side-friend10.jpg" alt="">
+						<img src="../images/resources/side-friend10.jpg" alt="">
 						<span class="status f-away"></span>
 					</div>
 				</li>
 				<li>
 					<div class="author-thmb">
-						<img src="images/resources/side-friend8.jpg" alt="">
+						<img src="../images/resources/side-friend8.jpg" alt="">
 						<span class="status f-online"></span>
 					</div>
 				</li>
@@ -86,7 +86,7 @@
 				<div class="chat-list">
 					<ul>
 						<li class="me">
-							<div class="chat-thumb"><img src="images/resources/chatlist1.jpg" alt=""></div>
+							<div class="chat-thumb"><img src="../images/resources/chatlist1.jpg" alt=""></div>
 							<div class="notification-event">
 								<span class="chat-message-item">
 									HI, Jack i have faced a problem with your software. are you available now, when i install this i have to received an error.
@@ -95,7 +95,7 @@
 							</div>
 						</li>
 						<li class="you">
-							<div class="chat-thumb"><img src="images/resources/chatlist2.jpg" alt=""></div>
+							<div class="chat-thumb"><img src="../images/resources/chatlist2.jpg" alt=""></div>
 							<div class="notification-event">
 								<span class="chat-message-item">
 									Hi tina, Please let me know your purchase code, and show me the screnshot of error.
@@ -104,7 +104,7 @@
 							</div>
 						</li>
 						<li class="me">
-							<div class="chat-thumb"><img src="images/resources/chatlist1.jpg" alt=""></div>
+							<div class="chat-thumb"><img src="../images/resources/chatlist1.jpg" alt=""></div>
 							<div class="notification-event">
 								<span class="chat-message-item">
 									Yes, sure please wait a while, i ll show you the complete error list. Thank you.

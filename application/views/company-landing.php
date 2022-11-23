@@ -24,10 +24,10 @@
 				<a class="" href="#menu"><i class="fa fa-align-justify"></i></a>
 			</span>
 			<span class="mh-text">
-				<a href="newsfeed" title=""><img src="images/logo2.png" alt=""></a>
+				<a href="Controllernewsfeed" title=""><img src="../images/logo2.png" alt=""></a>
 			</span>
 			<span class="mh-btns-right">
-				<a class="fa fa-sliders" href="#shoppingbag"></a>
+				<a class="fa fa-sliders" href="#Controllershoppingbag"></a>
 			</span>
 		</div>
 		<div class="mh-head second">
@@ -40,122 +40,122 @@
 			<ul>
 				<li><span>Home Pages</span> 
 					<ul>
-						<li><a href="index" title="">Pitnik Default</a></li>
-						<li><a href="company-landing" title="">Company Landing</a></li>
-						<li><a href="pitrest" title="">Pitrest</a></li>
-						<li><a href="redpit" title="">Redpit</a></li>
-						<li><a href="redpit-category" title="">Redpit Category</a></li>
-						<li><a href="soundnik" title="">Soundnik</a></li>
-						<li><a href="soundnik-detail" title="">Soundnik Single</a></li>
-						<li><a href="career" title="">Pitjob</a></li>
-						<li><a href="shop" title="">Shop</a></li>
-						<li><a href="classified" title="">Classified</a></li>
-						<li><a href="pitpoint" title="">PitPoint</a></li>
-						<li><a href="pittube" title="">Pittube</a></li>
-						<li><a href="chat-messenger" title="">Messenger</a></li>
+						<li><a href="Controllerindex" title="">Pitnik Default</a></li>
+						<li><a href="Controllercompanylanding" title="">Company Landing</a></li>
+						<li><a href="Controllerpitrest" title="">Pitrest</a></li>
+						<li><a href="Controllerredpit" title="">Redpit</a></li>
+						<li><a href="Controllerredpitcategory" title="">Redpit Category</a></li>
+						<li><a href="Controllersoundnik" title="">Soundnik</a></li>
+						<li><a href="Controllersoundnikdetail" title="">Soundnik Single</a></li>
+						<li><a href="Controllercareer" title="">Pitjob</a></li>
+						<li><a href="Controllershop" title="">Shop</a></li>
+						<li><a href="Controllerclassified" title="">Classified</a></li>
+						<li><a href="Controllerpitpoint" title="">PitPoint</a></li>
+						<li><a href="Controllerpittube" title="">Pittube</a></li>
+						<li><a href="Controllerchatmessenger" title="">Messenger</a></li>
 					</ul>
 				</li>
 				<li><span>Pittube</span>
 					<ul>
-						<li><a href="pittube" title="">Pittube</a></li>
-						<li><a href="pittube-detail" title="">Pittube single</a></li>
-						<li><a href="pittube-category" title="">Pittube Category</a></li>
-						<li><a href="pittube-channel" title="">Pittube Channel</a></li>
-						<li><a href="pittube-search-result" title="">Pittube Search Result</a></li>
+						<li><a href="Controllerpittube" title="">Pittube</a></li>
+						<li><a href="Controllerpittubedetail" title="">Pittube single</a></li>
+						<li><a href="Controllerpittubecategory" title="">Pittube Category</a></li>
+						<li><a href="Controllerpittubechannel" title="">Pittube Channel</a></li>
+						<li><a href="Controllerpittubesearchresult" title="">Pittube Search Result</a></li>
 					</ul>
 				</li>
 				<li><span>PitPoint</span>
 					<ul>
-						<li><a href="pitpoint" title="">PitPoint</a></li>
-						<li><a href="pitpoint-detail" title="">Pitpoint Detail</a></li>
-						<li><a href="pitpoint-list" title="">Pitpoint List style</a></li>
-						<li><a href="pitpoint-without-baner" title="">Pitpoint without Banner</a></li>
-						<li><a href="pitpoint-search-result" title="">Pitpoint Search</a></li>
+						<li><a href="Controllerpitpoint" title="">PitPoint</a></li>
+						<li><a href="Controllerpitpointdetail" title="">Pitpoint Detail</a></li>
+						<li><a href="Controllerpitpointlist" title="">Pitpoint List style</a></li>
+						<li><a href="Controllerpitpointwithoutbaner" title="">Pitpoint without Banner</a></li>
+						<li><a href="Controllerpitpointsearchresult" title="">Pitpoint Search</a></li>
 					</ul>
 				</li>
 				<li><span>Pitjob</span>
 					<ul>
-						<li><a href="career" title="">Pitjob</a></li>
-						<li><a href="career-detail" title="">Pitjob Detail</a></li>
-						<li><a href="career-search-result" title="">Job seach page</a></li>
-						<li><a href="social-post-detail" title="">Social Post Detail</a></li>
+						<li><a href="Controllercareer" title="">Pitjob</a></li>
+						<li><a href="Controllercareerdetail" title="">Pitjob Detail</a></li>
+						<li><a href="Controllercareersearchresult" title="">Job seach page</a></li>
+						<li><a href="Controllersocialpostdetail" title="">Social Post Detail</a></li>
 					</ul>
 				</li>
 				<li><span>Timeline</span>
 					<ul>
-						<li><a href="timeline" title="">Timeline</a></li>
-						<li><a href="timeline-photos" title="">Timeline Photos</a></li>
-						<li><a href="timeline-videos" title="">Timeline Videos</a></li>
-						<li><a href="timeline-groups" title="">Timeline Groups</a></li>
-						<li><a href="timeline-friends" title="">Timeline Friends</a></li>
-						<li><a href="timeline-friends2" title="">Timeline Friends-2</a></li>
-						<li><a href="about" title="">Timeline About</a></li>
-						<li><a href="blog-posts" title="">Timeline Blog</a></li>
-						<li><a href="friends-birthday" title="">Friends' Birthday</a></li>
-						<li><a href="newsfeed" title="">Newsfeed</a></li>
-						<li><a href="search-result" title="">Search Result</a></li>
+						<li><a href="Controllertimeline" title="">Timeline</a></li>
+						<li><a href="Controllertimelinephotos" title="">Timeline Photos</a></li>
+						<li><a href="Controllertimelinevideos" title="">Timeline Videos</a></li>
+						<li><a href="Controllertimelinegroups" title="">Timeline Groups</a></li>
+						<li><a href="Controllertimelinefriends" title="">Timeline Friends</a></li>
+						<li><a href="Controllertimelinefriends2" title="">Timeline Friends-2</a></li>
+						<li><a href="Controllerabout" title="">Timeline About</a></li>
+						<li><a href="Controllerblogposts" title="">Timeline Blog</a></li>
+						<li><a href="Controllerfriendsbirthday" title="">Friends' Birthday</a></li>
+						<li><a href="Controllernewsfeed" title="">Newsfeed</a></li>
+						<li><a href="Controllersearchresult" title="">Search Result</a></li>
 					</ul>
 				</li>
 				<li><span>Favourit Page</span>
 					<ul>
-						<li><a href="fav-page" title="">Favourit Page</a></li>
-						<li><a href="fav-favers" title="">Fav Page Likers</a></li>
-						<li><a href="fav-events" title="">Fav Events</a></li>
-						<li><a href="fav-event-invitations" title="">Fav Event Invitations</a></li>
-						<li><a href="event-calendar" title="">Event Calendar</a></li>
-						<li><a href="fav-page-create" title="">Create New Page</a></li>
-						<li><a href="price-plans" title="">Price Plan</a></li>
+						<li><a href="Controllerfavpage" title="">Favourit Page</a></li>
+						<li><a href="Controllerfavfavers" title="">Fav Page Likers</a></li>
+						<li><a href="Controllerfavevents" title="">Fav Events</a></li>
+						<li><a href="Controllerfaveventinvitations" title="">Fav Event Invitations</a></li>
+						<li><a href="Controllereventcalendar" title="">Event Calendar</a></li>
+						<li><a href="Controllerfavpagecreate" title="">Create New Page</a></li>
+						<li><a href="Controllerpriceplans" title="">Price Plan</a></li>
 					</ul>
 				</li>
 				<li><span>Forum</span>
 					<ul>
-						<li><a href="forum" title="">Forum</a></li>
-						<li><a href="forum-create-topic" title="">Forum Create Topic</a></li>
-						<li><a href="forum-open-topic" title="">Forum Open Topic</a></li>
-						<li><a href="forums-category" title="">Forum Category</a></li>
+						<li><a href="Controllerforum" title="">Forum</a></li>
+						<li><a href="Controllerforumcreatetopic" title="">Forum Create Topic</a></li>
+						<li><a href="Controllerforumopentopic" title="">Forum Open Topic</a></li>
+						<li><a href="Controllerforumscategory" title="">Forum Category</a></li>
 					</ul>
 				</li>
 				<li><span>Featured</span>
 					<ul>
-						<li><a href="chat-messenger" title="">Messenger (Chatting)</a></li>
-						<li><a href="notifications" title="">Notifications</a></li>
-						<li><a href="badges" title="">Badges</a></li>
-						<li><a href="faq" title="">Faq's</a></li>
-						<li><a href="contribution" title="">Contriburion Page</a></li>
-						<li><a href="manage-page" title="">Manage Page</a></li>
-						<li><a href="weather-forecast" title="">weather-forecast</a></li>
-						<li><a href="statistics" title="">Statics/Analytics</a></li>
-						<li><a href="shop-cart" title="">Shop Cart</a></li>
+						<li><a href="Controllerchatmessenger" title="">Messenger (Chatting)</a></li>
+						<li><a href="Controllernotifications" title="">Notifications</a></li>
+						<li><a href="Controllerbadges" title="">Badges</a></li>
+						<li><a href="Controllerfaq" title="">Faq's</a></li>
+						<li><a href="Controllercontribution" title="">Contriburion Page</a></li>
+						<li><a href="Controllermanagepage" title="">Manage Page</a></li>
+						<li><a href="Controllerweatherforecast" title="">weather-forecast</a></li>
+						<li><a href="Controllerstatistics" title="">Statics/Analytics</a></li>
+						<li><a href="Controllershopcart" title="">Shop Cart</a></li>
 					</ul>
 				</li>
 				<li><span>Account Setting</span>
 					<ul>
-						<li><a href="setting" title="">Setting</a></li>
-						<li><a href="privacy" title="">Privacy</a></li>
-						<li><a href="support-and-help" title="">Support & Help</a></li>
-						<li><a href="support-and-help-detail" title="">Support Detail</a></li>
-						<li><a href="support-and-help-search-result" title="">Support Search</a></li>
+						<li><a href="Controllersetting" title="">Setting</a></li>
+						<li><a href="Controllerprivacy" title="">Privacy</a></li>
+						<li><a href="Controllersupportandhelp" title="">Support & Help</a></li>
+						<li><a href="Controllersupportandhelpdetail" title="">Support Detail</a></li>
+						<li><a href="Controllersupportandhelpsearchresult" title="">Support Search</a></li>
 					</ul>
 				</li>
 				<li><span>Authentication</span>
 					<ul>
-						<li><a href="login" title="">Login Page</a></li>
-						<li><a href="register" title="">Register Page</a></li>
-						<li><a href="logout" title="">Logout Page</a></li>
-						<li><a href="coming-soon" title="">Coming Soon</a></li>
-						<li><a href="error-404" title="">Error 404</a></li>
-						<li><a href="error-404-2" title="">Error 404-2</a></li>
-						<li><a href="error-500" title="">Error 500</a></li>
+						<li><a href="Cotrollerlogin" title="">Login Page</a></li>
+						<li><a href="Controllerregister" title="">Register Page</a></li>
+						<li><a href="Controllerlogout" title="">Logout Page</a></li>
+						<li><a href="Controllercomingsoon" title="">Coming Soon</a></li>
+						<li><a href="Controllererror404" title="">Error 404</a></li>
+						<li><a href="Controllererror4042" title="">Error 404-2</a></li>
+						<li><a href="Controllererror500" title="">Error 500</a></li>
 					</ul>
 				</li>
 				<li><span>Tools</span>
 					<ul>
-						<li><a href="typography" title="">Typography</a></li>
-						<li><a href="popup-modals" title="">Popups/Modals</a></li>
-						<li><a href="post-versions" title="">Post Versions</a></li>
-						<li><a href="sliders" title="">Sliders / Carousel</a></li>
-						<li><a href="google-map" title="">Google Maps</a></li>
-						<li><a href="widgets" title="">Widgets</a></li>
+						<li><a href="Controllertypography" title="">Typography</a></li>
+						<li><a href="Controllerpopupmodals" title="">Popups/Modals</a></li>
+						<li><a href="Controllerpostversions" title="">Post Versions</a></li>
+						<li><a href="Controllersliders" title="">Sliders / Carousel</a></li>
+						<li><a href="Controllergooglemap" title="">Google Maps</a></li>
+						<li><a href="Controllerwidgets" title="">Widgets</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -230,130 +230,130 @@
 	
 	<div class="topbar transperent stick">
 		<div class="logo">
-			<a title="" href="newsfeed"><img src="images/logo.png" alt=""></a>
+			<a title="" href="Controllernewsfeed"><img src="../images/logo.png" alt=""></a>
 		</div>
 		<nav>
 			<ul class="nav-list">
 				<li><a class="" href="#" title=""><i class="fa fa-home"></i> Home Pages</a>
 					<ul>
-						<li><a href="index" title="">Pitnik Default</a></li>
-						<li><a href="company-landing" title="">Company Landing</a></li>
-						<li><a href="career" title="">Pitjob</a>
+						<li><a href="Controllerindex" title="">Pitnik Default</a></li>
+						<li><a href="Controllercompanylanding" title="">Company Landing</a></li>
+						<li><a href="Controllercareer" title="">Pitjob</a>
 							<ul>
-								<li><a href="career" title="">Pitjob</a></li>
-								<li><a href="career-detail" title="">Pitjob Detail</a></li>
-								<li><a href="career-search-result" title="">Job seach page</a></li>
-								<li><a href="social-post-detail" title="">Social Post Detail</a></li>
+								<li><a href="Controllercareer" title="">Pitjob</a></li>
+								<li><a href="Controllercareerdetail" title="">Pitjob Detail</a></li>
+								<li><a href="Controllercareersearchresult" title="">Job seach page</a></li>
+								<li><a href="Controllersocialpostdetail" title="">Social Post Detail</a></li>
 							</ul>
 						</li>
-						<li><a href="pitpoint" title="">PitPoint</a>
+						<li><a href="Controllerpitpoint" title="">PitPoint</a>
 							<ul>
-								<li><a href="pitpoint" title="">PitPoint</a></li>
-								<li><a href="pitpoint-detail" title="">Pitpoint Detail</a></li>
-								<li><a href="pitpoint-list" title="">Pitpoint List style</a></li>
-								<li><a href="pitpoint-without-baner" title="">Pitpoint without Banner</a></li>
-								<li><a href="pitpoint-search-result" title="">Pitpoint Search</a></li>
+								<li><a href="Controllerpitpoint" title="">PitPoint</a></li>
+								<li><a href="Controllerpitpointdetail" title="">Pitpoint Detail</a></li>
+								<li><a href="Controllerpitpointlist" title="">Pitpoint List style</a></li>
+								<li><a href="Controllerpitpointwithoutbaner" title="">Pitpoint without Banner</a></li>
+								<li><a href="Controllerpitpointsearchresult" title="">Pitpoint Search</a></li>
 							</ul>
 						</li>
-						<li><a href="pittube" title="">Pittube</a>
+						<li><a href="Controllerpittube" title="">Pittube</a>
 							<ul>
-								<li><a href="pittube" title="">Pittube</a></li>
-								<li><a href="pittube-detail" title="">Pittube single</a></li>
-								<li><a href="pittube-category" title="">Pittube Category</a></li>
-								<li><a href="pittube-channel" title="">Pittube Channel</a></li>
-								<li><a href="pittube-search-result" title="">Pittube Search Result</a></li>
+								<li><a href="Controllerpittube" title="">Pittube</a></li>
+								<li><a href="Controllerpittubedetail" title="">Pittube single</a></li>
+								<li><a href="Controllerpittubecategory" title="">Pittube Category</a></li>
+								<li><a href="Controllerpittubechannel" title="">Pittube Channel</a></li>
+								<li><a href="Controllerpittubesearchresult" title="">Pittube Search Result</a></li>
 							</ul>
 						</li>
-						<li><a href="pitrest" title="">Pitrest</a></li>
-						<li><a href="redpit" title="">Redpit</a></li>
-						<li><a href="redpit-category" title="">Redpit Category</a></li>
-						<li><a href="soundnik" title="">Soundnik</a></li>
-						<li><a href="soundnik-detail" title="">Soundnik Single</a></li>
-						<li><a href="shop" title="">Shop</a></li>
-						<li><a href="classified" title="">Classified</a></li>
-						<li><a href="chat-messenger" title="">Messenger</a></li>
+						<li><a href="Controllerpitrest" title="">Pitrest</a></li>
+						<li><a href="Controllerredpit" title="">Redpit</a></li>
+						<li><a href="Controllerredpitcategory" title="">Redpit Category</a></li>
+						<li><a href="Controllersoundnik" title="">Soundnik</a></li>
+						<li><a href="Controllersoundnikdetail" title="">Soundnik Single</a></li>
+						<li><a href="Controllershop" title="">Shop</a></li>
+						<li><a href="Controllerclassified" title="">Classified</a></li>
+						<li><a href="Controllerchatmessenger" title="">Messenger</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-repeat"></i> Timeline</a>
 					<ul>
-						<li><a href="timeline" title="">Timeline</a></li>
-						<li><a href="timeline-photos" title="">Timeline Photos</a></li>
-						<li><a href="timeline-videos" title="">Timeline Videos</a></li>
-						<li><a href="timeline-groups" title="">Timeline Groups</a></li>
-						<li><a href="timeline-friends" title="">Timeline Friends</a></li>
-						<li><a href="timeline-friends2" title="">Timeline Friends-2</a></li>
-						<li><a href="about" title="">Timeline About</a></li>
-						<li><a href="blog-posts" title="">Timeline Blog</a></li>
-						<li><a href="friends-birthday" title="">Friends' Birthday</a></li>
-						<li><a href="newsfeed" title="">Newsfeed</a></li>
-						<li><a href="search-result" title="">Search Result</a></li>
+						<li><a href="Controllertimeline" title="">Timeline</a></li>
+						<li><a href="Controllertimelinephotos" title="">Timeline Photos</a></li>
+						<li><a href="Controllertimelinevideos" title="">Timeline Videos</a></li>
+						<li><a href="Controllertimelinegroups" title="">Timeline Groups</a></li>
+						<li><a href="Controllertimelinefriends" title="">Timeline Friends</a></li>
+						<li><a href="Controllertimelinefriends2" title="">Timeline Friends-2</a></li>
+						<li><a href="Controllerabout" title="">Timeline About</a></li>
+						<li><a href="Controllerblogposts" title="">Timeline Blog</a></li>
+						<li><a href="Controllerfriendsbirthday" title="">Friends' Birthday</a></li>
+						<li><a href="Controllernewsfeed" title="">Newsfeed</a></li>
+						<li><a href="Controllersearchresult" title="">Search Result</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-heart"></i> Favourit Page</a>
 					<ul>
-						<li><a href="fav-page" title="">Favourit Page</a></li>
-						<li><a href="fav-favers" title="">Fav Page Likers</a></li>
-						<li><a href="fav-events" title="">Fav Events</a></li>
-						<li><a href="fav-event-invitations" title="">Fav Event Invitations</a></li>
-						<li><a href="event-calendar" title="">Event Calendar</a></li>
-						<li><a href="fav-page-create" title="">Create New Page</a></li>
-						<li><a href="price-plans" title="">Price Plan</a></li>
+						<li><a href="Controllerfavpage" title="">Favourit Page</a></li>
+						<li><a href="Controllerfavfavers" title="">Fav Page Likers</a></li>
+						<li><a href="Controllerfavevents" title="">Fav Events</a></li>
+						<li><a href="Controllerfaveventinvitations" title="">Fav Event Invitations</a></li>
+						<li><a href="Controllereventcalendar" title="">Event Calendar</a></li>
+						<li><a href="Controllerfavpagecreate" title="">Create New Page</a></li>
+						<li><a href="Controllerpriceplans" title="">Price Plan</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-forumbee"></i> Forum</a>
 					<ul>
-						<li><a href="forum" title="">Forum</a></li>
-						<li><a href="forum-create-topic" title="">Forum Create Topic</a></li>
-						<li><a href="forum-open-topic" title="">Forum Open Topic</a></li>
-						<li><a href="forums-category" title="">Forum Category</a></li>
+						<li><a href="Controllerforum" title="">Forum</a></li>
+						<li><a href="Controllerforumcreatetopic" title="">Forum Create Topic</a></li>
+						<li><a href="Controllerforumopentopic" title="">Forum Open Topic</a></li>
+						<li><a href="Controllerforumscategory" title="">Forum Category</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-star-o"></i> Featured</a>
 					<ul>
-						<li><a href="chat-messenger" title="">Messenger (Chatting)</a></li>
-						<li><a href="notifications" title="">Notifications</a></li>
-						<li><a href="badges" title="">Badges</a></li>
-						<li><a href="faq" title="">Faq's</a></li>
-						<li><a href="contribution" title="">Contriburion Page</a></li>
-						<li><a href="manage-page" title="">Manage Page</a></li>
-						<li><a href="weather-forecast" title="">weather-forecast</a></li>
-						<li><a href="statistics" title="">Statics/Analytics</a></li>
-						<li><a href="shop-cart" title="">Shop Cart</a></li>
+						<li><a href="Controllerchatmessenger" title="">Messenger (Chatting)</a></li>
+						<li><a href="Controllernotifications" title="">Notifications</a></li>
+						<li><a href="Controllerbadges" title="">Badges</a></li>
+						<li><a href="Controllerfaq" title="">Faq's</a></li>
+						<li><a href="Controllercontribution" title="">Contriburion Page</a></li>
+						<li><a href="Controllermanagepage" title="">Manage Page</a></li>
+						<li><a href="Controllerweatherforecast" title="">weather-forecast</a></li>
+						<li><a href="Controllerstatistics" title="">Statics/Analytics</a></li>
+						<li><a href="Controllershopcart" title="">Shop Cart</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-gears"></i> Account Setting</a>
 					<ul>
-						<li><a href="setting" title="">Setting</a></li>
-						<li><a href="privacy" title="">Privacy</a></li>
+						<li><a href="Controllersetting" title="">Setting</a></li>
+						<li><a href="Controllerprivacy" title="">Privacy</a></li>
 
-						<li><a href="support-and-help" title="">Support & Help</a></li>
-						<li><a href="support-and-help-detail" title="">Support Detail</a></li>
-						<li><a href="support-and-help-search-result" title="">Support Search</a></li>
+						<li><a href="Controllersupportandhelp" title="">Support & Help</a></li>
+						<li><a href="Controllersupportandhelpdetail" title="">Support Detail</a></li>
+						<li><a href="Controllersupportandhelpsearchresult" title="">Support Search</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-lock"></i> Authentication</a>
 					<ul>
-						<li><a href="login" title="">Login Page</a></li>
-						<li><a href="register" title="">Register Page</a></li>
-						<li><a href="logout" title="">Logout Page</a></li>
-						<li><a href="coming-soon" title="">Coming Soon</a></li>
-						<li><a href="error-404" title="">Error 404</a></li>
-						<li><a href="error-404-2" title="">Error 404-2</a></li>
-						<li><a href="error-500" title="">Error 500</a></li>
+						<li><a href="Controllerlogin" title="">Login Page</a></li>
+						<li><a href="Controllerregister" title="">Register Page</a></li>
+						<li><a href="Controllerlogout" title="">Logout Page</a></li>
+						<li><a href="Controllercomingsoon" title="">Coming Soon</a></li>
+						<li><a href="Controllererror404" title="">Error 404</a></li>
+						<li><a href="Controllererror4042" title="">Error 404-2</a></li>
+						<li><a href="Controllererror500" title="">Error 500</a></li>
 					</ul>
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-wrench"></i> Tools</a>
 					<ul>
-						<li><a href="typography" title="">Typography</a></li>
-						<li><a href="popup-modals" title="">Popups/Modals</a></li>
-						<li><a href="post-versions" title="">Post Versions</a></li>
-						<li><a href="sliders" title="">Sliders / Carousel</a></li>
-						<li><a href="google-map" title="">Google Maps</a></li>
-						<li><a href="widgets" title="">Widgets</a></li>
+						<li><a href="Controllertypography" title="">Typography</a></li>
+						<li><a href="Controllerpopupmodals" title="">Popups/Modals</a></li>
+						<li><a href="Controllerpostversions" title="">Post Versions</a></li>
+						<li><a href="Controllersliders" title="">Sliders / Carousel</a></li>
+						<li><a href="Controllergooglemap" title="">Google Maps</a></li>
+						<li><a href="Controllerwidgets" title="">Widgets</a></li>
 					</ul>
 				</li>
 			</ul>
-			<a class="main-btn" title="" href="register" data-ripple="">Register Now</a>
+			<a class="main-btn" title="" href="Controllerregister" data-ripple="">Register Now</a>
 		</nav><!-- nav menu -->
 	</div><!-- topbar nav -->
 	
@@ -361,10 +361,10 @@
 		<div class="gap no-gap overlap22">
 			<div class="text-caro">
 				<div class="unit-text-caro">
-					<img src="images/resources/text-caro-1.jpg" alt="">
+					<img src="../images/resources/text-caro-1.jpg" alt="">
 					<div class="text-caro-meta">
 						<span>Pitnik Social Network</span>
-						<img src="images/icon-21.png" alt="">
+						<img src="../images/icon-21.png" alt="">
 						<h1><a href="#" title="">Trustable <span>Web Services</span></a></h1>
 						<p>
 							Lorem ipsum dolor sit amet, consectetuer adipiscing elit diam, 
@@ -373,10 +373,10 @@
 					</div>
 				</div>
 				<div class="unit-text-caro">
-					<img src="images/resources/text-caro-2.jpg" alt="">
+					<img src="../images/resources/text-caro-2.jpg" alt="">
 					<div class="text-caro-meta">
 						<span>Pitnik Social Network</span>
-						<img src="images/icon-21.png" alt="">
+						<img src="../images/icon-21.png" alt="">
 						<h1><a href="#" title="">Download <span>Mobile App</span></a></h1>
 						<p>
 							Lorem ipsum dolor sit amet, consectetuer adipiscing elit diam, 
@@ -402,7 +402,7 @@
 					</div>
 					<div class="col-lg-6 col-md-6">
 						<div class="welcome-avatar">
-							<img src="images/resources/welcome-mockup.png" alt="">
+							<img src="../images/resources/welcome-mockup.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -487,7 +487,7 @@
 						<div class="row masonry">	
 							<div class="hand col-lg-3 col-sm-6">
 								<div class="portfolio-box">
-									<img src="images/resources/folio-detail1.jpg" alt="">
+									<img src="../images/resources/folio-detail1.jpg" alt="">
 									<div class="overlinks">
 										<h4><a href="#" title="">Leather Shoes</a></h4>
 										<ul class="cate">
@@ -500,7 +500,7 @@
 							</div>
 							<div class="jewl col-lg-3 col-sm-6">
 								<div class="portfolio-box">
-									<img src="images/resources/folio-detail2.jpg" alt="">
+									<img src="../images/resources/folio-detail2.jpg" alt="">
 									<div class="overlinks">
 										<h4><a href="#" title="">Baby Chair</a></h4>
 										<ul class="cate">
@@ -513,7 +513,7 @@
 							</div>
 							<div class="accessory col-lg-3 col-sm-6">
 								<div class="portfolio-box">
-									<img src="images/resources/folio-detail3.jpg" alt="">
+									<img src="../images/resources/folio-detail3.jpg" alt="">
 									<div class="overlinks">
 										<h4><a href="#" title="">JBL Headphone</a></h4>
 										<ul class="cate">
@@ -526,7 +526,7 @@
 							</div>
 							<div class="diy col-lg-3 col-sm-6">
 								<div class="portfolio-box">
-									<img src="images/resources/folio-detail4.jpg" alt="">
+									<img src="../images/resources/folio-detail4.jpg" alt="">
 									<div class="overlinks">
 										<h4><a href="#" title="">Winter Cap</a></h4>
 										<ul class="cate">
@@ -539,7 +539,7 @@
 							</div>
 							<div class="cloth col-lg-3 col-sm-6">
 								<div class="portfolio-box">
-									<img src="images/resources/folio-detail5.jpg" alt="">
+									<img src="../images/resources/folio-detail5.jpg" alt="">
 									<div class="overlinks">
 										<h4><a href="#" title="">Men's Watch</a></h4>
 										<ul class="cate">
@@ -552,7 +552,7 @@
 							</div>
 							<div class="hand col-lg-3 col-sm-6">
 								<div class="portfolio-box">
-									<img src="images/resources/folio-detail6.jpg" alt="">
+									<img src="../images/resources/folio-detail6.jpg" alt="">
 									<div class="overlinks">
 										<h4><a href="#" title="">Winter Cap</a></h4>
 										<ul class="cate">
@@ -565,7 +565,7 @@
 							</div>
 							<div class="accessory col-lg-3 col-sm-6">
 								<div class="portfolio-box">
-									<img src="images/resources/folio-detail7.jpg" alt="">
+									<img src="../images/resources/folio-detail7.jpg" alt="">
 									<div class="overlinks">
 										<h4><a href="#" title="">Stylo Shoes</a></h4>
 										<ul class="cate">
@@ -578,7 +578,7 @@
 							</div>
 							<div class="jewl col-lg-3 col-sm-6">
 								<div class="portfolio-box">
-									<img src="images/resources/folio-detail8.jpg" alt="">
+									<img src="../images/resources/folio-detail8.jpg" alt="">
 									<div class="overlinks">
 										<h4><a href="#" title="">G-Sound Headphone</a></h4>
 										<ul class="cate">
@@ -608,12 +608,12 @@
 					</div>
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="blog-grid">
-							<figure><img src="images/resources/blog.jpg" alt=""></figure>
+							<figure><img src="../images/resources/blog.jpg" alt=""></figure>
 							<div class="blog-meta">
 								<div class="blog-head">
 									<ul class="postby">
 										<li>
-											<figure><img src="images/resources/postby1.jpg" alt=""></figure> 
+											<figure><img src="../images/resources/postby1.jpg" alt=""></figure> 
 											<span>Saden joe</span>
 										</li>
 										<li><i class="fa fa-heartfa fa-heart"></i><span>1.3k</span></li>
@@ -626,12 +626,12 @@
 					</div>
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="blog-grid">
-							<figure><img src="images/resources/blog2.jpg" alt=""></figure>
+							<figure><img src="../images/resources/blog2.jpg" alt=""></figure>
 							<div class="blog-meta">
 								<div class="blog-head">
 									<ul class="postby">
 										<li>
-											<figure><img src="images/resources/postby2.jpg" alt=""></figure> 
+											<figure><img src="../images/resources/postby2.jpg" alt=""></figure> 
 											<span>Andrew</span>
 										</li>
 										<li><i class="fa fa-heart"></i><span>1.3k</span></li>
@@ -644,12 +644,12 @@
 					</div>
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="blog-grid">
-							<figure><img src="images/resources/blog3.jpg" alt=""></figure>
+							<figure><img src="../images/resources/blog3.jpg" alt=""></figure>
 							<div class="blog-meta">
 								<div class="blog-head">
 									<ul class="postby">
 										<li>
-											<figure><img src="images/resources/postby3.jpg" alt=""></figure> 
+											<figure><img src="../images/resources/postby3.jpg" alt=""></figure> 
 											<span>Emma Lucy</span>
 										</li>
 										<li><i class="fa fa-heart"></i><span>1.3k</span></li>
@@ -676,7 +676,7 @@
 								<i>K</i>
 							</div>
 							<div class="counter-meta">
-								<img src="images/icon-4.png" alt="">
+								<img src="../images/icon-4.png" alt="">
 								<h2><a href="#" title="">Registerd Users</a></h2>
 								<span>Honors & Recognition</span>
 							</div>
@@ -689,7 +689,7 @@
 								<i>K</i>
 							</div>
 							<div class="counter-meta">
-								<img src="images/icon-5.png" alt="">
+								<img src="../images/icon-5.png" alt="">
                                 <h2><a href="#" title="">Post Published</a></h2>
 								<span>Honors & Recognition</span>
 							</div>
@@ -702,7 +702,7 @@
 								<i>K</i>
 							</div>
 							<div class="counter-meta">
-								<img src="images/icon-6.png" alt="">
+								<img src="../images/icon-6.png" alt="">
                                 <h2><a href="#" title="">People Online</a></h2>
 								<span>Honors & Recognition</span>
 							</div>
@@ -784,7 +784,7 @@
 					<div class="col-lg-6 col-md-6">
 						<div class="testi-caro">
 							<div class="testi-silver">
-								<span><img alt="" src="images/resources/testi-silver4.jpg"></span>
+								<span><img alt="" src="../images/resources/testi-silver4.jpg"></span>
 								<div class="testi-meta">
 									<p>
 										This app is very nice and lovely, when i am boring i am sit on the chair and play with this. its very lovely i love it.
@@ -794,7 +794,7 @@
 								</div>
 							</div>
 							<div class="testi-silver">
-								<span><img alt="" src="images/resources/testi-silver1.jpg"></span>
+								<span><img alt="" src="../images/resources/testi-silver1.jpg"></span>
 								<div class="testi-meta">
 									<p>
 										This app is very nice and lovely, when i am boring i am sit on the chair and play with this. its very lovely i love it.
@@ -804,7 +804,7 @@
 								</div>
 							</div>
 							<div class="testi-silver">
-								<span><img alt="" src="images/resources/testi-silver2.jpg"></span>
+								<span><img alt="" src="../images/resources/testi-silver2.jpg"></span>
 								<div class="testi-meta">
 									<p>
 										This app is very nice and lovely, when i am boring i am sit on the chair and play with this. its very lovely i love it.
@@ -814,7 +814,7 @@
 								</div>
 							</div>
 							<div class="testi-silver">
-								<span><img alt="" src="images/resources/testi-silver3.jpg"></span>
+								<span><img alt="" src="../images/resources/testi-silver3.jpg"></span>
 								<div class="testi-meta">
 									<p>
 										This app is very nice and lovely, when i am boring i am sit on the chair and play with this. its very lovely i love it.
@@ -845,35 +845,35 @@
 					<div class="col-lg-9 col-md-8">
 						<div class="team-carouzel">
 							<div class="team-member">
-								<img src="images/resources/team1.jpg" alt="">
+								<img src="../images/resources/team1.jpg" alt="">
 								<div class="team-info over-top">
 									<h2><a href="#" title="">Jasmine Jane</a></h2>
 									<span>Backend Developer</span>
 								</div>
 							</div>
 							<div class="team-member">
-								<img src="images/resources/team2.jpg" alt="">
+								<img src="../images/resources/team2.jpg" alt="">
 								<div class="team-info over-top">
 									<h2><a href="#" title="">Jhon winslet</a></h2>
 									<span>Developer</span>
 								</div>
 							</div>
 							<div class="team-member">
-								<img src="images/resources/team3.jpg" alt="">
+								<img src="../images/resources/team3.jpg" alt="">
 								<div class="team-info over-top">
 									<h2><a href="#" title="">Bob Larson</a></h2>
 									<span>Frontend Developer</span>
 								</div>
 							</div>
 							<div class="team-member">
-								<img src="images/resources/team4.jpg" alt="">
+								<img src="../images/resources/team4.jpg" alt="">
 								<div class="team-info over-top">
 									<h2><a href="#" title="">Bill Gates</a></h2>
 									<span>Ux/Ui Designer</span>
 								</div>
 							</div>
 							<div class="team-member">
-								<img src="images/resources/team5.jpg" alt="">
+								<img src="../images/resources/team5.jpg" alt="">
 								<div class="team-info over-top">
 									<h2><a href="#" title="">Liza Larson</a></h2>
 									<span>React Developer</span>
@@ -967,16 +967,16 @@
 				<div class="row">
 					<div class="col-md-12">
 						<ul class="sponsors">
-							<li><a href="#" title=""><img src="images/resources/sponsor-1.png" alt=""></a></li>
-							<li><a href="#" title=""><img src="images/resources/sponsor-2.png" alt=""></a></li>
-							<li><a href="#" title=""><img src="images/resources/sponsor-3.png" alt=""></a></li>
-							<li><a href="#" title=""><img src="images/resources/sponsor-4.png" alt=""></a></li>
-							<li><a href="#" title=""><img src="images/resources/sponsor-5.png" alt=""></a></li>
-							<li><a href="#" title=""><img src="images/resources/sponsor-1.png" alt=""></a></li>
-							<li><a href="#" title=""><img src="images/resources/sponsor-2.png" alt=""></a></li>
-							<li><a href="#" title=""><img src="images/resources/sponsor-3.png" alt=""></a></li>
-							<li><a href="#" title=""><img src="images/resources/sponsor-4.png" alt=""></a></li>
-							<li><a href="#" title=""><img src="images/resources/sponsor-5.png" alt=""></a></li>
+							<li><a href="#" title=""><img src="../images/resources/sponsor-1.png" alt=""></a></li>
+							<li><a href="#" title=""><img src="../images/resources/sponsor-2.png" alt=""></a></li>
+							<li><a href="#" title=""><img src="../images/resources/sponsor-3.png" alt=""></a></li>
+							<li><a href="#" title=""><img src="../images/resources/sponsor-4.png" alt=""></a></li>
+							<li><a href="#" title=""><img src="../images/resources/sponsor-5.png" alt=""></a></li>
+							<li><a href="#" title=""><img src="../images/resources/sponsor-1.png" alt=""></a></li>
+							<li><a href="#" title=""><img src="../images/resources/sponsor-2.png" alt=""></a></li>
+							<li><a href="#" title=""><img src="../images/resources/sponsor-3.png" alt=""></a></li>
+							<li><a href="#" title=""><img src="../images/resources/sponsor-4.png" alt=""></a></li>
+							<li><a href="#" title=""><img src="../images/resources/sponsor-5.png" alt=""></a></li>
 						</ul>
 					</div>
 				</div>
@@ -994,7 +994,7 @@
 						<p>
 							Signup now to receive latest news & exclusive and more offers.
 						</p>
-						<i><img src="images/envelop.png" alt=""></i>
+						<i><img src="../images/envelop.png" alt=""></i>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6">
@@ -1015,7 +1015,7 @@
 	
 	<footer class="style2 dark">
 		<div class="logo">
-			<img src="images/logo2.png" alt="">
+			<img src="../images/logo2.png" alt="">
 		</div>
 		<div class="share-article">
 			<a data-ripple="" href="#" title="" class="facebook"><i class="fa fa-facebook"></i></a>
@@ -1041,7 +1041,7 @@
 	<div class="popup-wraper subscription">
 		<div class="popup whitish high-opacity">
 			<a class="popup-closed" href="#" title=""><i class="fa fa-close"></i></a>
-			<div class="popup-bg" style="background-image:url(images/resources/deal-popup-bg.jpg);"></div>
+			<div class="popup-bg" style="background-image:url(../images/resources/deal-popup-bg.jpg);"></div>
 			<div class="sub-popup">
 				<h4>signup <span>newsletter</span></h4>
 				<p>Amco laboris nisi ut aliquip xea commodo consequt uilmes wilom nouklim velit esse cillum.</p>

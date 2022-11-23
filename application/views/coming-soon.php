@@ -7,13 +7,13 @@
 <div class="theme-layout">
 
 	<div class="gap2 mate-black medium-opacity vh100">
-		<div class="bg-image" style="background-image:url(images/resources/coming-soon-bg.jpg);"></div>
+		<div class="bg-image" style="background-image:url(../images/resources/Controllercomingsoon-bg.jpg);"></div>
         <div class="container">
         	<div class="row">
             	<div class="col-lg-12">
 					<div class="coming-head">
 						<div class="logo">
-							<a href="index" title=""><img src="images/logo.png" alt=""></a>
+							<a href="Controllerindex" title=""><img src="../images/logo.png" alt=""></a>
 						</div>
 						<ul class="social-circle ">
 							<li><a class="facebook-color" href="#" title=""><i class="fa fa-facebook"></i></a></li>
