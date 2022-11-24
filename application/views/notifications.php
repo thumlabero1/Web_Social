@@ -1062,7 +1062,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="fav-page" title="Favourit page" data-toggle="tooltip" data-placement="right">
+					<a href="Controllerfavpage" title="Favourit page" data-toggle="tooltip" data-placement="right">
 						<i class="fa fa-star-o"></i>
 					</a>
 				</li>
@@ -1084,7 +1084,7 @@
 				</li>
 				
 				<li>
-					<a href="support-and-help" title="Help" data-toggle="tooltip" data-placement="right">
+					<a href="Controllersupportandhelp" title="Help" data-toggle="tooltip" data-placement="right">
 						<i class="fa fa-question-circle-o">
 						</i>
 					</a>
@@ -1159,13 +1159,13 @@
 				</li>
 				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-heart"></i>Favourit Page</a>
 					<ul class="submenu">
-						<li><a href="fav-page" title="">Favourit Page</a></li>
-						<li><a href="fav-favers" title="">Fav Page Likers</a></li>
-						<li><a href="fav-events" title="">Fav Events</a></li>
-						<li><a href="fav-event-invitations" title="">Fav Event Invitations</a></li>
-						<li><a href="event-calendar" title="">Event Calendar</a></li>
-						<li><a href="fav-page-create" title="">Create New Page</a></li>
-						<li><a href="price-plans" title="">Price Plan</a></li>
+						<li><a href="Controllerfavpage" title="">Favourit Page</a></li>
+						<li><a href="Controllerfavfavers" title="">Fav Page Likers</a></li>
+						<li><a href="Controllerfavevents" title="">Fav Events</a></li>
+						<li><a href="Controllerfaveventinvitations" title="">Fav Event Invitations</a></li>
+						<li><a href="Controllereventcalendar" title="">Event Calendar</a></li>
+						<li><a href="Controllerfavpagecreate" title="">Create New Page</a></li>
+						<li><a href="Controllerpriceplans" title="">Price Plan</a></li>
 					</ul>
 				</li>
 				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-forumbee"></i>Forum</a>
@@ -1183,37 +1183,37 @@
 						<li><a href="controllerbadges" title="">Badges</a></li>
 						<li><a href="Controllerfaq" title="">Faq's</a></li>
 						<li><a href="contribution" title="">Contriburion Page</a></li>
-						<li><a href="manage-page" title="">Manage Page</a></li>
-						<li><a href="weather-forecast" title="">weather-forecast</a></li>
+						<li><a href="Controllermanagepage" title="">Manage Page</a></li>
+						<li><a href="Controllerweatherforecast" title="">weather-forecast</a></li>
 						<li><a href="Controllerstatistics" title="">Statics/Analytics</a></li>
-						<li><a href="shop-cart" title="">Shop Cart</a></li>
+						<li><a href="Controllershopcart" title="">Shop Cart</a></li>
 					</ul>
 				</li>
 				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-gears"></i>Account Setting</a>
 					<ul class="submenu">
 						<li><a href="Controllersetting" title="">Setting</a></li>
 						<li><a href="Controllerprivacy" title="">Privacy</a></li>
-						<li><a href="support-and-help" title="">Support & Help</a></li>
-						<li><a href="support-and-help-detail" title="">Support Detail</a></li>
-						<li><a href="support-and-help-search-result" title="">Support Search</a></li>
+						<li><a href="Controllersupportandhelp" title="">Support & Help</a></li>
+						<li><a href="Controllersupportandhelpdetail" title="">Support Detail</a></li>
+						<li><a href="Controllersupportandhelpsearchresult" title="">Support Search</a></li>
 					</ul>
 				</li>
 				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-lock"></i>Authentication</a>
 					<ul class="submenu">
-						<li><a href="login" title="">Login Page</a></li>
+						<li><a href="Controllerlogin" title="">Login Page</a></li>
 						<li><a href="Controllerregister" title="">Register Page</a></li>
 						<li><a href="Controllerlogout" title="">Logout Page</a></li>
-						<li><a href="coming-soon" title="">Coming Soon</a></li>
-						<li><a href="error-404" title="">Error 404</a></li>
-						<li><a href="error-404-2" title="">Error 404-2</a></li>
-						<li><a href="error-500" title="">Error 500</a></li>
+						<li><a href="Controllercomingsoon" title="">Coming Soon</a></li>
+						<li><a href="Controllererror404" title="">Error 404</a></li>
+						<li><a href="Controllererror4042" title="">Error 404-2</a></li>
+						<li><a href="Controllererror500" title="">Error 500</a></li>
 					</ul>
 				</li>
 				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-wrench"></i>Tools</a>
 					<ul class="submenu">
-						<li><a href="typography" title="">Typography</a></li>
-						<li><a href="popup-modals" title="">Popups/Modals</a></li>
-						<li><a href="post-versions" title="">Post Versions</a></li>
+						<li><a href="Controllertypography" title="">Typography</a></li>
+						<li><a href="Controllerpopupmodals" title="">Popups/Modals</a></li>
+						<li><a href="Controllerpostversions" title="">Post Versions</a></li>
 						<li><a href="Controllersliders" title="">Sliders</a></li>
 						<li><a href="Controllergooglemap" title="">Google Maps</a></li>
 						<li><a href="Controllerwidgets" title="">Widgets</a></li>
@@ -1248,7 +1248,7 @@
 													<li><a href="Controllersetting" title="">Update Profile Photo</a></li>
 													<li><a href="Controllersetting" title="">Update Header Photo</a></li>
 													<li><a href="Controllersetting" title="">Account Settings</a></li>
-													<li><a href="support-and-help" title="">Find Support</a></li>
+													<li><a href="Controllersupportandhelp" title="">Find Support</a></li>
 													<li><a class="bad-report" href="#" title="">Report Profile</a></li>
 													<li><a href="#" title="">Block Profile</a></li>
 												</ul>

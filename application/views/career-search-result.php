@@ -1041,7 +1041,7 @@
 		<div class="menu-left">
 			<ul class="left-menu">
 				<li><a href="Controllernewsfeed" title="Newsfeed Page" data-toggle="tooltip" data-placement="right"><i class="ti-magnet"></i></a></li>
-				<li><a href="fav-page" title="favourit page" data-toggle="tooltip" data-placement="right"><i class="fa fa-star-o"></i></a></li>
+				<li><a href="Controllerfavpage" title="favourit page" data-toggle="tooltip" data-placement="right"><i class="fa fa-star-o"></i></a></li>
 				<li><a href="Controllerstatistics" title="Account Stats" data-toggle="tooltip" data-placement="right"><i class="ti-stats-up"></i></a></li>
 				<li><a href="inbox" title="inbox" data-toggle="tooltip" data-placement="right"><i class="ti-import"></i></a></li>
 				<li><a href="messages" title="Messages" data-toggle="tooltip" data-placement="right"><i class="ti-comment-alt"></i></a></li>
@@ -1459,7 +1459,7 @@
 		</div>	
 	</section>
 
-	<a title="Your Cart Items" href="shop-cart" class="shopping-cart" data-toggle="tooltip">Cart <i class="fa fa-shopping-bag"></i><span>02</span></a>
+	<a title="Your Cart Items" href="Controllershopcart" class="shopping-cart" data-toggle="tooltip">Cart <i class="fa fa-shopping-bag"></i><span>02</span></a>
 
 	<div class="bottombar">
 		<div class="container">

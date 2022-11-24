@@ -1032,11 +1032,11 @@
 									<div class="help-list">
 										<h3>Getting Started</h3>
 										<ul>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>How to Create your account</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>post video on my account?</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>Inviting friends to join winku</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>How do I search for my friends?</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>Create and manage groups</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>How to Create your account</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>post video on my account?</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>Inviting friends to join winku</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>How do I search for my friends?</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>Create and manage groups</a></li>
 										</ul>
 										<a href="#" title="" data-ripple="">more help</a>
 									</div>
@@ -1045,11 +1045,11 @@
 									<div class="help-list">
 										<h3>General Settings</h3>
 										<ul>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>How to Create your account</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>post video on my account?</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>Inviting friends to join winku</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>How do I search for my friends?</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>Create and manage groups</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>How to Create your account</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>post video on my account?</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>Inviting friends to join winku</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>How do I search for my friends?</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>Create and manage groups</a></li>
 										</ul>
 										<a href="#" title="" data-ripple="">more help</a>
 									</div>
@@ -1058,11 +1058,11 @@
 									<div class="help-list">
 										<h3>Report Guidelines</h3>
 										<ul>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>How to Create your account</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>post video on my account?</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>Inviting friends to join winku</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>How do I search for my friends?</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>Create and manage groups</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>How to Create your account</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>post video on my account?</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>Inviting friends to join winku</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>How do I search for my friends?</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>Create and manage groups</a></li>
 										</ul>
 										<a href="#" title="" data-ripple="">more help</a>
 									</div>
@@ -1071,11 +1071,11 @@
 									<div class="help-list">
 										<h3>Technical Issues</h3>
 										<ul>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>How to Create your account</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>post video on my account?</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>Inviting friends to join winku</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>How do I search for my friends?</a></li>
-											<li><a href="support-and-help-detail" title=""><i class="ti-direction"></i>Create and manage groups</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>How to Create your account</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>post video on my account?</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>Inviting friends to join winku</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>How do I search for my friends?</a></li>
+											<li><a href="Controllersupportandhelpdetail" title=""><i class="ti-direction"></i>Create and manage groups</a></li>
 										</ul>
 										<a href="#" title="" data-ripple="">more help</a>
 									</div>

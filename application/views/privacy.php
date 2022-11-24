@@ -1036,7 +1036,7 @@ We value the privacy of our users and their rights to control their personal dat
 											<h5>Instructions</h5>
 											<span>Deceide whether your profile will be hidden from search engine and what kind of data you want to use to imporve the recommendation and ads you see <a href="#" title="">Learn more</a></span>
 										</div>
-										<p class="p-info"><a href="manage-page">Click here</a> to go widget and page setting area</p>
+										<p class="p-info"><a href="Controllermanagepage">Click here</a> to go widget and page setting area</p>
 									</div><!-- privacy -->
 									<div class="tab-pane fade" id="api" role="tabpanel">
 										<div class="set-title">

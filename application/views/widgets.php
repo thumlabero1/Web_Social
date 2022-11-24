@@ -1059,7 +1059,7 @@
 											</li>
 											<li>
 												<i class="ti-power-off"></i>
-												<a href="login" title="">Logout</a>
+												<a href="Controllerlogin" title="">Logout</a>
 											</li>
 										</ul>
 									</div><!-- Shortcuts -->

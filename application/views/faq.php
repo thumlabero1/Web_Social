@@ -944,7 +944,7 @@
 									</li>
 									<li>
 										<i class="ti-files"></i>
-										<a href="fav-page" title="">My pages</a>
+										<a href="Controllerfavpage" title="">My pages</a>
 									</li>
 									<li>
 										<i class="ti-user"></i>
