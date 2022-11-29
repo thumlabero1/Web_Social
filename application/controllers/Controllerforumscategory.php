@@ -9,7 +9,10 @@ class Controllerforumscategory extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('forums-category');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('forums-category', $dulieu, FALSE);
 	}
 
 }

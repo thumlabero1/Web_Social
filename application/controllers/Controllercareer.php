@@ -9,7 +9,10 @@ class Controllercareer extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('career');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('career', $dulieu, FALSE);
 	}
 
 }

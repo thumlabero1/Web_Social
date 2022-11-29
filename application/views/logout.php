@@ -70,7 +70,7 @@
 				</li>
 				<li><span>Timeline</span>
 					<ul>
-						<li><a href="Controllertimeline" title="">Timeline</a></li>
+						<li><a href="Controllerpostversions" title="">Timeline</a></li>
 						<li><a href="Controllertimelinephotos" title="">Timeline Photos</a></li>
 						<li><a href="Controllertimelinevideos" title="">Timeline Videos</a></li>
 						<li><a href="Controllertimelinegroups" title="">Timeline Groups</a></li>
@@ -213,7 +213,7 @@
 	
 	<div class="topbar stick">
 		<div class="logo">
-			<a title="" href="Controllernewsfeed"><img src="../images/logo.png" alt=""></a>
+			<a title="" href="Controllernewsfeed"><img src="" alt=""></a>
 		</div>
 		
 		<div class="top-area">

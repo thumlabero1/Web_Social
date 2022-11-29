@@ -9,7 +9,10 @@ class Controllersetting extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('setting');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('setting', $dulieu, FALSE);
 	}
 
 }

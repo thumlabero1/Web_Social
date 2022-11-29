@@ -9,7 +9,10 @@ class Controllerforumopentopic extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('forum-open-topic');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('forum-open-topic', $dulieu, FALSE);
 	}
 
 }

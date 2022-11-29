@@ -217,7 +217,7 @@
 	
 	<div class="topbar stick">
 		<div class="logo">
-			<a title="" href="Controllernewsfeed"><img src="../images/logo.png" alt=""></a>
+			<a title="" href="Controllernewsfeed"><img src="" alt=""></a>
 		</div>
 		<div class="top-area">
 			<div class="main-menu">
@@ -802,7 +802,7 @@
 				</li>
 				<li><a class="" href="#" title=""><i class="fa fa-repeat"></i> Timeline</a>
 					<ul>
-						<li><a href="Controllertimeline" title="">Timeline</a></li>
+						<li><a href="Controllerpostversions" title="">Timeline</a></li>
 						<li><a href="Controllertimelinephotos" title="">Timeline Photos</a></li>
 						<li><a href="Controllertimelinevideos" title="">Timeline Videos</a></li>
 						<li><a href="Controllertimelinegroups" title="">Timeline Groups</a></li>
@@ -1131,7 +1131,7 @@
 				</li>
 				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-repeat"></i>Timeline</a>
 					<ul class="submenu">
-						<li><a href="Controllertimeline" title="">Timeline</a></li>
+						<li><a href="Controllerpostversions" title="">Timeline</a></li>
 						<li><a href="Controllertimelinephotos" title="">Timeline Photos</a></li>
 						<li><a href="Controllertimelinevideos" title="">Timeline Videos</a></li>
 						<li><a href="Controllertimelinegroups" title="">Timeline Groups</a></li>
@@ -1275,7 +1275,7 @@
 										<div class="col-lg-10 col-md-9">
 											<ul class="profile-menu">
 												<li>
-													<a class="" href="Controllertimeline">Timeline</a>
+													<a class="" href="Controllerpostversions">Timeline</a>
 												</li>
 												<li>
 													<a class="active" href="Controllerabout">About</a>

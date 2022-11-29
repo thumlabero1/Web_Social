@@ -9,7 +9,10 @@ class Controllerfaveventinvitations extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('fav-event-invitations');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('fav-event-invitations', $dulieu, FALSE);
 	}
 
 }

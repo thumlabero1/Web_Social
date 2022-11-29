@@ -16,9 +16,9 @@
 <?php require_once 'fixed-sidebar-left.php'; ?>
 
 <!-- section -->
-
+<?php foreach ($dulieucontroller as $value): ?>
 <?php require_once 'section-bar.php'; ?>
-
+<?php endforeach; ?>
 <!-- section -->
 
 	<a title="Your Cart Items" href="Controllershopcart.php" class="shopping-cart" data-toggle="tooltip">Cart <i class="fa fa-shopping-bag"></i><span>02</span></a>

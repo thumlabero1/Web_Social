@@ -9,7 +9,10 @@ class Controllerfriendsbirthday extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('friends-birthday');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('friends-birthday', $dulieu, FALSE);
 	}
 
 }

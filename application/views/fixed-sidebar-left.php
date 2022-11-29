@@ -105,7 +105,7 @@
 				</li>
 				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-repeat"></i>Timeline</a>
 					<ul class="submenu">
-						<li><a href="Controllertimeline" title="">Timeline</a></li>
+						<li><a href="Controllerpostversions" title="">Timeline</a></li>
 						<li><a href="Controllertimelinephotos" title="">Timeline Photos</a></li>
 						<li><a href="Controllertimelinevideos" title="">Timeline Videos</a></li>
 						<li><a href="Controllertimelinegroups" title="">Timeline Groups</a></li>

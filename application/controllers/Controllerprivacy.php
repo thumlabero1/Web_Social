@@ -9,7 +9,10 @@ class Controllerprivacy extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('privacy');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('privacy', $dulieu, FALSE);
 	}
 
 }

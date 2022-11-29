@@ -9,7 +9,10 @@ class Controllerpittubedetail extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('pittube-detail');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('pittube-detail', $dulieu, FALSE);
 	}
 
 }

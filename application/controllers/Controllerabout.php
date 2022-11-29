@@ -9,7 +9,11 @@ class Controllerabout extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('about');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		
+		$this->load->view('about',$dulieu, FALSE);
 	}
 
 }

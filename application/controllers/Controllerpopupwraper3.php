@@ -9,7 +9,10 @@ class Controllerpopupwraper3 extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('popup-wraper3');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('popup-wraper3', $dulieu, FALSE);
 	}
 
 }

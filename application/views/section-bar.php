@@ -451,9 +451,10 @@
 															</ul>
 														</div>
 													</div>
-													<ins><a href="time-line" title="">Jack Carter</a> Post Album</ins>
+													<ins><a href="time-line" title=""><?= $value['name'] ?></a> Post Album</ins>
 													<span><i class="fa fa-globe"></i> published: September,15 2020 19:PM </span>
 												</div>
+												
 												<div class="post-meta">
 													<p>
 														Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero.
@@ -624,7 +625,9 @@
 											</div>
 
 										</div>
-									</div><!-- album post -->
+										
+									</div>
+									<!-- album post -->
 									<div class="central-meta item">
 										<div class="user-post">
 											<div class="friend-info">

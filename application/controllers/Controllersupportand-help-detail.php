@@ -9,7 +9,10 @@ class Controllersupportandhelpdetail extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('support-and-help-detail');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('support-and-help-detail', $dulieu, FALSE);
 	}
 
 }

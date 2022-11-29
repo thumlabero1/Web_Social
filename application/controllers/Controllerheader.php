@@ -9,7 +9,10 @@ class Controllerheader extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('header');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('header', $dulieu, FALSE);
 	}
 
 }

@@ -9,7 +9,10 @@ class Controllerfixedsidebarleft extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('fixed-sidebar-left');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('fixed-sidebar-left', $dulieu, FALSE);
 	}
 
 }

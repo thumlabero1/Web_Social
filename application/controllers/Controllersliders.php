@@ -9,7 +9,10 @@ class Controllersliders extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('sliders');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('sliders', $dulieu, FALSE);
 	}
 
 }

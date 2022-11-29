@@ -9,7 +9,10 @@ class Controllersocialpostdetail extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('social-post-detail');
+		$this->load->model('socialData_Model');
+		$dulieu = $this->socialData_Model->getdatabase();
+		$dulieu = array('dulieucontroller' => $dulieu );
+		$this->load->view('social-post-detail', $dulieu, FALSE);
 	}
 
 }
