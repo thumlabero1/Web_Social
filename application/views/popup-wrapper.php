@@ -93,7 +93,7 @@
 					<figure><img src="../images/resources/share-post.jpg" alt=""></figure>
 					<div class="friend-info">
 						<figure>
-							<img alt="" src="../images/resources/admin.jpg">
+							<img alt="" src="../images/resources/admin11.jpg" style="width:45 px height: 45px">
 						</figure>
 						<div class="friend-name">
 							<ins><a title="" href="time-line">Jack Carter</a> share <a title="" href="#">link</a></ins>

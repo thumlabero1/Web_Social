@@ -389,7 +389,7 @@
 										<i>Sunday</i>
 										<figure>
 											<span>"Celebrity looks Beautiful in that outfit! We should see each"</span>
-											<img src="../images/resources/admin.jpg" alt="">
+											<img src="../images/resources/admin11.jpg" style="width:45 px height: 45px" alt="">
 										</figure>
 									</div>
 								</a>
@@ -747,7 +747,7 @@
 			</ul>
 			<div class="user-img">
 				<h5>Jack Carter</h5>
-				<img src="../images/resources/admin.jpg" alt="">
+				<img src="../images/resources/admin11.jpg" alt="">
 				<span class="status f-online"></span>
 				<div class="user-setting">
 					<span class="seting-title">Chat setting <a href="#" title="">see all</a></span>
@@ -1264,7 +1264,7 @@
 					</div>
 					<div class="col-lg-2 col-1-5">
 						<figure class="pitrest-post">
-							<a class="user-avatr" href="Controllerabout" title="Jack Carter"><img src="../images/resources/admin.jpg" alt=""></a>
+							<a class="user-avatr" href="Controllerabout" title="Jack Carter"><img src="../images/resources/admin11.jpg" alt=""></a>
 							<img src="../images/resources/pitrest1.jpg" alt="">
 							<h5 class="pitrest-pst-hding">
 								<a href="social-post-detail" title="">Beautiful Interior infractures</a></h5>
@@ -2217,7 +2217,7 @@
 				<div class="postbox">
 				<div class="new-postbox">
 					<figure>
-						<img src="../images/resources/admin.jpg" alt="">
+						<img src="../images/resources/admin11.jpg" alt="">
 					</figure>
 					<div class="newpst-input">
 						<form method="post">
@@ -2332,7 +2332,7 @@
 					<figure><img src="../images/resources/share-post.jpg" alt=""></figure>
 					<div class="friend-info">
 						<figure>
-							<img alt="" src="../images/resources/admin.jpg">
+							<img alt="" src="../images/resources/admin11.jpg">
 						</figure>
 						<div class="friend-name">
 							<ins><a title="" href="time-line">Jack Carter</a> share <a title="" href="#">link</a></ins>

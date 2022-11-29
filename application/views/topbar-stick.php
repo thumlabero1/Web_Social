@@ -159,7 +159,7 @@
 										<i>Sunday</i>
 										<figure>
 											<span>"Celebrity looks Beautiful in that outfit! We should see each"</span>
-											<img src="../images/resources/admin.jpg" alt="">
+											<img src="../images/resources/admin11.jpg" style="width:45 px height: 45px" alt="">
 										</figure>
 									</div>
 								</a>
@@ -517,7 +517,7 @@
 			</ul>
 			<div class="user-img">
 				<h5>Jack Carter</h5>
-				<img src="../images/resources/admin.jpg" alt="">
+				<img src="../images/resources/admin11.jpg" alt="">
 				<span class="status f-online"></span>
 				<div class="user-setting">
 					<span class="seting-title">Chat setting <a href="#" title="">see all</a></span>

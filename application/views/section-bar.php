@@ -243,7 +243,7 @@
 									<span class="create-post">Create post</span>
 									<div class="new-postbox">
 										<figure>
-											<img src="../images/resources/admin.jpg" alt="">
+											<img src="../images/resources/admin11.jpg" style="width:45 px height: 45px" alt="">
 										</figure>
 										<div class="newpst-input">
 											<form method="post">

@@ -390,7 +390,7 @@
 										<i>Sunday</i>
 										<figure>
 											<span>"Celebrity looks Beautiful in that outfit! We should see each"</span>
-											<img src="../images/resources/admin.jpg" alt="">
+											<img src="../images/resources/admin11.jpg" style="width:45 px height: 45px" alt="">
 										</figure>
 									</div>
 								</a>
@@ -748,7 +748,7 @@
 			</ul>
 			<div class="user-img">
 				<h5>Jack Carter</h5>
-				<img src="../images/resources/admin.jpg" alt="">
+				<img src="../images/resources/admin11.jpg" alt="">
 				<span class="status f-online"></span>
 				<div class="user-setting">
 					<span class="seting-title">Chat setting <a href="#" title="">see all</a></span>
@@ -970,7 +970,7 @@
 									</li>
 									<li class="nav-item ">
 										<a class="" href="#link2" data-toggle="tab">
-											<figure><img src="../images/resources/admin.jpg" alt="">
+											<figure><img src="../images/resources/admin11.jpg" alt="">
 												<span class="status f-away"></span>
 											</figure>
 											<div class="user-name">
@@ -1366,7 +1366,7 @@
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user5.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user6.jpg" alt=""></li>
-														<li><img src="../images/resources/admin2.jpg" alt=""></li>
+														<li><img src="../images/resources/admin22.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user1.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user3.jpg" alt=""></li>
@@ -1382,7 +1382,7 @@
 									<div class="col-lg-12">
 										<div class="mesg-area-head">
 											<div class="active-user">
-												<figure><img src="../images/resources/admin.jpg" alt="">
+												<figure><img src="../images/resources/admin11.jpg" alt="">
 													<span class="status f-away"></span>
 												</figure>
 												<div>
@@ -1498,7 +1498,7 @@
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user5.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user6.jpg" alt=""></li>
-														<li><img src="../images/resources/admin2.jpg" alt=""></li>
+														<li><img src="../images/resources/admin22.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user1.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user3.jpg" alt=""></li>
@@ -1630,7 +1630,7 @@
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user5.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user6.jpg" alt=""></li>
-														<li><img src="../images/resources/admin2.jpg" alt=""></li>
+														<li><img src="../images/resources/admin22.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user1.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user3.jpg" alt=""></li>
@@ -1762,7 +1762,7 @@
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user5.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user6.jpg" alt=""></li>
-														<li><img src="../images/resources/admin2.jpg" alt=""></li>
+														<li><img src="../images/resources/admin22.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user1.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user3.jpg" alt=""></li>
@@ -1894,7 +1894,7 @@
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user5.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user6.jpg" alt=""></li>
-														<li><img src="../images/resources/admin2.jpg" alt=""></li>
+														<li><img src="../images/resources/admin22.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user1.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user3.jpg" alt=""></li>
@@ -2026,7 +2026,7 @@
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user5.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user6.jpg" alt=""></li>
-														<li><img src="../images/resources/admin2.jpg" alt=""></li>
+														<li><img src="../images/resources/admin22.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user1.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user3.jpg" alt=""></li>
@@ -2158,7 +2158,7 @@
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user5.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user6.jpg" alt=""></li>
-														<li><img src="../images/resources/admin2.jpg" alt=""></li>
+														<li><img src="../images/resources/admin22.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user1.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user3.jpg" alt=""></li>
@@ -2290,7 +2290,7 @@
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user5.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user6.jpg" alt=""></li>
-														<li><img src="../images/resources/admin2.jpg" alt=""></li>
+														<li><img src="../images/resources/admin22.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user1.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user3.jpg" alt=""></li>
@@ -2422,7 +2422,7 @@
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user5.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user6.jpg" alt=""></li>
-														<li><img src="../images/resources/admin2.jpg" alt=""></li>
+														<li><img src="../images/resources/admin22.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user1.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user3.jpg" alt=""></li>
@@ -2554,7 +2554,7 @@
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user5.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user6.jpg" alt=""></li>
-														<li><img src="../images/resources/admin2.jpg" alt=""></li>
+														<li><img src="../images/resources/admin22.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user1.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user4.jpg" alt=""></li>
 														<li><img src="../images/resources/audio-user3.jpg" alt=""></li>
