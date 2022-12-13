@@ -1145,10 +1145,10 @@
 				</li>
 				<li class="menu-item-has-children"><a class="" href="#" title=""><i class="fa fa-repeat"></i>Timeline</a>
 					<ul class="submenu">
-						<li><a href="timeline" title="">Timeline</a></li>
-						<li><a href="timeline-photos" title="">Timeline Photos</a></li>
-						<li><a href="timeline-videos" title="">Timeline Videos</a></li>
-						<li><a href="timeline-groups" title="">Timeline Groups</a></li>
+						<li><a href="Controllertimeline" title="">Timeline</a></li>
+						<li><a href="Controllertimelinephotos" title="">Timeline Photos</a></li>
+						<li><a href="Controllertimelinevideos" title="">Timeline Videos</a></li>
+						<li><a href="Controllertimelinegroups" title="">Timeline Groups</a></li>
 						<li><a href="Controllertimelinefriends" title="">Timeline Friends</a></li>
 						<li><a href="Controllertimelinefriends2" title="">Timeline Friends-2</a></li>
 						<li><a href="Controllerabout" title="">Timeline About</a></li>
@@ -1311,7 +1311,7 @@
 																<a href="Controllertimelinefriends2">Followers</a>
 															</li>
 															<li>
-																<a href="timeline-photos">Photos</a>
+																<a href="Controllertimelinephotos">Photos</a>
 															</li>
 														</ul>
 													</div>
